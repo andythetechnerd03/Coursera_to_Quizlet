@@ -1,0 +1,3292 @@
+How is Walmart reported to have addressed its analytical needs?
+A: Social media 
+B: Code sharing
+C: Outsourcing
+D: Crowdsourcing 
+E: None of the options is correct
+---
+Crowdsourcing 
+</>
+What is the average base salary of a data scientist reported by the New York Times? 
+A: $100,000
+B: $150,000
+C: $112,000
+D: $16 per hour
+E: $85,000 + Bonus
+---
+$112,000
+</>
+According to professor Haider, the three important qualities to possess in order to succeed as a data scientist are:
+A: Judgemental.
+B: Curious.
+C: Good Story Teller (Argumentative).
+D: Proficient in Programming.
+E: Good at Math and Statistics.
+---
+Judgemental.
+Curious.
+Good Story Teller (Argumentative).
+</>
+According to the reading, how does the author define data science?
+A: Data science is the art of uncovering the hidden secrets in data.
+B: Data science is a way of understanding things and understanding the world.
+C: Data science is a physical science like physics or chemistry
+D: Data science is what data scientists do.
+E: Data science is some data and more science.
+---
+Data science is what data scientists do.
+</>
+What is admirable about Dr. Patil’s definition of a data scientist is that it limits data science to activities involving machine learning.
+A: False.
+B: True.
+---
+False.
+</>
+According to the reading, what characteristics are said to be exhibited by the best data scientists?
+A: Really curious people who ask good questions and have at least 10 years of experience.
+B: Curious individuals who ask good questions and are O.K. dealing with unstructured situations.
+C: Really curious engineers and statisticians.
+D: Really curious people who ask good questions.
+E: Thinkers who are really curious and hold a Ph.D.
+---
+Curious individuals who ask good questions and are O.K. dealing with unstructured situations.
+</>
+What is an example of a data reduction algorithm?
+A: Prior Variable Analysis.
+B: Cojoint Analysis.
+C: A/B Testing.
+D: Principal Component Analysis.
+---
+Principal Component Analysis.
+</>
+After the data are appropriately processed, transformed, and stored, what is a good starting point for data mining?
+A: Machine learning.
+B: Data Visualization.
+C: Non-parametric methods.
+D: Creating a relational database.
+---
+Data Visualization.
+</>
+“Formal evaluation could include testing the predictive capabilities of the models on observed data to see how effective and efficient the algorithms have been in reproducing data.” This is known as:
+A: In-sample forecast.
+B: Prototyping.
+C: Reverse engineering.
+D: Overfitting.
+---
+In-sample forecast.
+</>
+The Untied States Economic Forecast is a publication by McKinsey University Press.
+A: True.
+B: False.
+---
+False.
+</>
+The report discussed in the reading successfully did the job of using data and analytics to generate the likely economic scenarios.
+A: True.
+B: False.
+---
+True.
+</>
+According to the reading, in order to produce a compelling narrative, initial planning and conceptualizing of the final deliverable is of extreme importance.
+A: False.
+B: True.
+---
+True.
+</>
+The results section is where you present:
+A: The empirical findings.
+B: R Squared.
+C: The conclusion.
+D: The methods used.
+---
+The empirical findings.
+</>
+The discussion section is where you:
+A: Highlight how your findings provide the ultimate missing piece to the puzzle.
+B: Introduce the research methods and data sources used for the analysis.
+C: Rely on the power of narrative to enable numbers to communicate your important findings to the readers.
+D: Refer the reader to the research question and the knowledge gaps you identified earlier.
+---
+Highlight how your findings provide the ultimate missing piece to the puzzle.
+Rely on the power of narrative to enable numbers to communicate your important findings to the readers.
+Refer the reader to the research question and the knowledge gaps you identified earlier.
+</>
+According to the reading, what is an example of housekeeping?
+A: Adding a list of references.
+B: Adding slide numbers.
+C: Adding headings to charts.
+D: Saving the report as a PDF file.
+---
+Adding a list of references.
+</>
+According to the Module 1 reading, “The Sexiest Job in the 21st Century”, a report by the McKinsey Global Institute, by 2018, it is projected that there will be a shortage of people with deep analytical skills in the United States. What is the size of this shortage?
+A: 140,000 – 190,000 people
+B: 800,000 – 900,000 people
+C: 120,000 people
+D: 3 – 6 million people
+E: 20,000 – 50,000 people
+---
+140,000 – 190,000 people
+</>
+According to the Module 1 reading, “The Sexiest Job in the 21st Century”, data Science was called the sexiest job of what century by Harvard Business Review?
+A: 19th century
+B: 20th century
+C: 21st century
+D: 22nd century
+---
+21st century
+</>
+According to the Module 1 reading "What Makes Someone a Data Scientist”, Hal Varian, the chief economist at Google, declared that “the ____ job in the next ten years will be statisticians”?
+A: Richest
+B: Easiest
+C: Sexy
+D: Worst
+---
+Sexy
+</>
+According to the Module 1 reading "What Makes Someone a Data Scientist”, the author defines a _______ as someone who finds solutions to problems by analyzing data using appropriate tools and then tells stories to communicate their findings to the relevant stakeholders.
+A: Data scientist
+B: Statistician
+C: Data analyst
+D: Data Engineer
+---
+Data scientist
+</>
+According to the Module 2 reading “Data Mining”, the output of a data mining exercise largely depends on the quality of what?
+A: The material
+B: The data
+C: The data scientist
+D: The project
+---
+The data
+</>
+According to the Module 2 reading, “Data Mining”, when data are missing in a systematic way, you can simply extrapolate the data or impute the missing data by filling in the average of the values around the missing data.
+A: False.
+B: True.
+---
+False.
+</>
+Based on the Module 2 reading, "Regression”, the real added value of the author's research on what type of properties is quantifying the magnitude of relationships between housing prices and different determinants?
+A: Residential real estate
+B: Foreclosed 
+C: Commercial real estate
+D: Vacant
+---
+Residential real estate
+</>
+Based on the Module 2 reading, "Regression”, the author’s research revealed that adding what additional room had a bigger impact than adding a bedroom?
+A: Theater room
+B: Study
+C: Playroom
+D: Washroom
+---
+Washroom
+</>
+According to the Module 3 reading, "The Final Deliverable”, the ultimate purpose of analytics is to communicate findings to what people to formulate policy or strategy?
+A: Marketing
+B: Stakeholders
+C: CEO’s
+D: Salespeople
+---
+Stakeholders
+</>
+Based on the Module 3 reading, "The Final Deliverable”, what is the role of a data scientist??
+A: Managing a team of analysts to create a predictive model.
+B: Using the data to put together a story that boosts financial outlooks.
+C: Using insights to build a narrative to communicate findings.
+D: Developing a strategy to fix the problems in the findings.
+---
+Using insights to build a narrative to communicate findings.
+</>
+Based on the Module 3 reading, “The Report Structure”, regardless of the length of the final deliverable, the author recommends that it includes a cover page, table of contents, executive summary, a methodology section, and a what?
+A: Project scope statement
+B: Discussion section
+C: List of people who worked on the project
+D: Copy of your data
+---
+Discussion section
+</>
+Based on the Module 3 reading, “The Report Structure”, an introductory section is always helpful in setting up the problem for the reader who might be what?
+A: In sales
+B: Looking for the statistical calculations
+C: Wanting to know the research methods
+D: New to the topic
+---
+New to the topic
+</>
+Which of the following statements is true?
+A: Python is the most popular language in data science.
+B: 80% of data scientists worldwide use Python.
+C: Python is useful for AI, machine learning, web development, and IoT.
+ 
+D: Keras, Scikit-learn, Matplotlib, Pandas, and TensorFlow are all Python libraries
+E: All of the above
+---
+All of the above
+</>
+Which of the following are SQL databases? (Select all that apply.)
+A: PostgreSQL
+B: CouchDB
+C: MongoDB
+D: MySQL
+E: MariaDB
+F: Oracle
+---
+PostgreSQL
+MySQL
+MariaDB
+Oracle
+</>
+Which statement is not  true about Open Source and Free Software? 
+
+A: Free Software and Open Source can be used interchangeably. 
+B: Free Software can always be run, studied, modified and redistributed with or without changes.
+C: Most of Free Software licenses also qualify for Open Source.
+D: Open Source Software can be modified without sharing the modified source code depending on the Open Source license.
+---
+Free Software and Open Source can be used interchangeably. 
+</>
+Is the following statement true or false: R integrates well with other computer languages like C++, Java, C, .Net and Python.
+A: True
+B: False
+---
+True
+</>
+Which of the following languages can be used for data science?
+A: R
+B: Julia
+C: Java
+D: Javascript
+E: Scala
+F: SQL
+G: All of the above
+---
+All of the above
+</>
+Which of the following is not used to make Artificial Intelligence and Machine Learning possible?  
+A: Oracle
+B: PyTorch
+C: TensorFlow.js
+D: Apache Spark
+E: Caffe
+---
+Oracle
+</>
+Which of the following are common tasks in Data Science? (Select all that apply)
+A: Data Management
+B: Data Integration and Transformation
+C: Data Visualization
+D: Model Building
+E: Model Deployment
+F: Model Monitoring and Assessment
+---
+Data Management
+Data Integration and Transformation
+Data Visualization
+Model Building
+Model Deployment
+Model Monitoring and Assessment
+</>
+Which of the following are data management tools? (Select all that apply.)
+A: GitHub
+B: MySQL
+C: PostgreSQL
+D: KubeFlow
+E: PixieDust
+---
+MySQL
+PostgreSQL
+</>
+Which of the following are Data Integration and Transformation tools? (Select all that apply.)
+A: Cassandra
+B: Apache Kafka
+C: Apache Nifi
+D: Apache AirFlow
+E: Ceph
+---
+Apache Kafka
+Apache Nifi
+Apache AirFlow
+</>
+Which statement about JupyterLab is correct?
+A: JuypterLab can run R code only.
+B: JuypterLab can run R and Python code only.
+C: JuypterLab can run R and Python code in addition to other programming languages.
+D: JuypterLab can run Python code only.
+---
+JuypterLab can run R and Python code in addition to other programming languages.
+</>
+Which statement about RStudio is correct?
+A: RStudio is the primary choice for development in the R programming language.
+B: RStudio is the primary choice for web development.
+C: RStudio is the primary choice for development in the Python programming language.
+---
+RStudio is the primary choice for development in the R programming language.
+</>
+Which statements about IBM Watson Studio and OpenScale are correct? (Select all that apply.)
+A: Watson Studio together with Watson OpenScale is a database management system.
+B: Watson Studio together with Watson OpenScale covers the complete development life cycle for all data science, machine learning and AI tasks.
+C: Watson Studio together with Watson OpenScale is available as a Cloud offering as well as a package running on top of Kubernetes/RedHat OpenShift in a local data center called IBM Cloud Pak for Data.
+---
+Watson Studio together with Watson OpenScale covers the complete development life cycle for all data science, machine learning and AI tasks.
+Watson Studio together with Watson OpenScale is available as a Cloud offering as well as a package running on top of Kubernetes/RedHat OpenShift in a local data center called IBM Cloud Pak for Data.
+</>
+Which scientific computing library provides data structures and data analysis tools for Python?
+A: TensorFlow
+B: Pandas
+C: YumPies
+D: Seahorse
+---
+Pandas
+</>
+What does the acronym API stand for?
+A: Abstract Python Interface
+B: Application Programming Interface
+C: Algorithmic Programming Interface
+D: Abstract Programming Interface
+---
+Application Programming Interface
+</>
+True or False: Open data is always distributed under a Community Data License Agreement.
+A: True 
+B: False
+---
+False
+</>
+Which of the following is not a type of Machine Learning?
+A: Unsupervised learning
+B: Supervised learning
+C: Reinforcement learning
+D: Supervised teaching
+---
+Supervised teaching
+</>
+Which of the following is NOT a deep learning framework?
+A: Keras
+B: TensorFlow
+C: PyTorch
+D: Tommy
+---
+Tommy
+</>
+Fill in the blank: The MAX model-serving microservices expose a _________________ that applications use to consume a model.
+A: Java API
+B: REST API
+C: Python API
+D: Scala API
+---
+REST API
+</>
+Which are the three most used languages for data science? (Select all that apply.)
+A: Python
+B: Java
+C: Scala
+D: SQL
+E: R
+---
+Python
+SQL
+R
+</>
+Is it possible to use machine learning within a web browser with Javascript?
+A: Yes
+B: No
+---
+Yes
+</>
+Comma Separated Values (CSV) is a commonly used format to store:
+A: Hierarchical or network data
+B: Tabular data
+C: All of the above
+---
+Tabular data
+</>
+Classification models can be used to determine whether:
+A: An email is likely spam.
+B: A video contains a specific sound.
+C: An image contains a dog.
+D: All of the above.
+---
+All of the above.
+</>
+Fill in the blank:   ________________ is the heart of every organization.
+A: Integration
+B: The cloud
+C: Data
+D: Open source
+---
+Data
+</>
+What does the “BI” in BI Tools stand for?
+A: Business Integration
+B: Build Integration
+C: Build Information
+D: Business Intelligence
+---
+Business Intelligence
+</>
+Which of the following functions do Jupyter Notebook unify?
+A: Editing and execution of source code.
+B: Editing and display of documentation.
+C: Visualization of charts.
+D: All of the above.
+---
+All of the above.
+</>
+Which statement is true about Jupyter Notebook?
+A: Jupyter Notebook is a commercial product of IBM.
+B: Jupyter Notebook is free and open source.
+---
+Jupyter Notebook is free and open source.
+</>
+What is a Jupyter Notebook kernel?
+A: It is a wrapper running on the Jupyter server encapsulating the programming language interpreter.
+B: It is part of the operating system the Jupyter server runs on.
+---
+It is a wrapper running on the Jupyter server encapsulating the programming language interpreter.
+</>
+Which of the following functions does RStudio unify? (Select all that apply.)
+A: Storing of data.
+B: Editing and execution of source code.
+C: Display of the R Console.
+D: Visualization of plots.
+E: Visualization of data in table form.
+---
+Editing and execution of source code.
+Display of the R Console.
+Visualization of plots.
+Visualization of data in table form.
+</>
+Which statement is true about the RStudio IDE?
+A: RStudio is free and open source.
+B: RStudio is a commercial product of IBM.
+---
+RStudio is free and open source.
+</>
+Which statement about R packages is correct?
+A: R currently supports more than 15,000 packages which can be installed to extend R's functionality.
+B: R doesn't require any packages to be installed since it contains all functionality necessary which a data scientists ever requires.
+---
+R currently supports more than 15,000 packages which can be installed to extend R's functionality.
+</>
+What tool do most Python developers use?
+A: RStudio
+B: Jupyter Notebooks / JupyterLab
+---
+Jupyter Notebooks / JupyterLab
+</>
+True or false? Jupyter Notebooks / JupyterLab support development in R.
+A: True
+B: False
+---
+True
+</>
+Which tool unifies documentation, source code and data visualizations into a single document?
+A: Jupyter Notebooks / JupyterLab
+B: Notepad
+C: VSCode
+---
+Jupyter Notebooks / JupyterLab
+</>
+Which command is used to install packages in R?
+A: install("package name")
+B: package("package name")
+C: install.packages("package name")
+D: install.package("package name")
+---
+install.packages("package name")
+</>
+True or False: The Jupyter Notebook kernel must be installed on a local server.
+A: True
+B: False
+---
+False
+</>
+True or false? RStudio supports development in Python.
+A: True
+B: False
+---
+True
+</>
+Fill in the blank: In Watson Studio, a ____________ is how you organize your resources to achieve a particular goal. Resources can include data, collaborators, and analytic assets like notebooks and models.
+A: Project
+B: Job
+C: Asset
+D: Notebook
+---
+Project
+</>
+Fill in the blank: It's a best practice to remove or replace _____________ before publishing to GitHub.
+A: Markdown text
+B: Charts
+C: Code cells
+D: Credentials
+---
+Credentials
+</>
+Which of the following do you need to create in order to publish a notebook to your GitHub repository?
+A: Apps
+B: Profile
+C: Access token
+D: Login credential
+---
+Access token
+</>
+Fill in the blank: If you'd like to schedule a notebook in Watson Studio to run at a different time you can create a(n) _____________.
+A: Asset
+B: Job
+C: API
+D: Markdown cell
+---
+Job
+</>
+Fill in the blank: On the environments tab you can define the _________________.
+A: Hardware size.
+B: Software configuration.
+C: Runtime configuration for notebook editor.
+D: Runtime configuration for flow editor.
+E: All of the above.
+---
+All of the above.
+</>
+Fill in the blank: When sharing a  read only version of a notebook, you can  choose to share __________________.
+A: Only text and output.
+B: All content, excluding sensitive code cells.
+C: All content including code.
+D: A permalink.
+E: All of the above.
+---
+All of the above.
+</>
+Fill in the blank: When working in a Jupyter Notebook, before returning to a project, it's important to ________________________.
+A: Insert to code.
+B: Insert cells.
+C: Run cells.
+D: Save your notebook.
+---
+Save your notebook.
+</>
+Fill in the blank: Before running a notebook, it's a best practice to ____________ to describe what the notebook does.
+A: Refresh your page.
+B: Insert a cell at the top of the notebook.
+C: Delete notebook cells.
+D: Insert a cell at the bottom of the notebook.
+---
+Insert a cell at the top of the notebook.
+</>
+Fill in the blank: In the _____________ tab you can define the hardware size and software configuration for the runtime associated with Watson Studio tools such as notebooks.
+A: Assets
+B: Environments
+C: Overview
+D: Settings
+---
+Environments
+</>
+Fill in the blank: IBM Cloud uses ______________ as a way for you to organize your account resources in customizable groupings so that you can quickly assign users access to more than one resource at a time.
+A: Resource groups
+B: Services
+C: Projects
+D: Catalogs
+---
+Resource groups
+</>
+Which products (of those we covered) allow you to build data pipelines using graphical user interface and no coding?
+A: Only IBM SPSS Statistics.
+B: Only IBM SPSS Modeler.
+C: OpenScale
+D: IBM SPSS Modeler and Modeler Flows in Watson Studio.
+E: All of the above.
+---
+IBM SPSS Modeler and Modeler Flows in Watson Studio.
+</>
+Which features of Data Refinery help save hours and days of data preparation?
+A: Flexibility of using Intuitive user interface and coding templates enabled with powerful operations to shape and clean data.
+B: Data visualization and profiles to spot the difference and guide data preparation steps.
+C: Incremental snapshots of the results allowing the user to gauge success with each iterative change.
+D: Saving, editing and fixing the steps provide ability to iteratively fix the steps in the flow.
+E: All of the above.
+---
+All of the above.
+</>
+Watson Knowledge Catalog provides what functionality?
+A: Catalog data and ML assets, help to find relevant assets, keep track of asset lineage, enforce data governance.
+B: Build data and water pipelines.
+C: Catalog all books mentioning Doctor Watson and Sherlock Holmes.
+D: Process data, build and deploy models.
+E: Create data and deploy models into production.
+---
+Catalog data and ML assets, help to find relevant assets, keep track of asset lineage, enforce data governance.
+</>
+Fill in the blank: PMML, PFA, and ONNX are __________________.
+A: Open standards for predictive model serialization, exchange, and deployment.
+B: Abbreviations for machine learning algorithm names.
+C: Passwords for some super-secret system.
+D: Robots that are plotting to take over the planet.
+E: Codes for getting rid of undesired data or models.
+---
+Open standards for predictive model serialization, exchange, and deployment.
+</>
+Which node must be used in Modeler flows before any modeling node?
+A: Output node
+B: Type node
+C: Derive node
+D: Auto Numeric node
+E: All of the above
+---
+Type node
+</>
+Fill in the blank: Auto Classification node can be used for data with ______________.
+A: No target variables.
+B: A categorical target variable.
+C: A continuous target variable.
+D: Any target variable.
+E: All of the above
+---
+A categorical target variable.
+</>
+Fill in the blank: Auto Numeric node can be used for data with __________________.
+A: No target variables.
+B: A categorical target variable.
+C: A continuous target variable.
+D: Any target variable.
+E: All of the above.
+---
+A continuous target variable.
+</>
+IBM SPSS Modeler evolved from which product?
+A: SPSS
+B: IBM DB2
+C: Netezza
+D: Oracle
+E: Clementine
+---
+Clementine
+</>
+Fill in the blank: IBM SPSS Statistics syntax can be created using ___________.
+A: IBM SPSS Modeler streams.
+B: Watson Studio Modeler flows.
+C: Graphical user interface of IBM SPSS Statistics product or syntax editor.
+D: OpenScale
+E: AutoAI
+---
+Graphical user interface of IBM SPSS Statistics product or syntax editor.
+</>
+AutoAI provides which of the following services?
+A: Monitoring for fairness, bias, and model drift.
+B: Automatic finding of optimal data preparation steps, model selection, and hyperparameter optimization.
+ 
+C: Cataloging data and model assets.
+D: Creating SPSS syntax.
+E: All of the above.
+ 
+---
+Automatic finding of optimal data preparation steps, model selection, and hyperparameter optimization.
+ 
+</>
+OpenScale provides which of the following services?
+A: Creating SPSS syntax.
+B: Automatic finding of optimal data preparation steps, model selection, and hyperparameter optimization.
+C: Cataloging data and model assets.
+D: Monitoring for fairness, bias, and model drift.
+E: All of the above.
+---
+Monitoring for fairness, bias, and model drift.
+</>
+Predictive Model Markup Language (PMML) was created by which entity?
+A: Microsoft
+B: The Data Mining Group
+C: Oracle
+D: IBM
+E: SPSS
+---
+The Data Mining Group
+</>
+Data Refinery provides which of the following services?
+A: Catalog the data assets.
+B: Monitor for bias and model drift.
+C: Visualize and prepare data.
+D: Automatically build models.
+E: All of the above.
+---
+Visualize and prepare data.
+</>
+IBM SPSS Modeler includes what kind of models?
+A: Classification models (for data with a categorical target).
+B: Regression models (for data with a continuous target).
+C: Clustering models (for data with no target variables).
+D: Other kinds of models.
+E: All of the above.
+---
+All of the above.
+</>
+Open Neural Network eXchange (ONNX) was originally created for what models?
+A: Clustering models
+B: Decision trees
+C: Support Vector Machines (SVM).
+D: Deep learning models.
+E: Regression models
+---
+Deep learning models.
+</>
+Fill in the blank: If you'd like to schedule a notebook in Watson Studio to run at a different time, you can create a(n) ________.
+A: API
+B: asset
+C: markdown cell
+D: job
+---
+job
+</>
+Fill in the blank: In the __________ tab you can define the hardware size and software configuration for the runtime associated with Watson Studio tools such as Notebook.
+A: assets
+B: environments
+C: overview
+D: settings
+---
+environments
+</>
+Fill in the blank: It's a best practice to remove or replace _____________ before publishing to GitHub.
+A: charts
+B: code cells
+C: credentials
+D: markdown text
+---
+credentials
+</>
+What does SQL stand for?
+A: Strong Query Language
+B: Structured Quick Language
+C: Structured Query Language
+D: Structured Quadrant Language
+---
+Structured Query Language
+</>
+Which of these is a machine learning or deep learning library for Python?
+A: Requests
+B: Scikit-learn
+C: Pandas
+D: NumPy
+---
+Scikit-learn
+</>
+What problem(s) are targeted by supervised machine learning?
+A: Clustering problem
+B: Regression problem
+C: Classification problem
+D: Regression and Classification problems
+---
+Regression and Classification problems
+</>
+What is data governance? 
+A: Deleting data stored within a central repository
+B: Creating processes and controls around the access of data
+C: Storing data in a central repository
+D: An implementation of data processes and controls
+---
+Creating processes and controls around the access of data
+</>
+Which are the two most used open source tools for data science?
+A: Notepad
+B: RStudio
+C: Jupyter Notebooks / JupyterLab
+D: Spyder
+E: VSCode
+---
+RStudio
+Jupyter Notebooks / JupyterLab
+</>
+How is the R programming language different than Python?
+A: It was built by statisticians and their specific language
+B: It’s primary objective is deployment and production
+C: It is a general purpose language
+---
+It was built by statisticians and their specific language
+</>
+What type of environment is RStudio?
+A: Software Development Kit (SDK)
+B: API
+C: Integrated Development Environment (IDE) 
+D: Framework
+---
+Integrated Development Environment (IDE) 
+</>
+What does the acronym “Jupyter” mean in Jupyter Notebooks?
+A: Julia, Python and Ruby
+B: Javascript, Python and R
+C: Julia, PHP and R
+D: Julia, Python and R
+---
+Julia, Python and R
+</>
+Which feature in Watson Studio helps to keep track of and discover relevant Machine Learning assets?
+A: Watson Knowledge Catalog
+B: All of the above
+C: AutoAI
+D: Modeler Flows
+E: OpenScale
+---
+Watson Knowledge Catalog
+</>
+How does Data Refinery help build repeatable Data Pipelines for workloads of almost any size?
+A: Create a scheduled Job and use a custom environment to run the data flow/pipeline on different workloads. 
+B: Only a fixed workload size is supported.
+C: Feature is available only in the UI, not API.
+D: Manually write APIs to provide automation.
+E: Not supported.
+---
+Create a scheduled Job and use a custom environment to run the data flow/pipeline on different workloads. 
+</>
+Modeler flows in Watson Studio always begin with which type of node?
+A: An output node
+B: A modeling node
+C: A data source node
+D: A type node
+E: All of the above
+---
+A modeling node
+</>
+What Modeler flow includes data management capabilities and visualization?
+A: All of the above
+B: Charts
+C: SPSS Modeler streams
+D: Graphical user interface
+E: SPSS syntax
+---
+SPSS Modeler streams
+</>
+Select the correct statement.
+A: The first stage of the data science methodology is Data Understanding.
+B: The first stage of the data science methodology is Business Understanding.
+C: The first stage of the data science methodology is Data Collection.
+D: The first stage of the data science methodology is Modeling.
+---
+The first stage of the data science methodology is Business Understanding.
+</>
+The main purpose of the analytic approach is identifying what type of patterns will be needed to address the posed question most effectively.
+A: True
+B: False
+---
+True
+</>
+Which machine learning algorithm was implement in the case study discussed in the videos?
+A: Decision Tree Classification.
+B: Logistic Regression.
+C: k-Nearest Neighbor.
+D: Support Vector Machines.
+---
+Decision Tree Classification.
+</>
+The Data Requirements stage of the data science methodology involves identifying the necessary data content, formats and sources for initial data collection.
+A: True
+B: False
+---
+True
+</>
+Database Administrators determine how to collect and prepare the data.
+A: True
+B: False
+---
+False
+</>
+In the Data Collection stage, the data requirements are revised and decisions are made as to whether or not more data is needed.
+A: True
+B: False
+---
+True
+</>
+Which statement best describes the Modeling Stage of the data science methodology?
+A: Modeling may require testing multiple algorithms and parameters.
+B: Modeling is always based on predictive models.
+C: The Modeling stage is followed by the Analytic Approach stage.
+D: Modeling always uses training and test sets.
+---
+Modeling may require testing multiple algorithms and parameters.
+</>
+Model Evaluation includes ensuring that the data are properly handled and interpreted.
+A: True
+B: False
+---
+True
+</>
+The ROC curve is a useful diagnostic tool for determining the optimal classification model.
+A: True
+B: False
+---
+True
+</>
+Select the correct statement about the Feedback stage of the data science methodology.
+A: Feedback is not required once launched.
+B: Feedback is not helpful and gets in the way.
+C: Feedback is essential to the long term viability of the model.
+D: None of the above statements are correct.
+---
+Feedback is essential to the long term viability of the model.
+</>
+A data scientist determines that building a recommender system is the solution for a particular business problem at hand. What stage of the data science methodology does this represent?
+A: Model Evaluation.
+B: Modeling.
+C: Analytic Approach.
+D: Deployment.
+---
+Analytic Approach.
+</>
+A data scientist, John, was asked to help reduce readmission rates at a local hospital. After some time, John provided a model that predicted which patients were more likely to be readmitted to the hospital and declared that his work was done. Which of the following best describes this scenario?
+A: Even though John only submitted one solution, it might be a good one. However, John needed feedback on his model from the hospital to confirm that his model was able to address the problem appropriately and sufficiently.
+B:  John’s mistake is that he lied in the Analytic Approach step of the data science methodology.
+C:  John only provided one model as a solution and he should have provided multiple models.
+D:  John still needed to collect more data.
+---
+Even though John only submitted one solution, it might be a good one. However, John needed feedback on his model from the hospital to confirm that his model was able to address the problem appropriately and sufficiently.
+</>
+Data scientists may frequently return to a previous stage to make adjustments, as they learn more about the data and the modeling.
+A: True.
+B: False.
+---
+True.
+</>
+For predictive models, a test set, which is similar to – but independent of – the training set, is used to determine how well the model predicts outcomes. This is an example of what step in the methodology?
+A: Model Evaluation.
+B: Data Requirements.
+C: Analytic Approach.
+D: Deployment.
+---
+Model Evaluation.
+</>
+What are three important reasons that data scientists should maintain continuous communication with business sponsors throughout a project?
+A: Actually, data scientists do not need to maintain a continuous communication with business sponsors and stakeholders.
+B: So that business sponsors can review intermediate findings.
+C: So that business sponsors can ensure the work remains on track to generate the intended solution.
+D: So that business sponsors can provide domain expertise.
+---
+So that business sponsors can review intermediate findings.
+So that business sponsors can ensure the work remains on track to generate the intended solution.
+So that business sponsors can provide domain expertise.
+</>
+Select the correct statement.
+A: The first stage of the data science methodology is Data Collection.
+B: The first stage of the data science methodology is Business Understanding.
+C: The first stage of the data science methodology is Modeling.
+D: The first stage of the data science methodology is Data Understanding.
+---
+The first stage of the data science methodology is Business Understanding.
+</>
+Business Understanding is the least important stage in the data science methodology because none of the other stages depend on it.
+A: True.
+B: False
+---
+False
+</>
+According to the videos explaining the Data Requirements and Data Collection stages of the data science methodology, you can think of the Data Requirements and Data Collection stages as a cooking task, where the problem at hand is a recipe, and the data to answer the question is what?
+A: The presentation
+B: The measurements
+C: The ingredients
+D: The temperature to cook at
+---
+The ingredients
+</>
+In what stage can techniques such as descriptive statistics and visualization applied to the data set, to assess the content, quality, and initial insights about the data?
+A: The Data Analysis stage
+B: The Business Analysis stage
+C: The Data Requirements stage
+D: The Data Collection stage
+---
+The Data Collection stage
+</>
+A training set is used for what?
+A: Predictive modeling
+B: Data Visualization
+C: Descriptive modeling
+D: Statistical analysis
+---
+Predictive modeling
+</>
+A false-positive is what type of error?
+A: Type II error
+B: Type L error
+C: Type I error
+D: Type III error
+---
+Type I error
+</>
+The Data Understanding stage refers to the stage of removing redundant data.
+A: True
+B: False
+---
+False
+</>
+In what stage would you correct invalid values and address outliers?
+A: The Data Preparation stage
+B: The Data Understanding stage
+C: The Modeling stage
+D: The Data Requirements stage
+---
+The Data Preparation stage
+</>
+Which of the following is NOT one of the final stages of the data science methodology?
+A: Feedback
+B: Evaluation
+C: Deployment
+D: Data Preparation
+---
+Data Preparation
+</>
+Deploying a model into production represents the end of the iterative process that includes Feedback, Model Refinement, and Redeployment.
+A: True.
+B: False
+---
+False
+</>
+The data science methodology provides the data scientist with a framework on how to proceed to do what?
+A: Obtain answers
+B: Obtain data storage
+C: Obtain data
+D: None of the above
+---
+Obtain answers
+</>
+As a data scientist what type of analysis is used with descriptive statistics and
+data visualization techniques?
+A: Exploratory
+
+B: Extraction
+C: Classification
+D: Deep learning
+---
+Exploratory
+
+</>
+What is the result of the following operation:  11//2
+A: 5
+B: 5.5
+---
+5
+</>
+What is the value of x after the following is run:
+x=4
+x=x/2 
+A: 2.0
+B: 4.0
+---
+2.0
+</>
+What is the result of the following: Name[0]
+
+
+A: "M"
+B: "n"
+C: "i"
+---
+"M"
+</>
+What is the result of the following: Name[-1]
+
+A: "n"
+B: "o"
+C: "M"
+---
+"n"
+</>
+What is the output of the following: print("AB\nC\nDE")
+A: ABC
+DE
+B: AB
+CD
+E
+C: AB
+C
+DE
+---
+AB
+C
+DE
+</>
+What is the result of following? 
+"hello Mike".find("Mike") 
+If you are unsure, copy and paste the code into Jupyter Notebook and check.
+A: 5
+B: 6
+C: 6,7,8
+---
+6
+</>
+What is the result of the following: Name[0]
+
+
+A: "M"
+B: "n"
+C: "i"
+---
+"M"
+</>
+What is the result of the following: Name[-1]
+
+A: "n"
+B: "o"
+C: "M"
+---
+"n"
+</>
+What is the output of the following: print("AB\nC\nDE")
+A: ABC
+DE
+B: AB
+CD
+E
+C: AB
+C
+DE
+---
+AB
+C
+DE
+</>
+What is the result of following? 
+"hello Mike".find("Mike") 
+If you are unsure, copy and paste the code into Jupyter Notebook and check.
+A: 5
+B: 6
+C: 6,7,8
+---
+6
+</>
+What is the value of x after the following lines of code?
+x=1
+x=x+1
+A: 1
+B: 2
+C: 4
+---
+2
+</>
+What is the result of the following operation 1+3*2 ?
+A: 7
+B: 12
+C: 8
+---
+7
+</>
+What is the result of the following code segment: type(int(12.3))
+A: int
+B: float 
+C: str
+---
+int
+</>
+What is the result of the following code segment: int(True)
+A: 1
+B: 0
+C: error
+---
+1
+</>
+In Python, what is the result of the following operation: '1'+'2' ?
+A: 3
+B: '3'
+C: '12'
+---
+'12'
+</>
+What is the result of the following: 'hello'.upper() ?
+A: 'HELLO' 
+B:  'Hello'
+C: 'hello'
+---
+'HELLO' 
+</>
+What is the result of the following : str(1+1) ?
+A: '2'
+B: '11'
+---
+'2'
+</>
+What is the result of the following: "123".replace("12", "ab") ?
+A: 'ab3'
+B: '123ab'
+---
+'ab3'
+</>
+In Python 3, what is the type of the variable x after the following: x=2/2 ?
+A: float
+B: int
+---
+float
+</>
+Consider the following tuple:
+say_what=('say',' what', 'you', 'will') 
+
+what is the result of the following say_what[-1]
+A: 'will'
+B: 'you'
+C: ' what'
+D: 'say'
+---
+'will'
+</>
+Consider the following tuple A=(1,2,3,4,5). What is the result of the following: A[1:4]:
+A: (3, 4,5)
+B: (2, 3, 4,5)
+C: (2, 3, 4)
+---
+(2, 3, 4)
+</>
+Consider the following tuple A=(1,2,3,4,5), what is the result of the following: len(A)
+A: 5
+B: 6
+C: 4
+---
+5
+</>
+Consider the following list B=[1,2,[3,'a'],[4,'b']], what is the result of the following:B[3][1]
+A: [4,"b"]
+B: "c"
+C: "b"
+---
+"b"
+</>
+What is the result of the following operation?
+
+
+[1,2,3]+[1,1,1]
+A: [2,3,4]
+B: [1, 2, 3, 1, 1, 1]
+C: TypeError     
+---
+[1, 2, 3, 1, 1, 1]
+</>
+What is the length of the list A = [1] after the following operation: A.append([2,3,4,5])
+A: 6
+B: 2
+C: 5 
+---
+2
+</>
+What is the result of the following: "Hello
+Mike".split()
+A: ["Hello","Mike"]
+B: ["H"]
+C: ["HelloMike"]
+---
+["Hello","Mike"]
+</>
+What are the keys of the following dictionary: {"a":1,"b":2}
+A: "a","b"
+B: 1,2
+---
+"a","b"
+</>
+Consider the following Python Dictionary:
+Dict={"A":1,"B":"2","C":[3,3,3],"D":(4,4,4),'E':5,'F':6}
+What is the result of the following operation: Dict["D"]
+
+A: (4, 4, 4)
+B: 1
+C: [3,3,3]
+---
+(4, 4, 4)
+</>
+Consider the following set: {"A","A"}, what will the result be when the set is created? 
+A:  {"A"} 
+B:  {"A","A"}
+---
+ {"A"} 
+</>
+What is the result of the following: type(set([1,2,3]))
+A: set
+B: ---
+set
+</>
+What method do you use to add an element to a set?
+A: append
+B: extend
+C: add
+---
+add
+</>
+What is the result of the following operation : {'a','b'} &{'a'}
+A: {'a'}
+B: {'a','b'}
+---
+{'a'}
+</>
+Consider the tuple A=((1),[2,3],[4]), that contains a tuple and list. What is the result of the following operation A[2] ?
+A: [4]
+B: [2,3]
+C: 1
+---
+[4]
+</>
+Consider the tuple A=((11,12),[21,22]), that contains a tuple and list. What is the result of the following operation A[0][1]?
+A: 21
+B: 11
+C: 12
+---
+12
+</>
+The method append does the following:
+A: adds one element to a list
+B: merges two lists or insert multiple elements to a list 
+---
+adds one element to a list
+</>
+Consider the following list : A=["hard rock",10,1.2]
+What will list A contain affter the following command is run: del(A[1]) ?
+A: [10,1.2]
+B: ["hard rock",1.2]
+C: ["hard rock",10]
+---
+["hard rock",1.2]
+</>
+What is the syntax to clone the list A and assign the result to list B ?
+A: B=A
+B: B=A[:]
+---
+B=A[:]
+</>
+What is the result of the following: len(("disco",10)) ?
+A: 2
+B: 6
+C: 5
+---
+2
+</>
+Consider the following dictionary:
+{ "The Bodyguard":"1992", "Saturday Night Fever":"1977"}
+select  the values
+A: "1977"
+B: "1992"
+C: "The Bodyguard"
+D:  "Saturday Night Fever"
+---
+"1977"
+"1992"
+</>
+The variable  release_year_dict is a Python Dictionary, what is the result of applying the following method: release_year_dict.values() ?
+A: retrieve the keys of the dictionary
+B: retrieves, the values of the dictionary
+---
+retrieves, the values of the dictionary
+</>
+Consider the Set: V={'1','2'}, what is the result of V.add('3')?
+A: {1,2,3}
+B: {'1','2','3'}
+C: {'1','2'}
+---
+{'1','2','3'}
+</>
+What is the result of the following: '1' in {'1','2'} ?
+A: False
+B: True
+---
+True
+</>
+what is the result of the following: 1=2
+A: False 
+B: True
+C: SyntaxError:can't assign to literal
+---
+SyntaxError:can't assign to literal
+</>
+What is the output of the following code segment:
+i=6
+i<5
+
+
+
+A: True
+B: False
+C: SyntaxError: can't assign to literal
+---
+False
+</>
+What is the result of the following: 5!=5
+A: False
+B: True
+---
+False
+</>
+What is the output of the following code segment: 'a'=='A'
+A: False
+B: True
+---
+False
+</>
+in the video, if age=18 what would be the result 
+A: move on
+B: you can enter 
+---
+move on
+</>
+in the video what would be the result if we set the variable age as follows: age= -10
+A: go see Meat Loaf
+move on
+B: you can enter
+move on
+---
+go see Meat Loaf
+move on
+</>
+what is the result of the following:   True  or False 
+A: True, an or statement is only False if all the Boolean values are False
+B: False
+---
+True, an or statement is only False if all the Boolean values are False
+</>
+what will be the output of the following:
+for x in range(0,3):     
+print(x)
+
+
+
+A: 0
+1
+2
+B: 0
+1
+2
+3
+---
+0
+1
+2
+</>
+what is the output of the following:
+for x in ['A','B','C']:
+  print(x+'A')
+
+
+
+A: AA
+BA
+CA
+B: A
+B
+C
+---
+AA
+BA
+CA
+</>
+what is the output of the following:
+for i,x in enumerate(['A','B','C']):    
+print(i,x)
+
+
+
+A: 0 A
+1 B
+2 C
+B: AA
+BB
+CC
+---
+0 A
+1 B
+2 C
+</>
+What does the following function return: len(['A','B',1]) ?
+A: 3
+B: 2
+C: 4
+---
+3
+</>
+What does the following function return: len([sum([0,0,1])]) ?
+A: 1
+B: 0
+C: 3
+---
+1
+</>
+What is the value of list L after the following code segment is run  :
+L=[1,3,2]
+sorted(L)
+
+
+
+A: L:[1,3,2]
+B: L:[1,2,3]
+C: L:[0,0,0]
+---
+L:[1,3,2]
+</>
+From the video what is the value of c after the following:
+c=add1(2)
+c=add1(10)
+
+
+
+A: 3
+B: 11
+C: 14
+---
+11
+</>
+what is the output of the following lines of code:
+def Print(A):   
+ for a in A: 
+    print(a+'1')
+Print(['a','b','c'])
+
+
+
+A: a
+b
+c
+B: a1
+b1
+c1
+C: a1
+---
+a1
+b1
+c1
+</>
+Why do we use exception handlers?
+A: Terminate a program
+B: Read a file
+C: Write a file
+D: Catch errors within a program
+---
+Catch errors within a program
+</>
+What is the purpose of a try…except statement?
+A: Executes the code block only if a certain condition exists
+B: Catch and handle exceptions when an error occurs
+C: Crash a program when errors occur
+D: Only executes if one condition is true
+---
+Catch and handle exceptions when an error occurs
+</>
+What is the type of the following?
+["a"]
+
+
+A: str
+B: list
+---
+list
+</>
+What does a method do to an object? 
+A: Changes or interacts with the object
+B: Returns a new values 
+---
+Changes or interacts with the object
+</>
+We create the object:
+Circle(3,'blue')
+
+What is the color attribute set to?
+
+A: 2
+B: 'blue'
+---
+'blue'
+</>
+What is the radius attribute after the following code block is run?
+RedCircle=Circle(10,'red')
+RedCircle.radius=1
+
+
+
+A: 10
+B: 1
+C: 'red'
+---
+1
+</>
+What is the radius attribute
+after the following code block is run?
+BlueCircle=Circle(10,'blue')
+BlueCircle.add_radius(20)
+
+
+
+A: 10
+B: 20
+C: 30
+---
+30
+</>
+What is the output of the following code?
+
+
+
+A: Go Mike
+B: Mike
+C: Stop Mike
+---
+Go Mike
+</>
+What is the result of the following lines of code?
+
+
+
+A: True
+B: False
+---
+True
+</>
+What is the output of the following few lines of code?
+
+
+A: 0
+1
+B: 0
+1
+2
+C: 0
+1
+3
+4
+---
+0
+1
+</>
+What is the result of running the following lines of code ?
+
+
+
+A: x= A
+B: y= B
+C: x= A   y= B
+---
+x= A   y= B
+</>
+What is the output of the following few lines of code?
+
+
+
+A: 1 A
+2 B
+3 C
+B: 0 A
+1 B
+2 C
+C: 0 AA
+1 BB
+2 CC
+---
+1 A
+2 B
+3 C
+</>
+What is the result of running the following lines of code ?
+
+
+
+A: x= 1 y=2
+B: x= A  y=2
+C: x=A, y=B
+---
+x= A  y=2
+</>
+Consider the function step, when will the function return a value of 1?
+
+
+A: if x is larger than 0
+B: if x is equal to or less then zero 
+C: if x is less than zero 
+---
+if x is larger than 0
+</>
+What is the output of the following lines of code?
+
+
+
+A: 2
+B: 1
+C: NameError: name 'a' is not defined
+---
+2
+</>
+Write a function name add that takes two parameter a and b, then return the output of  a + b (Do not use any other variable! You do not need to run it. Only write the code about how you define it.)
+---
+</>
+Why is it best practice to have multiple except statements with each type of error labeled correctly?
+A: Ensure the error is caught so the program will terminate
+B: In order to know what type of error was thrown and the
+location within the program
+C: To skip over certain blocks of code during execution
+D: It is not necessary to label errors
+---
+In order to know what type of error was thrown and the
+location within the program
+</>
+What are the most common modes used when opening a file?
+A: (a)ppend, (c)lose, (w)rite
+B: (a)ppend, (r)ead, (w)rite
+C: (a)ppend, (r)edline, (w)rite
+D: (s)ave, (r)ead, (w)rite
+---
+(a)ppend, (r)ead, (w)rite
+</>
+What is the data attribute that will return the title of the file?
+A: File1.mode
+B: File1.name
+C: File1.open()
+D: File1.close()
+---
+File1.name
+</>
+What is the command that tells Python to begin a new line?
+A: \n
+B: \e
+C: \q
+D: \b
+---
+\n
+</>
+What attribute is used to input data into a file?
+A: File1.read()
+B: File1.open()
+C: File1.close()
+D: File1.write()
+---
+File1.write()
+</>
+What python object do you cast to a dataframe?
+A: set
+B: tuple 
+C: dictionary
+---
+dictionary
+</>
+How would you access the first-row and first column in the dataframe df?
+A: df.ix[0,0]
+
+
+B: df.ix[0,1]
+C: df.ix[1,0]
+
+---
+df.ix[0,0]
+
+
+</>
+What is the proper way to load a CSV file using pandas?
+A: pandas.from_csv(‘data.csv’)
+B: pandas.load_csv(‘data.csv’)
+C: pandas.read_csv(‘data.csv’)
+D: pandas.import_csv(‘data.csv’)
+---
+pandas.read_csv(‘data.csv’)
+</>
+Use this dataframe to answer the question.
+
+How would you select the Genre disco? Select all that apply.
+A: df.iloc[6, ‘genre’]
+B: df.loc[6, 5]
+C: df.iloc[6, 4]
+D: df.loc[‘Bee Gees’, ‘Genre’]
+---
+df.iloc[6, 4]
+</>
+Use this dataframe to answer the question.
+
+Which will NOT evaluate to 20.6? Select all that apply.
+A: df.iloc[4,5]
+B: df.iloc[6,5]
+C: df.loc[4,’Music Recording Sales’]
+D: df.iloc[6, ‘Music Recording Sales (millions)’]
+---
+df.loc[4,’Music Recording Sales’]
+df.iloc[6, ‘Music Recording Sales (millions)’]
+</>
+Use this dataframe to answer the question.
+
+How do we select Albums The Dark Side of the Moon to Their Greatest Hits
+(1971-1975)? Select all that apply.
+A: df.iloc[2:5, ‘Album’]
+B: df.loc[2:5, ‘Album’]
+C: df.iloc[2:6, 1]
+D: df.loc[2:5, 1]
+---
+df.loc[2:5, ‘Album’]
+df.iloc[2:6, 1]
+</>
+What is the Python library used for scientific computing and is a basis for Pandas?
+A: Numpy
+B: Tkinter
+C: Requests
+D: datetime
+---
+Numpy
+</>
+What attribute is used to retrieve the number of elements in an array?
+A: a.size
+B: a.ndim
+C: a.shape
+D: a.dtype
+---
+a.size
+</>
+How would you change the first element to "10" in this array c:array([100,1,2,3,0])?
+A: c[2]=10
+B: c[0]=10
+C: c[4]=10
+D: c[1]=10
+---
+c[0]=10
+</>
+What attribute is used to return the number of dimensions in an array?
+A: a.shape
+B: a.dtype
+C: a.ndim
+D: a.size
+---
+a.ndim
+</>
+What is the result of the following lines of code?
+
+
+
+A: array([0,2])
+B: 1
+C: 0
+---
+0
+</>
+How do you perform matrix multiplication on the numpy arrays  A and  B ?
+A: A+B
+B: np.dot(A,B)
+C: A*B
+---
+np.dot(A,B)
+</>
+What values does the variable  out take if the following lines of code are run?
+
+
+A: array([1,0,1])
+B: array([2,2])
+C: array([0,1])
+---
+array([0,1])
+</>
+What is the value of  Z after the following code is run?
+
+
+A: array([[2,1],[1,2] ])
+B: array([[2,0],[1,0]])
+C: array([[3,1],[1,3] ])
+---
+array([[2,1],[1,2] ])
+</>
+Consider the following text file:  Example1.txt:
+This is line 1
+This is line 2
+This is line 3
+What is the output of the following lines of code?
+
+
+
+A: This is line 1
+B: This is line 1
+This is line 2
+This is line 3
+C: This is line 1
+This is line 2
+---
+This is line 1
+</>
+What do the following lines of code do?
+
+
+A: Read the file "Example1.txt"
+B: Write to the file “Example1.txt”
+C: Append the file "Example1.txt"
+---
+Read the file "Example1.txt"
+</>
+What do the following lines of code do?
+
+
+A: Append the file "Example.txt"
+B: Read the file "Example.txt"
+C: Write to the file “Example.txt”
+---
+Append the file "Example.txt"
+</>
+What task do the following lines of code perform?
+
+
+A: Copy the text from Example2.txt to Example3.txt.
+B: Check the mode of the open function for each file object.
+C: Print out the content of Example2.txt.
+---
+Copy the text from Example2.txt to Example3.txt.
+</>
+Consider the dataframe df. How would you access the element in the 2nd row and 1st column?
+A: df.iloc[1,0]
+B: df.iloc[2,1]
+C: df.iloc[0,1]
+---
+df.iloc[1,0]
+</>
+In the lab, you learned you can also obtain a series from a dataframe df, select the correct way to assign the column with the header Length to a pandas series to the variable x.
+A: x=df['Length']
+B: x=df[['Length']]
+C: x=df.[['Length']]
+---
+x=df['Length']
+</>
+What does API stand for?
+A: Application Programming Interaction
+B: Automatic Program Interaction
+C: Application Process Interface
+D: Application Programming Interface
+---
+Application Programming Interface
+</>
+The chart used to plot the cryptocurrency data in the lab is a
+A: Line Chart
+B: Pole Chart
+C: Point and Figure Chart
+D: Candlestick Chart
+---
+Candlestick Chart
+</>
+What information are we trying to find for each day in the lab for the chart?
+A: Open (First), High (Max), Low (Min), Close (Last)
+B: Open (Min), High (First), Low (Max), Close (Last)
+C: Open (Max), High (First), Low (Last), Close (Min)
+D: Open (Last), High (Max), Low (Min), Close (First)
+---
+Open (First), High (Max), Low (Min), Close (Last)
+</>
+What is the function of "GET" in HTTP requests?
+A: Carries the request to the client from the requestor
+B: Deletes a specific resource
+C: Returns the response from the client to the requestor
+D: Sends data to create or update a resource 
+---
+Carries the request to the client from the requestor
+</>
+What does URL stand for?
+A: Uniform Request Location
+B: Uniform Resource Locator
+C: Unilateral Resistance Locator
+D: Uniform Resource Learning
+---
+Uniform Resource Locator
+</>
+What does the file extension “csv” stand for?
+A: Comma Separated Values
+B: Comma Separation Valuations 
+C: Common Separated Variables
+D: Comma Serrated Values 
+---
+Comma Separated Values
+</>
+What is webscraping?
+A: The process to extract data from a particular website
+B: The process to describe communication options
+C: The process to display all data within a URL
+D: The process to request and retrieve information from a client
+---
+The process to extract data from a particular website
+</>
+What are the 3 parts to a response message?
+A: Bookmarks, history, and security
+B: HTTP headers, blank line, and body
+C: Start or status line, header, and body
+D: Encoding, body, and cache
+---
+Start or status line, header, and body
+</>
+What is the purpose of this line of code "table_row=table.find_all(name=’tr’)" used in webscraping?
+A: It will find all of the data within the table marked with a tag “h1”
+B: It will find all of the data within the table marked with a tag “p”
+C: It will find all of the data within the table marked with a tag “tr”
+D: It will find all of the data within the table marked with a tag “a”
+---
+It will find all of the data within the table marked with a tag “tr”
+</>
+In what data structure do HTTP responses generally return?
+A: Nested Lists
+B: JSON
+C: Tuples
+D: Lists
+---
+JSON
+</>
+The Python library we used to plot the chart in the lab is
+A: PyCoinGecko
+B: Pandas
+C: MatPlotLib
+D: Plotly
+---
+MatPlotLib
+</>
+In Python what statement would print out the first two elements “Li” of “Lizz”?
+A: print(name[0:2])
+B: print(name[1:2])
+C: print(name[2:0])
+---
+print(name[0:2])
+</>
+If var = “01234567” what Python statement would print out only the odd elements?
+A: print(var[2::2]) 
+B: print(var[3::1])
+C: print(var[1::2])
+---
+print(var[1::2])
+</>
+What is the Python find() method used for?
+A: The method finds the starting index of a substring
+B: The method finds every second index of a substring
+C: The method finds the ending index of a substring
+---
+The method finds the starting index of a substring
+</>
+In Python what can be either a positive or negative number but does not contain a decimal point?
+A: float
+B: str
+C: int
+---
+int
+</>
+What following code segment would return a 3?
+A: float(3.99)
+B: str(3.99)
+C: int(3.99)
+---
+int(3.99)
+</>
+When using the double slash “//” for integer division the result will be?
+A: Rounded
+B: Not rounded
+---
+Rounded
+</>
+In Python 3 what following code segment will produce an int?
+A: 1/2
+B: 2//3
+---
+2//3
+</>
+How many identical keys can a dictionary have ?
+A: 100000000
+B: 3
+C: 0
+---
+0
+</>
+What is the syntax to obtain the first element of the tuple?
+A=('a','b','c')
+A: A[:]
+B: A[0]
+C: A[1]
+---
+A[0]
+</>
+What is the result of the following operation: '1:2,3:4'.split(':')?
+A: ['1,2', '3,4']
+B: ['1', '2', '3', '4']
+C: ['1,2,3,4']
+D: ['1', '2,3', '4']
+---
+['1', '2,3', '4']
+</>
+What is an important difference between lists and tuples?
+A: Lists and tuples are the same
+B: Lists are mutable tuples are not 
+C: Tuples can only have integers 
+D: Lists can't contain a string 
+---
+Lists are mutable tuples are not 
+</>
+What code segment is used to cast list “B” to the set “b”?
+A: b.set()
+B: b=B.dict()
+C: b=set(B)
+---
+b=set(B)
+</>
+What value of x will produce the output?
+ x= 
+if(x!=1): 
+     print('Hello') 
+else: 
+     print('Hi') 
+print('Mike') 
+A: x="7"
+B: x=6
+C: x=1
+---
+x=1
+</>
+What is the process of forcing your program to output an error message when it encounters an issue?
+A: Force Out
+B: Output errors
+C: Error messages
+D: Exception handling
+---
+Exception handling
+</>
+What add function would return ‘2’ ?
+A: def add(x): return(x+x) add(1) 
+B: def add(x): return(x+x+x) add('1') 
+C: def add(x): return(x+x) add('1') 
+---
+def add(x): return(x+x) add(1) 
+</>
+ A list cannot be sorted if it contains:
+A: only strings
+B: concatenated strings
+C: only numeric values
+D: strings and numeric values
+---
+strings and numeric values
+</>
+What segment of code would output the following?
+11
+22
+33
+A: A=['1','2','3'] for a in A: print(3*a) 
+B: A=[1,2,3] for a in A: print(2*a) 
+C: A=['1','2','3'] for a in A: print(2*a) 
+---
+A=['1','2','3'] for a in A: print(2*a) 
+</>
+What code segment would output the following?
+
+2
+A: for i in range(1,5): if (i!=1): print(i)
+B: for i in range(1,5): if (i!=2): print(i)
+C: for i in range(1,5): if (i==2): print(i)
+---
+for i in range(1,5): if (i==2): print(i)
+</>
+What is the width of the rectangle in the class Rectangle?
+
+class Rectangle(object): def __init__(self,width=2,height =3,color='r'): self.height=height self.width=width self.color=color def drawRectangle(self): import matplotlib.pyplot as plt plt.gca().add_patch(plt.Rectangle((0, 0),self.width, self.height ,fc=self.color)) plt.axis('scaled') plt.show() 
+A: 2
+B: 0
+C: 3
+---
+2
+</>
+What is the result of the following lines of code?
+ a=np.array([0,1,0,1,0]) b=np.array([1,0,1,0,1]) a/b 
+A: array([0.1, 1.0, 0.1, 1.0, 0.1])
+B: array([1, 1, 1, 1, 1])
+C: Division by zero error
+---
+Division by zero error
+</>
+What is the result of the following lines of code?
+ a=np.array([1,1,1,1,1]) a+10
+A: array([11, 11, 11, 11, 11])
+B: array([1,1,1,1,1])
+C: array([10,10,10,10,10])
+---
+array([11, 11, 11, 11, 11])
+</>
+What is a two-dimensional data structure?
+A: Pandas Series
+B: Pandas Dataframe
+C: Numpy
+---
+Pandas Dataframe
+</>
+Consider the file object: File1.What would the following line of code output?
+
+for n in range(0,2): print(file1.readline()) 
+A: It would output 2 characters from the text file
+B: It would output the entire text file
+C: It would output the first 2 lines from the text file
+---
+It would output the first 2 lines from the text file
+</>
+Consider the following line of code:
+ with open("Example.txt","a") as file1:
+
+What mode is the file object in?
+A: read
+B: append
+C: write
+---
+append
+</>
+What is scheme, internet address and route a part of?
+A: Error message
+B: Text file
+C: URL
+---
+URL
+</>
+Which of the following statements are correct about databases?
+A: A database is a repository of data
+B: There are different types of databases - Relational, Hierarchical, No SQL, etc.
+C: A database can be populated with data and be queried 
+D: All of the above
+---
+All of the above
+</>
+True or False: A SELECT statement is used to retrieve data from a table.
+A: True
+B: False
+---
+True
+</>
+You are working on a Film database, with a FilmLocations table. You want to retrieve a list of films that were released in 2019.You run the following query but find that all the films in the FilmLocations table are listed. 
+SELECT Title,ReleaseYear, Locations FROMFilmLocations;
+What is missing?
+A: A WHERE clause to limit the results to films released in 2019.
+B: A DINSTINCT clause to specify a distinct year.
+C: A LIMIT clause to limit the results to films released in 2019.
+D: Nothing, the query is correct.
+---
+A WHERE clause to limit the results to films released in 2019.
+</>
+Which of the following statements would you use to add a new instructor to the Instructor table.
+A: INSERT INTO Instructor(ins_id, lastname, firstname, city, country)
+VALUES(4, 'Doe', 'John', 'Sydney', 'AU');
+B: UPDATE Instructor(ins_id, lastname, firstname, city, country)
+WITH VALUES(4, 'Doe', 'John', 'Sydney', 'AU');
+C: SELECT Instructor(ins_id, lastname, firstname, city, country)
+FROM VALUES(4, 'Doe', 'John', 'Sydney', 'AU');
+D: ADD INTO Instructor(ins_id, lastname, firstname, city, country)
+VALUES(4, 'Doe', 'John', 'Sydney', 'AU');
+---
+INSERT INTO Instructor(ins_id, lastname, firstname, city, country)
+VALUES(4, 'Doe', 'John', 'Sydney', 'AU');
+</>
+What is the function of a WHERE clause in an UPDATE statement?
+A: A WHERE clause enables you to specify which rows will be updated.
+B: A WHERE clause enables you to specify a new table to receive the updates.
+C: A WHERE clause enables you to list the column and data to be updated. 
+D: A WHERE clause is never used with an UPDATE statement.
+---
+A WHERE clause enables you to specify which rows will be updated.
+</>
+True or False: The INSERT statement can be used to insert multiple rows in a single statement. 
+A: True
+B: False
+---
+True
+</>
+Assume there exists an INSTRUCTOR table with several columns including FIRSTNAME, LASTNAME, etc. Which of the following is the most likely result set for the following query:
+SELECT DISTINCT(FIRSTNAME) FROM INSTRUCTOR
+A: LEON
+LEON
+PAUL
+PAUL
+B: LEON
+PAUL
+JOE
+C: LEON
+PAUL
+LEON
+JOE
+D: LEON KATSNELSON
+PAUL ZIKOPOLOUS
+JOE SANTARCANGELO
+---
+LEON
+PAUL
+JOE
+</>
+What does the following SQL statement do?
+UPDATE INSTRUCTOR SET LASTNAME = 'Brewster' WHERE LASTNAME = 'Smith'
+A: Changes all rows for the instructor with a last name of Smith to have a last name of Brewster.
+B: Change the row for the instructor with a last name of Brewster to have a last name of Smith.
+C: Change all rows in the table to have a last name of Smith.
+D: Change all rows in the table to have a last name of Brewster.
+---
+Changes all rows for the instructor with a last name of Smith to have a last name of Brewster.
+</>
+What is the function of a primary key?
+A: The primary key is used to grant access to a table.
+B: The primary key uniquely identifies each row in a table.
+C: The primary key is used to identify any rows in the table that contain NULL values.
+D: The primary key enables you to add data to columns.
+---
+The primary key uniquely identifies each row in a table.
+</>
+True or False: Data Manipulation Language statements like INSERT, SELECT, UPDATE, and DELETE are used to read and modify data.
+A: True
+B: False
+---
+True
+</>
+Data Definition Language (or DDL) statements are used to define, change, or delete database objects such as tables. Which of the following statements are all DDL statements? 
+A: SELECT, INSERT, UPDATE
+B: INSERT and UPDATE
+C: CREATE, ALTER, DROP
+D: SELECT and DELETE
+---
+CREATE, ALTER, DROP
+</>
+Which of the following queries will change the data type of an existing column (phone) to the varchar data type?
+A: ALTER TABLE author ALTER COLUMN phone DATA TYPE = VARCHAR(20);
+B: ALTER TABLE author ALTER COLUMN phone SET DATA TYPE VARCHAR(20);
+C: ALTER TABLE author ALTER COLUMN phone SET TYPE VARCHAR(20);
+D: ALTER COLUMN phone SET DATA TYPE VARCHAR(20);
+---
+ALTER TABLE author ALTER COLUMN phone SET DATA TYPE VARCHAR(20);
+</>
+The five basic SQL commands are:
+A: CREATE, SELECT, INSERT, UPDATE, DELETE
+B: None of the above
+C: CREATE, INSERT, RETRIEVE, MODIFY, DELETE
+D: SELECT, COPY, PASTE, INSERT, ALTER
+---
+CREATE, SELECT, INSERT, UPDATE, DELETE
+</>
+Which of the following statements about a database is/are correct?
+A: A database is a logically coherent collection of data with some inherent meaning
+B: Data can only be added and queried from a database, but not modified.
+C: Only SQL can be used to query data in a database.
+D: All of the above
+---
+A database is a logically coherent collection of data with some inherent meaning
+</>
+Attributes of an entity become ________ in a table.
+A: rows
+B: columns
+C: constraints
+D: keys
+---
+columns
+</>
+The CREATE TABLE statement is a....
+A: DML statement
+B: DDL statement
+C: Both of the above
+---
+DDL statement
+</>
+You want to retrieve a list of employees in alphabetical order of Lastname from the Employees table. Which SQL statement should you use?
+A: SELECT * FROM Employees ORDER BY Lastname DESC;
+B: SELECT * FROM Employees GROUP BY Lastname;
+C: SELECT * FROM Employees ORDER BY Lastname;
+D: SELECT * FROM Employees SORT BY Lastname;
+---
+SELECT * FROM Employees ORDER BY Lastname;
+</>
+Which keyword is used to set a condition for a GROUP BY clause?
+A: HAVING
+B: WHERE
+C: SELECT
+D: ORDER BY
+---
+HAVING
+</>
+You want to retrieve a list of authors from Australia, Canada, and India from the table Authors. Which SQL statement is correct?
+A: SELECT * FROM Author WHERE Country IN (‘Australia’, 'Canada', 'India');
+B: SELECT * FROM Author IF Country (‘Australia’, 'Canada', 'India');
+C: SELECT * FROM Author WHERE Country BETWEEN(‘Australia’, ‘Canada’, ‘India’);
+D: SELECT * FROM Author WHERE Country LIST ('CA', 'IN');
+---
+SELECT * FROM Author WHERE Country IN (‘Australia’, 'Canada', 'India');
+</>
+You want to retrieve a list of books priced above $10 and below $25 from the table Book. What are the two ways you can specify the range?
+A: SELECT Title, Price FROM Book WHERE Price IN (10, 25);
+B: SELECT Title, Price FROM Book WHERE Price >= 10 and Price <= 25;
+C: SELECT Title, Price FROM Book WHERE Price 10 to 25;
+D: SELECT Title, Price FROM Book WHERE Price BETWEEN 10 and 25;
+---
+SELECT Title, Price FROM Book WHERE Price >= 10 and Price <= 25;
+SELECT Title, Price FROM Book WHERE Price BETWEEN 10 and 25;
+</>
+You want to retrieve Salary information for an employee called Ed from the Employee table. You write the following statement: 
+SELECT Firstname, Lastname, Salary FROM Employees
+You see all the employees listed, and it’s hard to find Ed’s information. Which clause should you add to reduce the number of rows returned?
+A: WHERE Employees = ‘Ed’;
+B: ORDER BY Firstname;
+C: GROUP BY Firstname = ‘Ed’;
+D: WHERE Firstname = ‘Ed’;
+---
+WHERE Firstname = ‘Ed’;
+</>
+You want to select author's last name from a table, but you only remember the author’s last name starts with the letter B, which string pattern can you use? 
+A: SELECT lastname from author where lastname like ‘B#’ 
+B: SELECT lastname from author where lastname like ‘B%’ 
+C: SELECT lastname from author where lastname like ‘B$’ 
+D: None of the above 
+---
+SELECT lastname from author where lastname like ‘B%’ 
+</>
+In a SELECT statement, which SQL clause controls how the result set is displayed? 
+A: ORDER BY clause 
+B: ORDER IN clause 
+C: ORDER WITH clause 
+---
+ORDER BY clause 
+</>
+Which of the following can be used in a SELECT statement to restrict a result set? 
+A: HAVING 
+B: WHERE
+C: DISTINCT 
+D: All of the above 
+---
+All of the above 
+</>
+Which of the following statements about built-in database functions is correct?
+A: Built-in database functions may increase processing time.
+B: Built-in database functions may increase network bandwidth consumed.
+C: Built-in database functions must be called from a programming language like Python.
+D: Built-in database functions reduce the amount of data that is retrieved.
+---
+Built-in database functions reduce the amount of data that is retrieved.
+</>
+Which of the following SQL queries would return the day of the week each dog was rescued?
+A: SELECT DAY(RescueDate) From PetRescue WHERE Animal = ‘Dog’;
+B: SELECT DAYOFWEEK(RescueDate) From PetRescue; 
+C: SELECT RescueDate From PetRescue WHERE Animal = ‘Dog’;
+D: SELECT DAYOFWEEK(RescueDate) From PetRescue WHERE Animal = ‘Dog’;
+---
+SELECT DAYOFWEEK(RescueDate) From PetRescue WHERE Animal = ‘Dog’;
+</>
+What is the result of the following query: SELECT (CurrentDate – RescueDate) FROM PetRescue
+A: Returns how long it has been since each rescue.
+B: Returns today’s date.
+C: Returns the rescue date for each rescue.
+D: Returns the current date and rescue date columns.
+---
+Returns how long it has been since each rescue.
+</>
+Which of the following queries will return the employees who earn less than the average salary?
+A: SELECT * FROM Employees WHERE Salary < (SELECT AVG(Salary))
+B: SELECT * FROM Employees WHERE Salary < (SELECT AVG(Salary) FROM Employees);
+C: SELECT AVG(Salary) FROM Employees WHERE Salary < AVG(Salary) 
+D: SELECT * FROM Employees WHERE Salary < AVG(Salary) 
+---
+SELECT * FROM Employees WHERE Salary < (SELECT AVG(Salary) FROM Employees);
+</>
+What are the three ways to work with multiple tables in the same query?
+A: Sub-queries, Implicit joins, JOIN operators
+B: Built-in functions, implicit joins, JOIN operators
+C: Sub-queries, APPEND, JOIN operators
+D: Sub-queries, Implicit joins, normalization.
+---
+Sub-queries, Implicit joins, JOIN operators
+</>
+Which of the following queries will return the data for employees who belong to the department with the highest value of department ID.
+A: SELECT * FROM EMPLOYEES WHERE DEPT_ID_DEP = MAX ( SELECT DEPT_ID_DEP FROM DEPARTMENTS )
+B: SELECT * FROM EMPLOYEES WHERE DEP_ID = ( SELECT DEPT_ID_DEP FROM DEPARTMENTS WHERE DEPT_ID_DEP IS MAX )
+C: SELECT * FROM EMPLOYEES WHERE DEP_ID = ( SELECT MAX(DEPT_ID_DEP) FROM DEPARTMENTS ) 
+D: SELECT * FROM EMPLOYEES WHERE DEP_ID = MAX(DEP_ID)
+---
+SELECT * FROM EMPLOYEES WHERE DEP_ID = ( SELECT MAX(DEPT_ID_DEP) FROM DEPARTMENTS ) 
+</>
+A DEPARTMENTS table contains DEP_NAME, and DEPT_ID_DEP columns and an EMPLOYEES table contains columns called F_NAME and DEP_ID. We want to retrieve the Department Name for each Employee. Which of the following queries will correctly accomplish this?
+A: SELECT D.F_NAME, E.DEP_NAME FROM EMPLOYEES E, DEPARTMENTS D WHERE DEPT_ID_DEP = DEP_ID
+B: SELECT E.F_NAME, D.DEP_NAME FROM EMPLOYEES, DEPARTMENTS
+C: SELECT F_NAME, DEP_NAME FROM EMPLOYEES E, DEPARTMENTS D WHERE E.DEPT_ID_DEP = D.DEP_ID
+D: SELECT F_NAME, DEP_NAME FROM EMPLOYEES, DEPARTMENTS WHERE DEPT_ID_DEP = DEP_ID
+---
+SELECT E.F_NAME, D.DEP_NAME FROM EMPLOYEES, DEPARTMENTS
+</>
+You are writing a query that will give you the total cost to the Pet Rescue organization of rescuing animals. The cost of each rescue is stored in the Cost column. You want the result column to be called “Total_Cost”. Which of the following SQL queries is correct?
+A: SELECT SUM(Cost) FROM PetRescue
+B: SELECT SUM(Cost) AS Total_Cost FROM PetRescue
+C: SELECT SUM(Total_Cost) From PetRescue
+D: SELECT Total_Cost FROM PetRescue
+---
+SELECT SUM(Cost) AS Total_Cost FROM PetRescue
+</>
+Which API do you use to connect to a database from Python?
+A: DB API such as ibm_db API
+B: Watson API
+C: Census API
+D: REST API
+---
+DB API such as ibm_db API
+</>
+In the ibm_db API, what is the commit() method used for?
+A: The commit() method is used to open a database for connection.
+B: The commit() method is used to commit any pending transaction to the database.
+C: The commit() method is used to reverse any transactions that fail.
+D: The commit() method is used to close a database connection.
+---
+The commit() method is used to commit any pending transaction to the database.
+</>
+True or false: Resources used by the ibm_db API are released automatically when the program ends. There is no need to specifically close the connection.
+A: False
+B: True
+---
+False
+</>
+To create a table from Python, you would use...
+A: You cannot create a table from Python.
+B: An ibm_db.exec_immediate function that includes a SQL statement to create the table.
+C: An ibm_db.exec_immediate function that includes connection information and a SQL statement to create the table.
+D: An ibm_db.exec_immediate function that includes connection information.
+---
+An ibm_db.exec_immediate function that includes connection information and a SQL statement to create the table.
+</>
+Which of the following is a correct example of the connect function?
+A: connect('database name', 'username', 'database type')
+B: connect('database port', 'username', 'password')
+C: connect('database name', 'username', 'password')
+D: connect('username', 'password')
+---
+connect('database name', 'username', 'password')
+</>
+The ibm_db API provides a variety of useful Python functions for accessing and manipulating data in an IBM data server like Db2. Is this statement True or False?
+A: True
+B: False
+---
+True
+</>
+A Dataframe represents a tabular, spreadsheet-like data structure containing an ordered collection of columns, each of which can be a different value type. Indicate whether the following statement is True or False:
+A pandas dataframe in Python can be used for storing the result set of a SQL query.
+A: True
+B: False
+---
+True
+</>
+Which of the following statement(s) about Python is NOT correct (i.e. False)?
+A: The Python ecosystem is very rich and provides easy to use tools for data science. 
+B: Due to its proprietary nature, database access from Python is not available for many databases.
+C: There are libraries and APIs available to access many of the popular databases from Python. 
+D: Python is a popular scripting language for connecting and accessing databases.
+---
+Due to its proprietary nature, database access from Python is not available for many databases.
+</>
+The SELECT statement is called a query, and the output we get from executing the query is called what?
+A: The table
+B: The database
+C: The index
+D: A results set
+---
+A results set
+</>
+Which of the following SQL statements will delete the customers with IDs of B8 and B9?
+A: DELETE CUSTOMER_ID IS (‘B8’, ‘B9’) FROM CUSTOMERS
+B: DELETE (‘B8’, ‘B9’) FROM CUSTOMERS
+C: DELETE FROM CUSTOMERS WHERE CUSTOMER_ID IS (‘B8’, ‘B9’)
+D: DELETE FROM CUSTOMERS WHERE CUSTOMER_ID IN (‘B8’, ‘B9’)
+---
+DELETE FROM CUSTOMERS WHERE CUSTOMER_ID IN (‘B8’, ‘B9’)
+</>
+The primary key of __________ uniquely identifies each row in a table.
+A: A relational table
+B: A customer
+C: A name
+D: A database
+---
+A relational table
+</>
+Data Definition Language (DDL) and Data Manipulation Language (DML) are what?
+A: The basic categories for managing data. 
+B: The basic categories for providing security to databases.
+C: The basic categories of the PYTHON language based on functionality.
+D: The basic categories of the SQL language based on functionality.
+---
+The basic categories of the SQL language based on functionality.
+</>
+When querying a table called Author that contains a list of authors and their city of residence, which of the following queries will return the number of authors from each city?
+A: SELECT distinct(City) FROM Author 
+B: SELECT City, count(City) FROM Author GROUP BY City
+C: SELECT City, count(City) FROM Author
+D: SELECT City, distinct(City) FROM Author GROUP BY City
+---
+SELECT City, count(City) FROM Author GROUP BY City
+</>
+You want to retrieve a list of employees by first name and last name for a company that are between the ages of 30 and 50. Which clause would you add to the following SQL statement: SELECTFirst_Name,Last_Name, Age FROM Company
+A: WHERE Age >=30 AND Age <=50
+B: WHERE Age > 30
+C: WHERE Age < 30
+D: IF Age >=30 AND Age <=50
+---
+WHERE Age >=30 AND Age <=50
+</>
+Which of the following queries will retrieve the LOWEST value of PRICE in a table called PRODUCTS?
+A: SELECT LEAST(PRICE) FROM PRODUCTS
+B: SELECT MIN(PRICE) FROM PRODUCTS
+C: SELECT LOWEST(PRICE) FROM PRODUCTS
+D: SELECT MAX(PRICE) FROM PRODUCTS
+---
+SELECT MIN(PRICE) FROM PRODUCTS
+</>
+Which of the following queries will retrieve the PRODUCT NAME that has the LOWEST price?
+A: SELECT PRODUCT_NAME FROM PRODUCTS WHERE UNIT_PRICE IS LOWEST
+B: SELECT MIN(UNIT_PRICE) FROM PRODUCTS
+C: SELECT PRODUCT_NAME FROM PRODUCTS WHERE UNIT_PRICE = MIN
+D: SELECT PRODUCT_NAME FROM PRODUCTS WHERE UNIT_PRICE = (SELECT MIN(UNIT_PRICE) FROM PRODUCTS)
+---
+SELECT PRODUCT_NAME FROM PRODUCTS WHERE UNIT_PRICE = (SELECT MIN(UNIT_PRICE) FROM PRODUCTS)
+</>
+A database cursor is a control structure that;
+A: Does not allow communication with a database
+B: Does not allow you to create tables
+C: Enables traversal over the records in a database
+D: Does not allow you to update records within a database
+---
+Enables traversal over the records in a database
+</>
+To query data from tables in database a connection to the database needs to be established. Which of the following is required to establish a connection with a relational database from a Python notebook?
+A: Table Name
+B: Row names
+C: Database name
+D: Column names 
+---
+Database name
+</>
+Which of the following statements about views is correct?
+A: A view is an independent copy of a single table’s structure, including the data.
+B: You cannot change data in the base tables through a view.
+C: A view can only represent data from a single table.
+D: When you define a view, only the definition of the view is stored, not the data that it represents.
+---
+When you define a view, only the definition of the view is stored, not the data that it represents.
+</>
+Which of the following SQL statements will create a view that lists the job name and minimum and maximum salaries for jobs with a pay range of 50000 to 100000?
+A: CREATE VIEW JobSalaryRanges(Job, StartingSalary, MaximumSalary)
+AS SELECT JOB_TITLE, MIN_SALARY, MAX_SALARY 
+FROM JOBS
+WHERE MIN_SALARY > 50000 AND MAX_SALARY < 100000;
+B: CREATE VIEW JobSalaryRanges(Job, StartingSalary, MaximumSalary)
+FROM JOBS
+WHERE MIN_SALARY > 50000 AND MAX_SALARY < 100000;
+C: CREATE VIEW JobSalaryRanges(Job, StartingSalary, MaximumSalary)
+AS SELECT JOB_TITLE, MIN_SALARY, MAX_SALARY 
+FROM JOBS
+WHERE SALARY > 50000 AND SALARY < 100000;
+D: CREATE VIEW
+AS SELECT JOB_TITLE, MIN_SALARY, MAX_SALARY 
+FROM JOBS
+WHERE MIN_SALARY > 50000 AND MAX_SALARY < 100000;
+---
+CREATE VIEW JobSalaryRanges(Job, StartingSalary, MaximumSalary)
+AS SELECT JOB_TITLE, MIN_SALARY, MAX_SALARY 
+FROM JOBS
+WHERE MIN_SALARY > 50000 AND MAX_SALARY < 100000;
+</>
+The benefits of stored procedures include which of the following? 
+A: All of the above
+B: Improvement in performance
+C: Reduction in network traffic
+D: Reuse of code
+---
+All of the above
+</>
+Which of the following can a stored procedure use?
+A: A stored procedure cannot accept parameters.
+B: Input parameters
+C: Input and output parameters
+D: Output parameters
+---
+Input and output parameters
+</>
+What does ACID stand for?
+A: Asynchronous, Complete, Individual, Direct
+B: Atomic, Consistent, Initiated, Duplicated
+C: Atomic, Consistent, Isolated, Durable
+D: Alternative, Creative, Isolated, Durable
+---
+Atomic, Consistent, Isolated, Durable
+</>
+You usually create a join between…?
+A: The foreign keys in each table.
+B: Any column in either table.
+C: The primary key in one table to the foreign key in another table.
+D: The primary keys in each table.
+---
+The primary key in one table to the foreign key in another table.
+</>
+Which type of join returns all of the rows that an inner join returns and also all of the rows in the second table that do not have a match in the first table?
+A: Right outer join
+B: Full outer join
+C: Left outer join
+D: Left inner join
+---
+Right outer join
+</>
+Which of the following statements correctly uses an INNER JOIN? 
+A: SELECT * FROM EMPLOYEES e INNER JOIN DEPARTMENTS d ON DEP_ID 
+B: SELECT * FROM EMPLOYEES e INNER JOIN DEPARTMENTS d ON e.DEP_ID = d.DEP_ID
+C: CREATE INNER JOIN BETWEEN EMPLOYEES e AND DEPARTMENTS d ON e.DEP_ID = d.DEP_ID
+D: SELECT * FROM EMPLOYEES INNER JOIN DEPARTMENTS ON DEP_ID = DEP_ID
+---
+SELECT * FROM EMPLOYEES e INNER JOIN DEPARTMENTS d ON e.DEP_ID = d.DEP_ID
+</>
+Which of the following are three valid types of outer join?
+A: Left outer join, right outer join, left/right outer join
+B: Left outer join, right outer join, both outer join 
+C: Left outer join, right outer join, full outer join
+D: Left outer join, right outer join, total outer join
+---
+Left outer join, right outer join, full outer join
+</>
+Which type of join would you use to select all the rows from both tables?
+A: Total outer join
+B: Full outer join
+C: Left outer join
+D: Right outer join
+---
+Full outer join
+</>
+A stored procedure can:
+A: Be written in different languages
+B: Accept information
+C: Return results
+D: All of the above
+---
+All of the above
+</>
+What does ACID stand for?
+A: Atomic, Consistent, Isolated, Durable
+B: Alternative, Creative, Isolated, Durable
+C: Atomic, Consistent, Initiated, Duplicated
+D: Asynchronous, Complete, Individual, Direct
+---
+Atomic, Consistent, Isolated, Durable
+</>
+Which of the following SQL statements will create a view named EMP_VIEW with an employee’s First name, last name, and ID, based on the EMPLOYEES tables?
+A: CREATE VIEW EMP_VIEW (EMP_ID, FIRSTNAME, LASTNAME)
+AS SELECT EMP_ID, F_NAME, L_NAME
+FROM EMPLOYEES; 
+B: CREATE VIEW EMP_VIEW (EMP_ID, FIRSTNAME, LASTNAME)
+FROM EMPLOYEES; 
+C: CREATE VIEW EMP_VIEW (EMP_ID, FIRSTNAME, LASTNAME)
+AS SELECT EMP_ID, F_NAME, L_NAME;
+D: NEW VIEW EMP_VIEW (EMP_ID, FIRSTNAME, LASTNAME)
+AS SELECT EMP_ID, F_NAME, L_NAME
+FROM EMPLOYEES; 
+---
+CREATE VIEW EMP_VIEW (EMP_ID, FIRSTNAME, LASTNAME)
+AS SELECT EMP_ID, F_NAME, L_NAME
+FROM EMPLOYEES; 
+</>
+Which of the following SQL statements will create a view that lists only the employees in department number 7?
+A: CREATE VIEW EMP_VIEW (EMP_ID, FIRSTNAME, LASTNAME)
+AS SELECT EMP_ID, F_NAME, L_NAME
+FROM EMPLOYEES 
+WHERE DEP_ID = 7;
+B: CREATE VIEW EMP_VIEW (EMP_ID, FIRSTNAME, LASTNAME)
+AS SELECT EMP_ID, F_NAME, L_NAME
+WHERE DEP_ID = 7;
+C: CREATE VIEW EMP_VIEW (EMP_ID, FIRSTNAME, LASTNAME)
+AS SELECT EMP_ID, F_NAME, L_NAME
+FROM EMPLOYEES 
+IF DEP_ID = 7;
+D: CREATE VIEW EMP_VIEW (EMP_ID, FIRSTNAME, LASTNAME)
+WHERE DEP_ID = 7
+AS SELECT EMP_ID, F_NAME, L_NAME
+FROM EMPLOYEES;
+---
+CREATE VIEW EMP_VIEW (EMP_ID, FIRSTNAME, LASTNAME)
+AS SELECT EMP_ID, F_NAME, L_NAME
+FROM EMPLOYEES 
+WHERE DEP_ID = 7;
+</>
+You are developing an application that helps users transfer money from one bank account to another. In tests, the source account is debited, but the target account is not credited. Which of the following SQL commands undoes all the changes made during the transfer to leave the database in a stable state?
+A: ROLLBACK
+B: COMMIT
+C: BEGIN
+D: DROP
+---
+ROLLBACK
+</>
+An INNER JOIN returns only the rows that match. (T/F)
+A: True
+B: False
+---
+True
+</>
+A LEFT OUTER JOIN displays all the rows from the right table, and combines matching rows from the left table. (T/F)
+A: True
+B: False
+---
+False
+</>
+When using an OUTER JOIN, you must explicitly state what kind of OUTER JOIN  you want -  a LEFT JOIN, a RIGHT JOIN, or a FULL JOIN. (T/F)
+A: True
+B: False
+---
+True
+</>
+Which of the following are valid types of JOINs? 
+A: LEFT OUTER JOIN
+B: RIGHT OUTER JOIN
+C: FULL OUTER JOIN
+D: FULL LEFT JOIN
+E: All of the above
+---
+LEFT OUTER JOIN
+RIGHT OUTER JOIN
+FULL OUTER JOIN
+</>
+A FULL JOIN returns only the rows that match. (T/F)
+A: True
+B: False
+---
+False
+</>
+What is the difference between the maximum and minimum data entries in the set?
+A: Mode
+B: Mean
+C: Variance
+D: Range
+---
+Range
+</>
+Find the median of the data set. 3 ,8 ,9 ,11, 12, 15
+A: 9
+B: 10
+C: 11
+D: 12
+---
+10
+</>
+The measurements of spread or scatter of the individual values around the central point is called:
+A: Measures of dispersion
+B: Measures of central tendency
+C: Measure of skewness
+D: Measures of central tendency and Measures of dispersion
+---
+Measures of dispersion
+</>
+Which of the following is an example of time series data?
+A: Annual average housing price in New York 
+B: Batting average of a baseball player
+C: Number of trees in Jardin du Luxemburg in Paris
+D: Number of dolphins in the Pacific Ocean
+---
+Annual average housing price in New York 
+</>
+A: 5.5
+B: 3
+C: 1
+D: 3.5
+---
+3
+</>
+Which of the following is a measure of variability?
+A: B: Variance
+C: Median
+D: Mode
+---
+Variance
+</>
+Which of the following measures of central tendency will always change if a single value in the data changes?
+A: Mean
+B: Mode
+C: Median
+D: All of the above
+---
+Mean
+</>
+Which of the following data sets has a mean of 10 and standard deviation of 0?
+
+A: 0, 10, 20
+B: 10, 10, 10
+C: 0, 0, 0
+D: 15, 15, 15
+---
+10, 10, 10
+</>
+What is meta data?
+A: It’s the data about data 
+B: The data about metamorphism
+C: Data about metal fatigue
+D: The metabolism data in a clinical trial
+---
+It’s the data about data 
+</>
+Which of the following is an example of categorical data?
+A: Length of the river Nile
+B: Mode of travel to work 
+C: Number of fire hydrants in a city
+D: Number of children at a kindergarten
+---
+Mode of travel to work 
+</>
+Median represents a value in the data set where:
+A: Most observations are negative
+B: Most observations are positive
+C: Half of the observations are above the median and the other half below it
+D: Half of the observations are known and the other half not known
+---
+Half of the observations are above the median and the other half below it
+</>
+If the variance of a dataset is correctly computed with the formula using (n – 1) in the denominator, which of the following option is true?  
+A: Data is a population
+B: Data contains other variables with categorical data
+C: Data is a sample
+D: Data is from an unknown source
+---
+Data is a sample
+</>
+Which of the following is NOT a descriptive statistic?
+A: t-test
+B: Mean
+C: Median
+D: Standard Deviation
+---
+t-test
+</>
+What’s the best way to display median and outliers?
+A: A bubble chart
+B: A box plot
+C: A scatter plot
+D: A time series plot
+---
+A box plot
+</>
+What is a suitable way to display the average basketball scores between two teams?
+A: A bar chart
+B: A pie chart
+C: A histogram
+D: A scatter plot
+---
+A bar chart
+</>
+Which of the following is the suitable way to display the average income earned by men and women in a city?
+A: A scatter plot 
+B: A bar chart 
+C: A histogram
+D:  A pie chart 
+---
+A bar chart 
+</>
+What is a suitable way to display relationship between two continuous variables?
+A: A histogram
+B: A bar chart 
+C: A scatter plot
+D: A pie chart 
+---
+A scatter plot
+</>
+When the sum of two or more categories equals 100, what chart type is ideally suited for displaying data?
+A: A box plot
+B: A pie chart
+C:  A histogram
+D: A line chart
+---
+A pie chart
+</>
+Which of the following will return a scatterplot of age and evaluation scores differentiated by gender?
+A: 
+
+
+
+B: 
+
+
+
+C: 
+
+
+
+D: 
+
+
+
+---
+
+
+
+
+</>
+When multiple observations are reported for each respondent in the data set, to compute statistics for variables about the respondents, one must:
+A: Ignore the presence of duplicates and compute statistics as usual
+B: Weight data by duplicates
+C: Remove duplicates before running analysis
+D: None of the above
+---
+Remove duplicates before running analysis
+</>
+Given the histograms below,
+which histogram most closely depicts a normal distribution?
+
+A: A
+B: B
+C: C
+D: D
+---
+A
+</>
+If you got a 75 on a test in a class with a mean score of 85 and a standard deviation of 5, the z-score of your test score would be
+A: -3
+B: 2
+C: 3
+D: -2
+---
+-2
+</>
+The spread of the normal curve depends upon the value of: 
+A: Standard Deviation
+B: Median
+C: 1st quartile
+D: Mean
+---
+Standard Deviation
+</>
+The weekly earnings of bus drivers are normally distributed with a mean of $395. If only 0.84% of  the  bus  drivers  have  a  weekly  income  of  more  than  $429.35,  the  standard  deviation  of  the weekly earnings of the bus drivers is approximately
+A: 14.37
+B: 17
+C: 34.83
+D: 2.39
+---
+14.37
+</>
+For the following samples assume they follow a normal distribution and we assume equal variance, we will like to know if there is a difference between both sample means. If we perform a two-sample t-test for independent samples. What is the p-value for the test Statistics?
+Sample1 = 9, 11, 10,11,10,12, 9,11,12, 9, 10
+Sample2 = 10, 13, 10, 13, 12, 9, 11, 12, 12, 12, 13
+
+A: 0.0384
+B: 2.21
+C: 0.0885
+D: 0.975
+---
+0.0384
+</>
+What test is used to test the equality of variance
+A: ANOVA
+B: Levene's test
+C: z-test
+D: t-test
+---
+Levene's test
+</>
+Using the teacher's rating data, is there an association between native (native English speakers) and the number of credits taught? What test will you use? 
+
+A: Chi-Square Test for Association
+B: T-test
+C: ANOVA
+D: Z-test
+---
+Chi-Square Test for Association
+</>
+If I wanted to test for association using chi-square test, whether there is an association between gender (Male or Female) and tenure-ship (tenured or not tenured), what will be my degree of freedom?
+---
+(r-1) * (c-1) = 463
+</>
+Consider a normally distributed data set with mean μ = 63.18 inches and standard deviation σ= 13.27 inches. What is the z-score when x = 91.54 inches? (To 3 decimal places) 
+---
+2.137
+</>
+Battery life of smartphones is of great concern to customers. A consumer group tested four brands of smartphones to determine the battery life. Samples of phones of each brand were fully charged and left to run until the battery died. The table above displays the number of hours each of the batteries lasted. What test will be be using to test the difference in means?
+
+A: T-test
+B: Chi-square Test
+C: ANOVA
+D: Pearson Correlation Test
+---
+ANOVA
+</>
+A room  in a laboratory is only considered safe if the mean radiation level is 400 or less. When a sample of 10 radiation measurements were taken, the mean value of the radiation was 414 with a standard deviation of 17. There are concerns that mean radiation is above 414. Radiation levels in the lab are known to follow a normal distribution with standard deviation 22. We will like to conduct a hypothesis test at the 5% level of signiﬁcance to determine whether there is evidence that the laboratory is unsafe.
+What will be the appropriate test?
+
+A: z-test
+B: t-test
+C: ANOVA
+D: Chi-square 
+---
+z-test
+</>
+The mineral content of a particular brand of  supplement pills is normally distributed with mean 490 mg and variance of 400. What is the probability that a randomly selected pill contains at least 500 mg of minerals?
+A: 0.3085
+B: 0.2023
+C: 0.0525
+D: 0.7967 
+---
+0.3085
+</>
+The P-value for a normally distributed right-tailed test is P=0.042. Which of the following is INCORRECT?
+A: The P-value for a left-tailed test based on the same sample would be P= -0.042 
+B: The z-score test statistic is approximately z=1.73
+C: The P-value for a two-tailed test based on the same sample would be P=0.084 
+D: We will reject H0 at α=0.05, but not at α=0.01 
+---
+The P-value for a left-tailed test based on the same sample would be P= -0.042 
+</>
+The time X taken by a cashier in a grocery store express lane to complete a transaction follows a normal distribution with mean 90 seconds and standard deviation 20 seconds.What is the first quartile of the distribution of X (in seconds)?
+A: 88.0
+B: 73.8
+C: 81.2 
+D: 76.6
+---
+76.6
+</>
+A man accused of committing a crime is taking a polygraph (lie detector) test. The polygraph is essentially testing the hypotheses
+H0: The man is telling the truth  vs. Ha: The man is not telling the truth.
+Suppose we use a 5% level of significance. Based on the man’s responses to the questions asked, the polygraph determines a P-value of 0.08. We conclude that:
+A:  The probability that the man is telling the truth is 0.08.
+B: We reject the null hypothesis as there is sufficient evidence that the man is telling the truth.
+C: We fail to reject the null hypothesis as there is insufficient evidence that the man is not telling the truth.
+D: The probability that the man is not telling the truth is 0.08.
+---
+We fail to reject the null hypothesis as there is insufficient evidence that the man is not telling the truth.
+</>
+The average hourly wage at a fast-food restaurant is $5.85 with a standard deviation of $0.35. Assume that the wages are normally distributed. The probability that a selected worker earns more than $6.90 is
+A: 0
+B: 0.0013
+C: 0.4987
+D: 0.9987
+---
+0.0013
+</>
+We run a regression analysis between two continuous variables amount of food eaten vs the amount of calories burnt. If I get a coefficient of  -0.33 for the amount of food eaten and  an R-square value of 0.81. What is the correlation coefficient?
+A: -0.66
+B: 0.66
+C: 0.9
+D: -0.9
+---
+-0.9
+</>
+In the simple linear regression equation, the term B0 represents the:
+A: explanatory variable 
+B: estimated or predicted response 
+C: estimated slope 
+D: estimated intercept 
+---
+estimated intercept 
+</>
+Pearson correlation are concerned with:
+A: the relationship between two categorical variables
+B: the relationship between a quantitative explanatory variable and a categorical response variable
+C: the relationship between a categorical explanatory variable and a quantitative response variable.
+D: the relationship between two quantitative variables
+---
+the relationship between two quantitative variables
+</>
+Does running an ANOVA give the same p-value results as running a regression analysis when testing the difference in group means?
+A: True
+B: False
+---
+True
+</>
+Give the results of the regression analysis below, what is the correlation coefficient?
+
+
+A: 0.19
+B: 0.034
+C: 17.08
+D: 0.036
+---
+0.19
+</>
+Given the results for tenure-ship vs teaching evaluation, if our null hypothesis is that there is no difference in mean evaluation scores for professors who are tenured vs professors who are not tenured. What will be the conclusion of the t-test statistics?
+
+A: P-value is less than 0.05, that means that there is a difference in mean values for professors who are tenures versus professors who are not tenured.
+B: P-value is less than 0.05, we will fail to reject the null hypothesis.
+C: There is no conclusive evidence in the results above.
+---
+P-value is less than 0.05, that means that there is a difference in mean values for professors who are tenures versus professors who are not tenured.
+</>
+We run a regression analysis in place of a t-test to test if there is a difference in number of students enrolled in classes with professors who are visible minority(vismin = 1) vs professors who are not (vismin = 0). The table is shown below. What does the coefficient for vismin mean?
+
+
+A: Professors who are visible minority get about 21 students less on average that professors who aren't visible minority.
+B: We can't conclude because the error is too large and if factored could change the conclusion of the tests.
+C: Professors who are visible minority get about 58 students less on average that professors who aren't visible minority.
+D: Professors who are visible minority get about 21 students more on average that professors who aren't visible minority.
+---
+Professors who are visible minority get about 21 students less on average that professors who aren't visible minority.
+</>
+Which of these are correct about correlation coefficient? (Select all that apply)
+A: A correlation coefficient of -0.9 indicates a strong linear relationship?
+B: A correlation coefficient of -0.9 indicates a weak linear relationship?
+C: The correlation coefficient (r) ranges from -1 to 1
+D: The correlation coefficient (r) ranges from 0 to 1
+---
+A correlation coefficient of -0.9 indicates a strong linear relationship?
+The correlation coefficient (r) ranges from -1 to 1
+</>
+Which of these options is most likely to be the null hypothesis for testing correlation between two variables?
+A: There is an association  between an instructor’s looks and teaching  evaluation  score.
+B: There is no association  between an instructor’s looks and teaching  evaluation  score.
+C: There is a partial association  between an instructor’s looks and teaching  evaluation  score.
+---
+There is no association  between an instructor’s looks and teaching  evaluation  score.
+</>
+If we ran a regression analysis between two continuous variables amount of time spent running on a treadmill vs the amount of calories burnt. If I get a coefficient of 0.33 for the amount of time running on the treadmill and  an R-square value of 0.81. What is the correlation coefficient?
+A: 0.9
+B: 0.77
+C: 0.81
+D: 0.66
+---
+0.9
+</>
+Which of the following best explains a scatter plot?
+A: A one-dimensional graph of randomly scattered data.
+B: A two-dimensional graph of a straight line.
+C: A two-dimensional graph of data values. 
+D: A two-dimensional graph of a curved line.
+---
+A two-dimensional graph of data values. 
+</>
+
+Which of the following is the best example of categorical data?
+A: Cost of houses in a state
+B: Average temperature of a lake on each day of a year
+C: Number of cars owned by a household
+D: Weights of children at a school
+---
+Number of cars owned by a household
+</>
+What is the mean of the following data set?
+1, 1, 2, 5, 6 
+A: 2
+B: 1
+C: 3
+D: 5
+---
+3
+</>
+Which of the following would be the most appropriate way to visually display the mode of a data set?     
+A: A box plot
+B: A line graph
+C: A pie chart
+D: A histogram
+---
+A histogram
+</>
+Which of the following data sets would be most appropriate for a bar chart?
+A: Elementary school children’s favorite colors
+B: Average temperature of a lake on each day of a year
+C: Price distribution of hotel rooms
+D: Percent of a population by race
+---
+Elementary school children’s favorite colors
+</>
+True or false? The statement, “Smoking does not increase your chance of getting lung cancer” is an example of a null hypothesis.
+A: True 
+B: False
+---
+True 
+</>
+In a two-tailed hypothesis test, let the null hypothesis µ be less than or equal to 100, alpha = 0.1, and the p-value = 0.04. Which of the following statements is true?
+A: Reject the null hypothesis because the p-value is less than alpha.
+B: Fail to reject the null hypothesis because the p-value is less than alpha.
+C: Fail to reject the null hypothesis because the p-value is less than half of alpha.
+D: Reject the null hypothesis because the p-value is less than half of alpha.
+---
+Fail to reject the null hypothesis because the p-value is less than half of alpha.
+</>
+Which of the following statements is true about z-tests and t-tests?
+A: When comparing the means of two independent samples with equal means, a z-test should be used.
+B: When comparing the means of two independent samples with equal variances, a t-test should be used.
+C: When comparing the means of two independent samples with unequal means, a z-test should be used.
+D: When comparing the means of two independent samples with unequal variances, a t-test should be used.
+---
+When comparing the means of two independent samples with equal variances, a t-test should be used.
+</>
+‘Which statement is true regarding the F-distribution?
+A: It should be used in conjunction with an ANOVA.
+B: It should be used in conjunction with a p-test.
+C: It should be used in conjunction with a t-test.
+D: It should be used in conjunction with a z-test.
+---
+It should be used in conjunction with an ANOVA.
+</>
+Which of the following tests is most appropriate to find the correlation between a dependent and independent variable?
+A: Regression
+B: F-Test
+C: T-test
+D: ANOVA
+---
+Regression
+</>
+The total profit, y, for a product based on the amount of money, x, spent on advertising can be represented with the linear regression equation y = 375 + 87x + 52 where epsilon is 52. What does the number 52 represent?
+A: The number 52 is the mean amount of money spent on advertising.
+B: The number 52 is the amount of money spent on advertising per product.
+C: The number 52 is the amount of increase in profit for every dollar spent on advertising.
+D: The number 52 is the amount spent on advertising that is not explained by the model.
+---
+The number 52 is the amount spent on advertising that is not explained by the model.
