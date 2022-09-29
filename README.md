@@ -1,4 +1,4 @@
-# Coursera To Quizlet using Python
+# Coursera To Quizlet using Python (Code not finished)
 ## Intro
 Ở đây, mình đã dùng Python và cụ thể là thư viện **Beautiful Soup** để lấy data về câu hỏi và câu trả lời từ trang quiz của Coursera và đóng gói thành bộ câu hỏi để đưa vào Quizlet dùng chức năng import. </br>
 Do mình học AI và Khóa K17 của tụi mình có một số môn mới nên mình phải làm suộc mới cho mọi người thôi.
