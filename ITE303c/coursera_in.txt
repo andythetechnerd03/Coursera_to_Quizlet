@@ -1,0 +1,48 @@
+1.
+Question 1
+Learning algorithms require large datasets, which means storing identifying information about users
+
+ 
+
+true
+
+
+false
+
+Answer: true
+2.
+Question 2
+A _________ _________ in machine learning is the idea that the algorithm itself influences the next set of inputs that go into the model. The main takeaway is that algorithms sometimes have more influence than a user's initial input.
+
+ 
+
+feedback loop
+
+
+large dataset
+
+
+learning algorithm
+
+
+false dichotomy
+
+Answer: feedback loop
+3.
+Question 3
+Are anonymous datasets truly anonymous? 
+
+
+
+Yes, thanks to privacy regulations
+
+
+Yes, thanks to machine learning randomness algorithms
+
+
+No, due to lacking regulations
+
+
+No, due to combining data and re-identification
+
+Answer: No, due to combining data and re-identification
