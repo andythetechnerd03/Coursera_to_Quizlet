@@ -1,0 +1,2185 @@
+(True/False) Machine Learning is a subset of Artificial Intelligence
+A: False
+B: True
+---
+True
+</>
+(True/False) Deep Learning is a subset of Machine Learning
+A: False
+B: True
+---
+True
+</>
+(True/False) Machine Learning consists in programming computers to learn from real-time human interactions
+A: False
+B: True
+---
+False
+</>
+(True/False) AI Winters happened mostly due to the lack of understanding behind the theory of neural networks
+A: True
+B: False
+---
+True
+</>
+Most modern applications that use computer vision, use models that were trained using this discipline:
+A: Machine Learning
+B: Artificial Intelligence
+C: Deep Learning
+---
+Deep Learning
+</>
+In the Machine Learning Workflow, the main goal of the Data Exploration and Preprocessing step is to:
+A: Identify what data that is best suited to find a solution to your business problem
+B: Determine how to clean your data such that you can use it to train a model
+---
+Determine how to clean your data such that you can use it to train a model
+</>
+What is the goal of supervised learning?
+A: Predict the labels.
+B: Find the target.
+C: Find an underlying structure of the dataset without any labels.
+D: Predict the features.
+---
+Predict the labels.
+</>
+What is deep learning? 
+A: Deep learning is machine learning that involves deep neural networks.
+B: Deep learning is another name for artificial intelligence.
+C: Deep learning includes artificial intelligence and machine learning. 
+D: None of the above are correct.
+---
+Deep learning is machine learning that involves deep neural networks.
+</>
+When is a standard machine learning algorithm usually a better choice than using deep learning to get the job done?
+A: When working with small data sets.
+B: When the data is steady over time.
+C: When working with large data sets. 
+D: None of the above are correct.
+---
+When working with small data sets.
+</>
+What is a Turing test?
+A: It tests images.
+B: It tests and cleans the dataset. 
+C: It tests the dataset.
+D: It tests a machine's ability to exhibit intelligent behavior. 
+---
+It tests a machine's ability to exhibit intelligent behavior. 
+</>
+What are some of the different milestones in deep learning history?
+A: Geoffrey Hinton’s work, AlexNet, and TensorFlow
+B: Deep Blue defeats a world champion chess player and TensorFlow is released
+C: Deep Blue defeats a world champion chess player, and AlexNet is created.
+D: Deep Blue defeats a world champion chess player, and Keras is released.
+---
+Geoffrey Hinton’s work, AlexNet, and TensorFlow
+</>
+What is artificial intelligence?
+A: A subset of deep learning.
+B: Any program that can sense, reason, act, and adapt.
+C: A subset of machine learning
+D: None of the above. 
+---
+Any program that can sense, reason, act, and adapt.
+</>
+What are two spaces within AI that are going through drastic growth and innovation?
+A: Language processing and deep learning.
+B: Deep learning and machine learning. 
+C: Computer vision and natural language processing.
+D: Computer vision and deep learning.
+---
+Computer vision and natural language processing.
+</>
+Why did AI flourish so much in the last years?
+A: Faster and inexpensive computers and data storage
+B: Access to hardware for cleaning data 
+C: Stylish designed computers
+D: Data storage in the cloud is much more expensive
+---
+Faster and inexpensive computers and data storage
+</>
+How does Alexa use artificial intelligence?
+A: Recognizes faces and pictures.
+B: Recognizes our voice and answers questions.
+C: Suggests who a person on a photo is.
+D: None of the above answers are correct. 
+---
+Recognizes our voice and answers questions.
+</>
+What are the first two steps of a typical machine learning workflow?
+A: Problem statement and data cleaning.
+B: Problem statement and data collection.
+C: Data collection and data transformation.
+D: None of the above answers is correct. 
+---
+Problem statement and data collection.
+</>
+Which statement about the Pandas read_csv function is TRUE?
+A: It reads data into a 2-dimensional NumPy array.
+B: It can read both tab-delimited and space-delimited data.
+C: It can only read comma-delimited data.
+D: It allows only one argument: the name of the file. 
+---
+It can read both tab-delimited and space-delimited data.
+</>
+Which of the following is a reason to use JavaScript Object Notation (JSON) files for storing data?
+A: Because the data is stored in a matrix format.
+B: Because they can store NA values.
+C: Because they can store NULL values.
+D: Because they are cross-platform compatible.
+---
+Because they are cross-platform compatible.
+</>
+The data below appears in 'data.txt', and Pandas has been imported. Which Python command will read it correctly into a Pandas DataFrame? 
+63.03 22.55 39.61 40.48 98.67 -0.25 AB
+39.06 10.06 25.02 29 114.41 4.56 AB
+68.83 22.22 50.09 46.61 105.99 -3.53 AB 
+A:  pandas.read_csv('data.txt')
+B: pandas.read_csv('data.txt', header=None, sep=' ')
+C: pandas.read_csv('data.txt', delim_whitespace=True)
+D: pandas.read_csv('data.txt', header=0, delim_whitespace=True) 
+---
+pandas.read_csv('data.txt', header=None, sep=' ')
+</>
+(True/False) Outliers must be very extreme to noticeably impact the fit of a statistical model. 
+A: True
+B: False
+---
+False
+</>
+(True/False) Outliers should always be replaced, since they never contain useful information about the data. 
+A: True
+B: False
+---
+False
+</>
+Which residual-based approach to identifying outliers compares running a model with all data to running the same model, but dropping a single observation? 
+A: Standardized residuals
+B: Unstandardized residuals
+C: Externally-studentized residuals
+D: Abnormally-studentized residuals 
+---
+Externally-studentized residuals
+</>
+What is a CSV file?
+A: CSV is a method of JavaScript Object Notation.
+B: CSV files are rows of data or values separated by commas.
+C: CSV makes data readily available for analytics, dashboards, and reports.
+D: CSV files are a standard way to store data across platforms.
+---
+CSV files are rows of data or values separated by commas.
+</>
+What are residuals?
+A: Residuals are a method for handling identified outliers.
+B: Residuals are the difference between the actual values and the values predicted by a given model.
+C: Residuals are data removed from the dataframe.
+D: Residuals are a method to standardize data.
+---
+Residuals are the difference between the actual values and the values predicted by a given model.
+</>
+If removal of rows or columns of data is not an option, why must we ensure that information is assigned for missing data?
+A: Information must be assigned to prevent outliers.
+B: Most models will not accept blank values in our data. 
+C: Missing data may bias the dataset.
+D: Assigning information for missing data improves the accuracy of the dataset.
+---
+Most models will not accept blank values in our data. 
+</>
+What are the two main data problems companies face when getting started with artificial intelligence/machine learning?
+A: Outliers and duplicated data
+B: Lack of relevant data and bad data
+C: Lack of training and expertise 
+D: Data sampling and categorization
+---
+Lack of relevant data and bad data
+</>
+What does SQL stand for and what does it represent?
+A: SQL stands for Structured Query Language, and it represents databases that are not relational, they vary in structure.    
+B: SQL stands for Sequential Query Language, and it represents a set of relational databases with fixed schemas.
+C: SQL stands for Structured Query Language, and it represents a set of relational databases with fixed schemas.
+D: SQL stands for Sequential Query Language, and it represents a set of sequential databases with fixed schemas.
+---
+SQL stands for Structured Query Language, and it represents a set of relational databases with fixed schemas.
+</>
+What does NoSQL stand for and what does it represent?
+A: NoSQL stands for Non-Structured Query Language, and it represents a set of non-relational databases with varied schemas.
+B: NoSQL stands for Not-only SQL, and it represents a set of databases that are not relational, therefore, they vary in structure. 
+C: NoSQL stands for Non-Structured Query Language, and it represents a set of relational databases with fixed schemas.
+D: NoSQL stands for Not-only SQL, and it represents a set of databases that are relational, therefore, they have fixed structure.
+---
+NoSQL stands for Not-only SQL, and it represents a set of databases that are not relational, therefore, they vary in structure. 
+</>
+What is a JSON file?
+A: JSON stands for JavaString Object Notation, and they have very similar structure to Python Dictionaries.
+B: JSON stands for JavaScript Object Notation, and it is a standard way to store the data across platforms.
+C: JSON stands for JavaScript Object Notation, and it is a non-standard way to store the data across platforms.
+D: JSON stands for JavaString Object Notation, and it is a standard way to store the data across platforms.
+---
+JSON stands for JavaScript Object Notation, and it is a standard way to store the data across platforms.
+</>
+What is meant by the Messy Data?
+A: Duplicated or unnecessary data.
+B: Inconsistent text and typos.
+C: Missing data.
+D: All of the above.
+---
+All of the above.
+</>
+What is an outlier?
+A: Outlier is a data point that has the highest or lowest value in the dataset.
+B: Outlier is a data point that does not belong in our dataset.
+C: Outlier is a data point that is very close to the mean value of all observations.
+D: Outlier is an observation in dataset that is distant from most other observations.
+---
+Outlier is an observation in dataset that is distant from most other observations.
+</>
+How do we identify outliers in our dataset?
+A: We can only identify outliers visually through building plots.
+B: We can identify outliers only by calculating the minimum and maximum values in the dataset.
+C: We can identify outliers both visually and with statistical calculations.
+D: We can only identify outliers by using some statistical calculations. 
+---
+We can identify outliers both visually and with statistical calculations.
+</>
+From the options listed below, select the option that is NOT a valid exploratory data approach to visually confirm whether your data is ready for modeling or if it needs further cleaning or data processing:
+A: Create a panel plot that shows distributions for the dependent variable and scatter plots for all independent variables
+B: Train a model and identify the observations with the largest residuals
+C: Create visualizations for scatter plots, histograms, box plots, and hexbin plots
+D: Create a correlation heatmap to confirm the sign and magnitude of correlation across your features.
+---
+Create a correlation heatmap to confirm the sign and magnitude of correlation across your features.
+</>
+These are two of the most common variables for data visualization:
+A: matplotlib and seaborn
+B: scipy and seaborn
+C: numpy and matplotlib
+D: scipy and numpy
+---
+matplotlib and seaborn
+</>
+(True/False) You can use the pandas library to use plots.
+A: True
+B: False
+---
+True
+</>
+(True/False) Classification models require that input features be scaled. 
+A: True
+B: False 
+---
+False 
+</>
+(True/False) Feature scaling allows better interpretation of distance-based approaches. 
+A: True
+B: False 
+---
+True
+</>
+(True/False) Feature scaling reduces distortions caused by variables with different scales. 
+A: True
+B: False 
+---
+True
+</>
+Which scaling approach converts features to standard normal variables?
+A: MinMax scaling
+B: Standard scaling
+C: Robust scaling
+D: Nearest neighbor scaling
+---
+Standard scaling
+</>
+Which variable transformation should you use for ordinal data?
+A: Min-max scaling
+B: Standard scaling
+C: One-hot encoding
+D: Ordinal encoding
+---
+Ordinal encoding
+</>
+What are polynomial features?
+A: They are higher order relationships in the data.
+B: They are represented by linear relationships in the data.
+C: They are logistic regression coefficients.
+D: They are lower order relationships in the data.
+---
+They are higher order relationships in the data.
+</>
+What does Boxcox transformation do?
+A: It transforms categorical variables into numerical variables.
+B: It makes the data more left skewed
+C: It transforms the data distribution into more symmetrical bell curve
+D: It makes the data more right skewed.
+---
+It transforms the data distribution into more symmetrical bell curve
+</>
+Select three important reasons why EDA is useful.
+A: To determine if the data makes sense, to determine whether further data cleaning is needed, and to help identify patterns and trends in the data
+B: To analyze data sets, to determine the main characteristics of data sets, and to use sampling to examine data
+C: To examine correlations, to sample from dataframes, and to train models on random samples of data
+D: To utilize summary statistics, to create visualizations, and to identify outliers
+---
+To determine if the data makes sense, to determine whether further data cleaning is needed, and to help identify patterns and trends in the data
+</>
+What assumption does the linear regression model make about data?
+A: This model assumes an addition of each one of the model parameters multiplied by a coefficient.
+B: This model assumes that raw data in data sets is on the same scale.
+C: This model assumes a transformation of each parameter to a linear relationship.
+D: This model assumes a linear relationship between predictor variables and outcome variables.
+---
+This model assumes a linear relationship between predictor variables and outcome variables.
+</>
+What is skewed data?
+A: Data that has a normal distribution.
+B: Raw data that may not have a linear relationship.
+C: Raw data that has undergone log transformation.
+D: Data that is distorted away from normal distribution; may be positively or negatively skewed.
+---
+Data that is distorted away from normal distribution; may be positively or negatively skewed.
+</>
+Select the two primary types of categorical feature encoding.
+A: Log and polynomial transformation
+B: Nominal encoding and ordinal encoding
+C: Encoding and scaling
+D: One-hot encoding and ordinal encoding 
+---
+Nominal encoding and ordinal encoding
+</>
+Which scaling approach puts values between zero and one?
+A: Min-max scaling
+B: Robust scaling
+C: Standard scaling
+D: Nearest neighbor scaling
+---
+Min-max scaling
+</>
+Which variable transformation should you use for nominal data with multiple different values within the feature?
+A: Ordinal encoding
+B: Standard scaling
+C: One-hot encoding
+D: Min-max scaling
+---
+One-hot encoding
+</>
+(True/False) In general, the population parameters are unknown.
+A: True.
+B: False.
+---
+True.
+</>
+(True/False) Parametric models have finite number of parameters.
+A: True.
+B: False. 
+---
+True.
+</>
+The most common way of estimating parameters in a parametric model is:
+A: using the maximum likelihood estimation
+B: using the central limit theorem
+C: extrapolating a non-parametric model
+D: extrapolating Bayesian statistics
+---
+using the maximum likelihood estimation
+</>
+A p-value is:
+A: the smallest significance level at which the null hypothesis would be rejected
+B: the probability of the null hypothesis being true
+C: the probability of the null hypothesis being false
+D: the smallest significance level at which the null hypothesis is accepted
+---
+the smallest significance level at which the null hypothesis would be rejected
+</>
+Type 1 Error 1 is defined as:
+A: Saying the null hypothesis is false, when it is actually true
+B: Saying the null hypothesis is true, when it is actually false
+---
+Saying the null hypothesis is false, when it is actually true
+</>
+You find through a graph that there is a strong correlation between Net Promoter Score and the visual time that customers spend on a website. Select the TRUE assertion:
+A: There is an underlying factor that explains this correlation, but manipulating the time that customers spend on a website may not affect the Net Promoter Score they will give to the company
+B: To boost the Net Promoter Score of a business, you need to increase the time that customers spend on a website.
+---
+There is an underlying factor that explains this correlation, but manipulating the time that customers spend on a website may not affect the Net Promoter Score they will give to the company
+</>
+Which one of the following is common to both machine learning and statistical inference?
+A: Using sample data to make inferences about a hypothesis.
+B: Using population data to make inferences about a null sample.
+C: Using population data to model a null hypothesis.
+D: Using sample data to infer qualities of the underlying population distribution.
+---
+Using sample data to infer qualities of the underlying population distribution.
+</>
+Which one of the following describes an approach to customer churn prediction stated in terms of probability?
+A: Data related to churn may include the target variable for whether a certain customer has left. 
+B: Churn prediction is a data-generating process representing the actual joint distribution between our x and the y variable.
+C: Predicting a score for individuals that estimates the probability the customer will stay.
+D: Predicting a score for individuals that estimates the probability the customer will leave.
+---
+Predicting a score for individuals that estimates the probability the customer will leave.
+</>
+What is customer lifetime value?
+A: The total purchases over the time which the person is a customer.
+B: The total churn a customer generates in the population.
+C: The total churn generated by a customer over their lifetime.
+D: The total value that the customer receives during their life.
+---
+The total purchases over the time which the person is a customer.
+</>
+Which one the following statements about the normalized histogram of a variable is true?
+A: It is a non-parametric representation of the population variance.
+B: It provides an estimate of the variable’s probability distribution. 
+C: It serves as a bar chart for the null hypothesis.
+D: It is a parametric representation of the population distribution.
+---
+It provides an estimate of the variable’s probability distribution. 
+</>
+The outcome of rolling a fair die can be modelled as a _______ distribution.
+A: Poisson
+B: log-normal
+C: uniform
+D: normal
+---
+uniform
+</>
+Which one of the following features best distinguishes the Bayesian approach to statistics from the Frequentist approach?
+A: Frequentist statistics incorporates the probability of the hypothesis being true.
+B: Bayesian statistics incorporate the probability of the hypothesis being true.
+C: Frequentist statistics requires construction of a prior distribution.
+D: Bayesian statistics is better than Frequentist.
+---
+Bayesian statistics incorporate the probability of the hypothesis being true.
+</>
+Which of the following best describes what a hypothesis is?
+A: A hypothesis is a statement about a posterior distribution.
+B: A hypothesis is a statement about a prior distribution. 
+C: A hypothesis is a statement about a population.
+D: A hypothesis is a statement about a sample of the population.
+---
+A hypothesis is a statement about a population.
+</>
+A Type 2 error in hypothesis testing is _____________________:
+A: correctly rejecting the alternative hypothesis.
+B: incorrectly accepting the null hypothesis.
+C: correctly rejecting the null hypothesis.
+D: incorrectly accepting the alternative hypothesis.
+---
+incorrectly accepting the null hypothesis.
+</>
+Which statement best describes a consequence of a type II error in the context of a churn prediction example? Assume that the null hypothesis is that customer churn is due to chance, and that the alternative hypothesis is that customers enrolled for greater than two years will not churn over the next year. 
+A: You correctly conclude that a customer will eventually churn
+B: You correctly conclude that customer churn is by chance
+C: You incorrectly conclude that there is no effect
+D: You incorrectly conclude that customer churn is by chance
+---
+You incorrectly conclude that customer churn is by chance
+</>
+Which of the following is a statistic used for hypothesis testing?
+A: The acceptance region.
+B: The standard deviation.
+C: The likelihood ratio.
+D: The rejection region.
+---
+The likelihood ratio.
+</>
+Predicting payment default, whether a transaction is fraudulent, and whether a customer will be part of the top 5% spenders on a given year, are examples of:
+A: classification
+B: regression
+---
+classification
+</>
+(True/False) It is less concerning to treat a Machine Learning model as a black box for prediction purposes, compared to interpretation purposes:
+A: True
+B: False
+---
+True
+</>
+Predicting total revenue, number of customers, and percentage of returning customers are examples of:
+A: classification
+B: regression
+---
+regression
+</>
+(True/False) The Sum of Squared Errors (SSE) can be used to select the best-fitting regression model. 
+A: True
+B: False
+---
+True
+</>
+(True/False) The R-squared value from estimating a linear regression model will almost always increase if more features are added.
+A: True
+B: False
+---
+True
+</>
+(True/False) The Total Sum of Squares (TSS) can be used to select the best-fitting regression model.
+A: True
+B: False
+---
+False
+</>
+You can use supervised machine learning for all of the following examples, EXCEPT:
+A: Segment customers by their demographics.
+B: Predict the number of customers that will visit a store on a given week.
+C: Predict the probability of a customer returning to a store.
+D: Interpret the main drivers that determine if a customer will return to a store.
+---
+Segment customers by their demographics.
+</>
+The autocorrect on your phone is an example of:
+A: Unsupervised learning
+B: Supervised learning
+C: Semi-supervised learning
+D: Reinforcement learning
+---
+Supervised learning
+</>
+This is the type of Machine Learning that uses both data with labeled outcomes and data without labeled outcomes:
+A: Supervised Machine Learning
+B: Unsupervised Machine Learning
+C: Mixed Machine Learning
+D: Semi-Supervised Machine Learning
+---
+Semi-Supervised Machine Learning
+</>
+This option describes a way of turning a regression problem into a classification problem:
+A: Create a new variable that flags 1 for above a certain value and 0 otherwise
+B: Use outlier treatment
+C: Use missing value handling
+D: Create a new variable that uses autoencoding to transform a continuous outcome into categorical
+---
+Create a new variable that flags 1 for above a certain value and 0 otherwise
+</>
+This is the syntax you need to predict new data after you have trained a linear regression model called LR :
+A: LR=predict(X_test)
+B: LR.predict(X_test)
+C: LR.predict(LR, X_test)
+D: predict(LR, X_test)
+---
+LR.predict(X_test)
+</>
+All of these options are useful error measures to compare regressions except:
+A: SSE
+B: R squared
+C: TSS
+D: ROC index
+---
+ROC index
+</>
+All of the listed below are part of the Machine Learning Framework, except:
+A: Observations
+B: Features
+C: Parameters
+D: None of the above
+---
+None of the above
+</>
+Select the option that is the most INACCURATE regarding the definition of Machine Learning:
+A: Machine Learning allows computers to learn from data
+B: Machine Learning allows computers to infer predictions for new data
+C: Machine Learning is a subset of Artificial Intelligence
+D: Machine Learning is automated and requires no programming
+---
+Machine Learning is automated and requires no programming
+</>
+In Linear Regression, which statement about model evaluation is the most accurate? 
+A: Model selection involves choosing a model that minimizes the cost function.
+B: Model estimation involves choosing parameters that minimize the cost function.
+C: Model estimation involves choosing a cost function that can be compared across models. 
+D: Model selection involves choosing modeling parameters that minimize in-sample validation error. 
+---
+Model estimation involves choosing parameters that minimize the cost function.
+</>
+When learning about regression we saw the outcome as a continuous number. Given the below options what is an example of regression?
+A: A fraudulent charge
+B: Under certain circumstances determine if a person is a Republican or Democrat
+C: Customer churn
+D: Housing prices
+---
+Housing prices
+</>
+What is another term for the testing data:
+A: Training data
+B: Unseen data
+C: Corroboration data
+D: Cross validation data
+---
+Unseen data
+</>
+(True/False) The ShuffleSplit will ensure that there is no bias in your outcome variable.
+A: True
+B: False
+---
+True
+</>
+Select the option that has the syntax to obtain the data splits you will need to train a model having a test split that is a third the size of your available data.
+A: X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5)
+B: X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33)
+C: X_train, y_test = train_test_split(X, y, test_size=0.33)
+D: X_train, y_test = train_test_split(X, y, test_size=0.5)
+---
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33)
+</>
+What is the main goal of adding polynomial features to a linear regression? 
+A: Remove the linearity of the regression and turn it into a polynomial model.
+B: Capture the relation of the outcome with features of higher order.
+C: Increase the interpretability of a black box model.
+D: Ensure similar results across all folds when using K-fold cross validation.
+---
+Capture the relation of the outcome with features of higher order.
+</>
+What is the most common sklearn methods to add polynomial features to your data? 
+Note: polyFeat = PolynomialFeatures(degree)
+A: polyFeat.add and polyFeat.transform
+B: polyFeat.add and polyFeat.fit
+C: polyFeat.fit and polyFeat.transform
+D: polyFeat.transform
+---
+polyFeat.fit and polyFeat.transform
+</>
+How can you adjust the standard linear approach to regression when dealing with fundamental problems such as prediction or interpretation?
+A: Create a class instance
+B: Add some non-linear patterns, i.e., polynomial features
+C: Import the transformation method
+D: By transforming the data
+---
+Add some non-linear patterns, i.e., polynomial features
+</>
+The main purpose of splitting your data into a training and test sets is: 
+A: To improve accuracy
+B: To avoid overfitting
+C: To improve regularization
+D: To improve crossvalidation and overfitting
+---
+To avoid overfitting
+</>
+Complete the following sentence: The training data is used to fit the model, while the test data is used to:
+A: measure the parameters and hyperparameters of the model
+B: tweak the model hyperparameters
+C: tweak the model parameters
+D: measure error and performance of the model
+---
+measure error and performance of the model
+</>
+What term is used if your test data leaks into the training data?
+A: Test leakage
+B: Training leakage
+C: Data leakage 
+D: Historical data leakage
+---
+Data leakage 
+</>
+Which one of the below terms use a linear combination of features?
+A: Binomial Regression
+B: Linear Regression
+C: Multiple Regression
+D: Polynomial Regression
+---
+Linear Regression
+</>
+When splitting your data, what is the purpose of the training data?
+A: Compare with the actual value
+B: Fit the actual model and learn the parameters
+C: Predict the label with the model
+D: Measure errors
+---
+Fit the actual model and learn the parameters
+</>
+Polynomial features capture what effects?
+A: Non-linear effects. 
+B: Linear effects.
+C: Multiple effects. 
+D: Regression effects. 
+---
+Non-linear effects. 
+</>
+Which fundamental problems are being solved by adding non-linear patterns, such as polynomial features, to a standard linear approach?
+A: Prediction. 
+B: Interpretation. 
+C: Prediction and Interpretation. 
+D: None of the above. 
+---
+Prediction and Interpretation. 
+</>
+A testing data could be also reffered to as:
+A: Training data
+B: Unseen data
+C: Corroboration data
+D: None of the above
+---
+Unseen data
+</>
+Select the correct syntax to obtain the data split that will result in a train set that is 60% of the size of your available data.
+A: X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.6)
+B: X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4)
+C: X_train, y_test = train_test_split(X, y, test_size=0.40)
+D: X_train, y_test = train_test_split(X, y, test_size=0.6)
+---
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4)
+</>
+What is the correct sklearn syntax to add a third degree polynomial to your model? 
+A: polyFeat = polyFeat.add(degree=3) 
+B: polyFeat = polyFeat.fit(degree=3)
+C: polyFeat = PolynomialFeatures(degree=3)
+D: polyFeat = polyFeat.transform(degree=3)
+---
+polyFeat = PolynomialFeatures(degree=3)
+</>
+(True/False) In model complexity versus error diagram, the model compexity increases as the training error decreases.
+A: True
+B: False
+---
+False
+</>
+(True/False) In model complexity versus error diagram, there is an inflection point after which, as the cross validatio error increases, so does  the complexity of the model.
+A: True
+B: False
+---
+True
+</>
+(True/False) In the model complexity versus error diagram, the right side of the curve is where the model is underfitted and the left side of the curve, is where the model is overfitted. 
+A: True
+B: False
+---
+False
+</>
+In K-fold cross-validation, how will increasing k affect the variance (across subsamples) of estimated model parameters?
+A: Increasing k will not affect the variance of estimated parameters. 
+B: Increasing k will usually reduce the variance of estimated parameters. 
+C: Increasing k will usually increase the variance of estimated parameters. 
+D: Increasing k will increase the variance of estimated parameters if models are underfit, but reduce it if models are overfit. 
+---
+Increasing k will usually increase the variance of estimated parameters. 
+</>
+Which statement about K-fold cross-validation below is TRUE?
+A: Each subsample in K-fold cross-validation has at least k observations.
+B: Each of the k subsamples in K-fold cross-validation is used as a training set.
+C: Each of the k subsamples in K-fold cross-validation is used as a test set.
+D: Each subsample in K-fold cross-validation has at least k-1 observations.
+---
+Each of the k subsamples in K-fold cross-validation is used as a test set.
+</>
+If a low-complexity model is underfitting during estimation, which of the following is MOST LIKELY true (holding the model constant) about K-fold cross-validation?
+A: K-fold cross-validation will still lead to underfitting, for any k.
+B: K-cross-validation with a small k will reduce or eliminate underfitting.
+C: K-fold cross-validation with a large k will reduce or eliminate underfitting.
+D: None of the above.
+---
+K-fold cross-validation will still lead to underfitting, for any k.
+</>
+Which of the following statements about a high-complexity model in a linear regression setting is TRUE?
+A: Cross-validation with a small k will reduce or eliminate overfitting.
+B: A high variance of parameter estimates across cross-validation subsamples indicates likely overfitting.
+C: A low variance of parameter estimates across cross-validation subsamples indicates likely overfitting.
+D: Cross-validation with a large k will reduce or eliminate overfitting.
+---
+A high variance of parameter estimates across cross-validation subsamples indicates likely overfitting.
+</>
+Reviewing the below graph, what is the model considered when associated with the left side of this curve before hitting the plateau?
+A: Overfitting
+B: Linear regression
+C: Cross validation error
+D: Underfitting
+---
+Underfitting
+</>
+Reviewing the below graph, what is the model considered when associated with the right side of the cross validation error?
+A: Overfitting
+B: Polynomial regression
+C: Training error
+D: Underfitting
+---
+Overfitting
+</>
+Which of the following functions perform K-fold cross-validation for us, appropriately fitting and transforming at every step of the way?
+A: 'cross_val'
+B: 'cross_validation'
+C: 'cross_validation_predict'
+D: 'cross_val_predict'
+---
+'cross_val_predict'
+</>
+Which of the following statements about cross-validation is/are True?
+A: Cross-validation is essential step in hyperparameter tuning.
+B: We can manually generate folds by using  KFold function.
+C: GridSearchCV is commontly used in cross-validation.
+D: All of the above are True.
+---
+All of the above are True.
+</>
+Which of the following statements about GridSearchCV is/are True?
+A: GridSearchCV scans over a dictionary of parameters.
+B: GridSearchCV finds the hyperparameter set that has the best out-of-sample score.
+C: GridSearchCV  retrains on all data with the "best" hyper-parameters.
+D: All of the above are True.
+---
+All of the above are True.
+</>
+Which of the below functions, randomly selects data to be in the train/test folds?
+A: `StratifiedKFold`
+B: `GroupKFold`
+C: 'KFold' and `StratifiedKFold`
+D: 'KFold'
+---
+'KFold' and `StratifiedKFold`
+</>
+(True/False) The variance of a model is determined by the degree of irreducible error.
+A: True
+B: False
+---
+False
+</>
+(True/False) As more variables are added to a model, both its complexity and its variance generally increase.
+A: True
+B: False
+---
+True
+</>
+(True/False) Model adjustments that decrease bias also decrease variance, leading to a bias-variance trade off.
+A: True
+B: False
+---
+False
+</>
+(True/False) Regularization zeroes out or gets model’s coefficients closer to zero and, in such a way, it avoids the data being overfitted.
+A: True
+B: False
+---
+True
+</>
+(True/False) Scaling the features is not very important before using regularization techniques. 
+A: True
+B: False
+---
+False
+</>
+(True/False) A model with high variance is characterized by sensitivity to small changes in input data. 
+A: True
+B: False
+---
+True
+</>
+Which of the following statements about model complexity is TRUE? 
+A: Higher model complexity leads to a lower chance of overfitting.
+B: Higher model complexity leads to a higher chance of overfitting. 
+C: Reducing the number of features while adding feature interactions leads to a lower chance of overfitting.
+D: Reducing the number of features while adding feature interactions leads to a higher chance of overfitting. 
+---
+Higher model complexity leads to a higher chance of overfitting. 
+</>
+Which of the following statements about model errors is TRUE? 
+A: Underfitting is characterized by lower errors in both training and test samples. 
+B: Underfitting is characterized by higher errors in both training and test samples. 
+C: Underfitting is characterized by higher errors in training samples and lower errors in test samples. 
+D: Underfitting is characterized by lower errors in training samples and higher errors in test samples. 
+---
+Underfitting is characterized by higher errors in both training and test samples. 
+</>
+Which of the following statements about regularization is TRUE? 
+A: Regularization always reduces the number of selected features. 
+B: Regularization increases the likelihood of overfitting relative to training data. 
+C: Regularization decreases the likelihood of overfitting relative to training data.
+D: Regularization performs feature selection without a negative impact in the likelihood of overfitting relative to the training data.
+---
+Regularization decreases the likelihood of overfitting relative to training data.
+</>
+Which of the following statements about scaling features prior to regularization is TRUE?
+A: Feature scaling is not recommented prior to regularization.
+B: Features should rarely or never be scaled prior to implementing regularization.
+C: The larger a feature’s scale, the more likely its estimated impact will be influenced by regularization.
+D: The smaller a feature’s scale, the more likely its estimated impact will be influenced by regularization.
+---
+The larger a feature’s scale, the more likely its estimated impact will be influenced by regularization.
+</>
+Which one of the 3 Regularization techniques: Ridge, Lasso, and Elastic Net, performs the fastest under the hood? 
+A: Ridge
+B: Lasso
+C: Elastic Net
+D: None of the above
+---
+Ridge
+</>
+Which of the following statements about Elastic Net regression is TRUE?
+A: Elastic Net combines L1 and L2 regularization. 
+B: Elastic Net does not use L1 or L2 regularization. 
+C: Elastic Net uses L2 regularization, as with Ridge regression. 
+D: Elastic Net uses L1 regularization, as with Ridge regression. 
+---
+Elastic Net combines L1 and L2 regularization. 
+</>
+BOTH Ridge regression and Lasso regression 
+A: Do not adjust the cost function used to estimate a model. 
+B: Add a term to the loss function proportional to a regularization parameter.
+C: Add a term to the loss function proportional to the square of parameter coefficients.
+D: Add a term to the loss function proportional to the absolute value of parameter coefficients. 
+---
+Add a term to the loss function proportional to a regularization parameter.
+</>
+Compared with Lasso regression (assuming similar implementation), Ridge regression is: 
+A: Less likely to overfit to training data. 
+B: More likely to overfit to training data. 
+C: Less likely to set feature coefficients to zero. 
+D: More likely to set feature coefficients to zero. 
+---
+Less likely to set feature coefficients to zero. 
+</>
+Which of the following about Ridge Regularization is TRUE?
+A: It enforces the coefficients to be lower, but not 0
+B: It minimizes irrelevant features 
+C: It penalizes the size  magnitude of the regression coefficients by adding a squared term 
+D: All of the above
+---
+All of the above
+</>
+Whixh of the below statements are correct?
+A: Neither RidgeCV nor LassoCV use L1 regularization function.
+B: Both RidgeCV and LassoCV use L1 regularization function.
+C: Only RidgeCV use L1 regularization function.
+D: Only LassoCV use L1 regularization function.
+---
+Only LassoCV use L1 regularization function.
+</>
+(True/False) In Analytic View, increasing L2/L1 penalties force coefficients to be smaller, restricting their plausible range.
+A: True
+B: False
+---
+True
+</>
+(True/False) Under the Geometric formulation, the cost function minimum is found at the intersection of the penalty boundtry and a contour of the traditional OLS cost function surface.
+A: True
+B: False
+---
+True
+</>
+(True/False) Under the Probabilistic formulation, L2 (Ridge) regularization imposes Gaussian prior on the coefficients, while L1 (Lasso) regularization imposes Laplacian prior.
+A: True
+B: False
+---
+True
+</>
+When working with regularization, what is the view that illuminates the actual optimization problem and shows why LASSO generally zeros out coefficients?
+A: Analytical view
+B: Geometric view
+C: Probabilistic view
+D: Regression view
+---
+Geometric view
+</>
+When working with regularization, what is the view that recalibrates our understanding of LASSO and a Ridge, as a base problem, where coefficients have particular prior distributions? 
+A: Probabilistic view
+B: Geometric view
+C: Analytical view
+D: Regression view
+---
+Probabilistic view
+</>
+When working with regularization, what is the logical view of how to achieve the goal of reducing complexity? 
+A: Geometric view
+B: Analytical view
+C: Regression view
+D: Probabilistic view
+---
+Analytical view
+</>
+All of the following statements about Regularization are TRUE except:
+A: Optimizing predictive models is about finding the right bias/variance tradeoff.
+B: Features should rarely or never be scaled prior to implementing regularization.
+C: We need models that are sufficiently complex to capture patterns in data, but not so complex that they overfit.
+D: Regularization techniques have an analytical, a geometric, and a probabilistic interpretation.  
+---
+Features should rarely or never be scaled prior to implementing regularization.
+</>
+When working with regularization and using the geometric formulation, what is found at the intersection of the penalty boundary and a contour of the traditional OLS cost function surface?
+A: The cost function minimum
+B: A smaller range of coefficients
+C: The prior distribution of β
+D: A peaked density
+---
+The cost function minimum
+</>
+Which statement under the Probabilistic View is correct?
+A: Regularization imposes certain errors on the regression coefficients. Feedback: Incorrect! Please review the further Details of Regularization lessons. 
+B: Regularization imposes certain priors on the regression coefficients. 
+C: Regularization uses some regression coefficients to inflate the errors.     
+D: Regularization coefficients do not take into consideration prior probabilities. 
+---
+Regularization imposes certain priors on the regression coefficients. 
+</>
+Increasing L2/L1 penalties force coefficients to be smaller, restricting their plausible range. This statement is part of what View?
+A: Geometric View
+B: Probabilistic View    
+C: Analytic View    
+---
+Analytic View    
+</>
+What does a higher lambda term mean in Regularization technique?
+A: Higher lambda decreases variance, means smaller coefficients.     
+B: Higher lambda increases variance, means smaller coefficients.     
+C: Higher lambda decreases variance, means larger coefficients.     
+D: Higher lambda decreases prior probability.     
+---
+Higher lambda decreases variance, means smaller coefficients.     
+</>
+What concept/s under Probabilistic View is/are True?
+A: We can derive the posterior probability by knowing the probability of target and the prior distribution.
+B: The prior distribution is derived from independent draws of a prior coefficient density function that we choose when regularizing.
+C: L2 (ridge) regularization imposes a Gaussian prior on the coefficients, while L1 (lasso) regularization imposes a Laplacian prior.
+D: All of the above
+---
+All of the above
+</>
+What statement is True?
+A: We reduce the complexity of the model by minimizing the error on our training set. 
+B: By penalizing the cost function, we increase the complexity of the model.     
+C: The goal of Regularization is always going to be to optimize our complexity trade off, so we can minimize error on the hold-out set.     
+D: Introducing Regularization will increase bias and variance.      
+---
+We reduce the complexity of the model by minimizing the error on our training set. 
+</>
+Which statement about Logistic Regression is TRUE?
+A: Logistic Regression is a generalized linear model.
+B: Logistic Regression models can only predict variables with 2 classes.
+C: Logistic Regression models can be used for classification but not for regression.
+D: Logistic Regression models can be used for regression but not for classification. 
+---
+Logistic Regression is a generalized linear model.
+</>
+(True/False) Logistic regression is similar to a linear regression, except that it uses a logistic function to estimate probabilities of an observation belonging to a certain class or category.
+A: True
+B: False
+---
+True
+</>
+Usually the first step to fit a logistic regression model using scikit learn is to: 
+A: import logistic regression from the sklearn.linear_model module
+e.g. from sklearn.linear_model import LogisticRegression
+B: import Logistic from the sklearn.regression module
+e.g. from sklearn.regression import Logistic
+C: import Logistic from the sklearn.linear_regression module
+e.g. from sklearn.linear_regression import Logistic
+D: import logistic regression from the sklearn.linearclassifer module
+e.g. from sklearn.linearclassifer import LogisticRegression
+---
+import logistic regression from the sklearn.linear_model module
+e.g. from sklearn.linear_model import LogisticRegression
+</>
+The output of a logistic regression model applied to a data sample _____________.
+A: tells you which class the sample belongs to.
+B: is the log odds of the sample, which you can use for interpretive purposes.
+C: tells you the odds of the sample belonging to a certain class.
+D: is the probability of the sample being in a certain class. 
+---
+is the probability of the sample being in a certain class. 
+</>
+Describe how any binary classification model can be extended from its basic form on two classes, to work on multiple classes.
+A: Use the coefficients from a linear regression model to weight the classes.
+B: Use process of elimination to discard any unimportant classes.
+C: Fit the binary classifier to all of the classes simultaneously.
+D: Use a one-versus all technique, where for each class you fit a binary classifier to that class versus all of the other classes. 
+---
+Use a one-versus all technique, where for each class you fit a binary classifier to that class versus all of the other classes. 
+</>
+Which tool is most appropriate for measuring the performance of a classifier on unbalanced classes?
+
+A: The true positive rate.
+B: The Receiver Operating Characteristic (ROC) curve. 
+C: The false positive rate.
+D: The precision-recall curve.
+---
+The precision-recall curve.
+</>
+(True/False) One of the requirements of logistic regression is that you need a variable with two classes.
+A: True
+B: False
+---
+False
+</>
+(True/False) The shape of ROC curves are the leading indicator of an overfitted logistic regression.
+A: True
+B: False
+---
+False
+</>
+Consider this scenario for Questions 3 to 7.
+You are evaluating a binary classifier. There are 50 positive outcomes in the test data, and 100 observations. Using a 50% threshold, the classifier predicts 40 positive outcomes, of which 10 are incorrect.
+What is the classifier’s Precision on the test sample?
+A: 25%
+B: 60%
+C: 75%
+D: 80% 
+---
+75%
+</>
+Consider this scenario for Questions 3 to 7.
+You are evaluating a binary classifier. There are 50 positive outcomes in the test data, and 100 observations. Using a 50% threshold, the classifier predicts 40 positive outcomes, of which 10 are incorrect.
+What is the classifier’s Recall on the test sample?
+A: 25%
+B: 60%
+C: 75%
+D: 80% 
+---
+60%
+</>
+Consider this scenario for Questions 3 to 7.
+You  are evaluating a binary classifier. There are 50 positive outcomes in  the test data, and 100 observations. Using a 50% threshold, the  classifier predicts 40 positive outcomes, of which 10 are incorrect.
+  What is the classifier’s F1 score on the test sample?
+A: 50%
+B: 66.7%
+C: 67.5%
+D: 70% 
+---
+66.7%
+</>
+Consider this scenario for Questions 3 to 7.
+You  are evaluating a binary classifier. There are 50 positive outcomes in  the test data, and 100 observations. Using a 50% threshold, the  classifier predicts 40 positive outcomes, of which 10 are incorrect.
+Increasing the threshold to 60% results in 5 additional positive predictions, all of which are correct. Which of the following statements about this new model (compared with the original model that had a 50% threshold) is TRUE?
+A: The F1 score of the classifier would decrease.
+B: The area under the ROC curve would decrease.
+C: The F1 score of the classifier would remain the same.
+D: The area under the ROC curve would remain the same.
+---
+The area under the ROC curve would remain the same.
+</>
+Consider this scenario for Questions 3 to 7.
+You  are evaluating a binary classifier. There are 50 positive outcomes in  the test data, and 100 observations. Using a 50% threshold, the  classifier predicts 40 positive outcomes, of which 10 are incorrect.
+The threshold is now increased further, to 70%. Which of the following statements is TRUE?
+A: The Recall of the classifier would decrease.
+B: The Precision of the classifier would decrease.
+C: The Recall of the classifier would increase or remain the same.
+D: The Precision of the classifier would increase or remain the same. 
+---
+The Recall of the classifier would increase or remain the same.
+</>
+(True/False) A simplified way to interpret K Nearest Neighbors is by thinking of the output of this method as a decision boundary which is then used to classify new points.
+A: True
+B: False
+---
+True
+</>
+These are all characteristics of the k nearest neighbors algorithm EXCEPT:
+A: It is sensitive to scaling
+B: It determines decision boundaries to make predictions
+C: It determines the value for k
+D: It is well suited to predict variables with multiple classes
+---
+It determines the value for k
+</>
+(True/False) An advantage of k nearest neighbor methods is that they can leverage categorical data without encoding.
+A: True
+B: False
+---
+False
+</>
+Usually the first step to fit a k nearest neighbor classifier using scikit learn is to: 
+A: import KNN from the sklearn.knearestneighbors module
+e.g. from sklearn.knearestneighbors import KNN
+B: import KneighborsClassifier from the sklearn.neighbors module
+e.g. from sklearn.neighbors import KNeighborsClassifier
+C: import Classifier from the sklearn.nearestneighbors module
+e.g. from sklearn.nearestneighbors import Classifier
+D: import KNNClassifier from the sklearn.knearestneighbors module
+e.g. from sklearn.knearestneighbors import KNNClassifier
+---
+import KneighborsClassifier from the sklearn.neighbors module
+e.g. from sklearn.neighbors import KNeighborsClassifier
+</>
+Which one of the following statements is true regarding K Nearest Neighbors?
+A: K Nearest Neighbors (KNN) assumes that points which are close together are similar.
+B: For high dimensional data, the best distance measure to use for KNN is the Euclidean distance.
+C: The Manhattan distance between two data points is the square root of the sum of the squares of the differences between the individual feature values of the data points.
+D: The distance between two data points is independent of the scale of their features.
+---
+K Nearest Neighbors (KNN) assumes that points which are close together are similar.
+</>
+Which one of the following statements is most accurate? 
+A: Linear regression needs to remember the entire training dataset in order to make a prediction for a new data sample. 
+B: KNN only needs to remember the hyperplane coefficients to classify a new data sample.
+C: K nearest neighbors (KNN) needs to remember the entire training dataset in order to classify a new data sample. 
+D: KNN determines which points are closest to a given data point, so it doesn’t take long to actually perform prediction. 
+---
+K nearest neighbors (KNN) needs to remember the entire training dataset in order to classify a new data sample. 
+</>
+Which one of the following statements is most accurate about K Nearest Neighbors (KNN)? 
+A: KNN is a classification model.
+B: KNN is an unsupervised learning method. 
+C: KNN is a regression model.
+D: KNN can be used for both classification and regression.
+---
+KNN can be used for both classification and regression.
+</>
+(True/False) K Nearest Neighbors with large k tend to be the best classifiers.
+A: True
+B: False
+---
+False
+</>
+When building a KNN classifier for a variable with 2 classes, it is advantageous to set the neighbor count k to an odd number.
+A: True
+B: False
+---
+True
+</>
+The Euclidean distance between two points will always be shorter than the Manhattan distance:
+A: True
+B: False
+---
+True
+</>
+The main purpose of scaling features before fitting a k nearest neighbor model is to:
+A: Break ties in case there is the same number of neighbors of different classes next to a given observation
+B: Ensure that features have similar influence on the distance calculation
+C: Ensure decision boundaries have roughly the same size for all classes
+D: Help find the appropriate value of k
+---
+Ensure that features have similar influence on the distance calculation
+</>
+These are all pros of the k nearest neighbor algorithm EXCEPT:
+A: It adapt wells to new training data
+B: It is sensitive to the curse of dimensionality
+C: It is simple to implement as it does not require parameter estimation
+D: It is easy to interpret
+---
+It is sensitive to the curse of dimensionality
+</>
+All of these are characteristics of SVMs, EXCEPT:
+A: Support Vector Machines do not return predicted probabilities. 
+B: Support Vector Machines use decision boundaries for classification. 
+C: The algorithm behind Support Vector Machines calculates hyperplanes that minimize misclassification error.
+D: Support Vector Machine models are non-linear. 
+---
+Support Vector Machine models are non-linear. 
+</>
+(True/False) SVMs calculate predicted probabilities in the range between 0 and 1.
+A: True
+B: False
+---
+False
+</>
+(True/False) Any linear model can be turned into a non-linear model by applying a kernel to the model
+A: True
+B: False
+---
+True
+</>
+(True/False) SVMs with kernels are recommended for large data sets with many features
+A: True
+B: False
+---
+False
+</>
+Usually the first step to fit a support vector machine classifer model using scikit learn is to:
+A: import svm from the sklearn.svm module
+e.g. from sklearn.svm import svm
+B: import SVM from the sklearn.classifer module
+e.g. from sklearn.classifier import SVM
+C: import SVC from the sklearn.svm module
+e.g. from sklearn.svm import SVC
+D: import support vector classifier from the sklearn.svms module
+e.g. from sklearn.svms import supportvectorclassifer
+---
+import SVC from the sklearn.svm module
+e.g. from sklearn.svm import SVC
+</>
+Select the TRUE statement regarding the cost function for SVMs:
+A: SVMs use a loss function that penalizes vectors prone to misclassification
+B: SVMs use the Hinge Loss function as a cost function
+C: SVMs do not use a cost function. They use regularization instead of a cost function.
+D: SVMs use same loss function as logistic regression
+---
+SVMs use the Hinge Loss function as a cost function
+</>
+Which statement about Support Vector Machines is TRUE?
+A: Support Vector Machine models can be used for regression but not for classification. 
+B: Support Vector Machine models can be used for classification but not for regression.
+C: Support Vector Machine models rarely overfit on training data.
+D: Support Vector Machine models are non-linear. 
+---
+Support Vector Machine models rarely overfit on training data.
+</>
+(True/False) A large c term will penalize the SVM coefficients more heavily.
+A: True
+B: False
+---
+False
+</>
+Regularization in the context of support vector machine (SVM) learning is meant to _________________.
+A: encourage the model to ignore outliers during training
+B: bring all features to a common scale to ensure they have equal weight
+C: lessen the impact that some minor misclassifications have on the cost function
+D: smooth the input data to reduce the chance of overfitting
+---
+lessen the impact that some minor misclassifications have on the cost function
+</>
+Support vector machines can be extended to work with nonlinear classification boundaries by ___________________.
+A: projecting the feature space onto a lower dimensional space
+B: using the kernel trick
+C: modifying the standard sigmoid function
+D: incorporating polynomial regression
+---
+using the kernel trick
+</>
+Select the image that displays the line at the optimal point in the phone usage that the data can be split to create a decision boundary.
+A: B: C: D: ---
+</>
+The below image shows the decision boundary with a clear margin, such decision boundary belongs to what type machine learning model?
+A: Support Version Machine
+B: Super Vector Machine
+C: Machine Learning
+D: Support Vector Machine
+---
+Support Vector Machine
+</>
+SVM with kernals can be very slow on large datasets. To speed up SVM training, which methods may you perform to map low dimensional data into high dimensional beforehand?
+A: RBF Sampler
+B: Nystroem
+C: Regularization
+D: Linear SVC
+---
+RBF Sampler
+Nystroem
+</>
+Concerning the Machine Learning workflow what model choice would you pick if you have "Few" features and a "Medium" amount of data?
+A: SVC with RBF
+B: Add features, or Logistic
+C: LinearSVC, or Kernal Approximation
+D: Simple, Logistic or LinearSVC
+---
+SVC with RBF
+</>
+Select the image that best displays the line that separates the classes.
+A: B: C: D: ---
+</>
+Which of the following statements about Decision Tree models is TRUE?
+A: Decision Tree models are non-linear.
+B: Decision Tree models rarely overfit on training data.
+C: Decision Tree models can be used for classification but not for regression.
+D: Decision Tree models can be used for regression but not for classification. 
+---
+Decision Tree models are non-linear.
+</>
+(True/False) Decision Trees are considered a greedy algorithm.
+A: True
+B: False
+---
+True
+</>
+Usually the first step to fit a decision tree classifier using scikit learn is to: 
+A: import decision tree from the sklearn.tree module
+e.g. from sklearn.tree import DecisionTree
+B: import classifier from the decision tree module
+e.g. from sklearn.decisiontree import Classifier
+C: import decision tree classifier from the sklearn.tree module
+e.g. from sklearn.tree import DecisionTreeClassifier
+D: import tree classifier sklearn.decisiontree module
+e.g. from sklearn.decisiontree import TreeClassifier
+---
+import decision tree classifier from the sklearn.tree module
+e.g. from sklearn.tree import DecisionTreeClassifier
+</>
+These are all characteristics of decision trees, EXCEPT:
+A: They can be used for either classification or regression
+B: They have well rounded decision boundaries
+C: They segment data based on features to predict results
+D: They split nodes into leaves
+---
+They have well rounded decision boundaries
+</>
+Decision trees used as classifiers compute the value assigned to a leaf by calculating the ratio: number of observations of one class divided by the number of observations in that leaf E.g. number of customers that are younger than 50 years old divided by the total number of customers.
+How are leaf values calculated for regression decision trees?
+A: median value of the predicted variable
+B: average value of the predicted variable
+C: mode value of the predicted variable
+D: weighted average value of the predicted variable
+---
+average value of the predicted variable
+</>
+These are two main advantages of decision trees:
+A: They are very visual and easy to interpret
+B: They output both parameters and significance levels
+C: They do not tend to overfit and are not sensitive to changes in data
+D: They are resistant to outliers and output scaled features
+---
+They are very visual and easy to interpret
+</>
+How can you determine the split for each node of a decision tree? 
+A: Find the split that induces the largest entropy.
+B: Randomly select the split.
+C: Find the split that minimizes the gini impurity. 
+D: Use a nonlinear decision boundary to find the best split.
+---
+Find the split that minimizes the gini impurity. 
+</>
+Which of the following describes a way to regularize a decision tree to address overfitting?
+A: Reduce the information gain.
+B: Increase the number of branches.
+C: Increase the max depth.
+D: Decrease the max depth.
+---
+Decrease the max depth.
+</>
+What is a disadvantage of decision trees?
+A: Scaling is required.
+B: They tend to overfit.
+C: They can get too large.
+D: They are difficult to interpret.
+---
+They tend to overfit.
+</>
+What method can you use to minimize overfitting of a machine learning model?
+A: Choose the hyperparameters that maximize goodness of fit on your training data.
+B: Increase the variance of your training data.
+C: Tune the hyperparameters of your model using cross-validation.
+D: Decrease the variance of your test data.
+---
+Tune the hyperparameters of your model using cross-validation.
+</>
+Concerning Classification algorithms, what is a characteristic of K-Nearest Neighbors?
+A: Training data is the model
+B: The model is just parameters
+C: Fitting can be slow
+D: Prediction is fast
+---
+Training data is the model
+</>
+Concerning Classification algorithms, what are the characteristics of Logistic Regression?
+A: The training data is the model, fitting is fast, prediction is fast, and the decision boundary is flexible
+B: The model is just parameters, fitting is fast, prediction is fast, and the decision boundary is flexible
+C: The training data is the model, fitting is fast, predicting class for new records can be slow, and the decision boundary is flexible
+D: The model is just parameters, fitting can be slow, prediction is fast, and the decision boundary is simple and less flexible
+---
+The model is just parameters, fitting can be slow, prediction is fast, and the decision boundary is simple and less flexible
+</>
+When evaluating all possible splits of a decision tree what can be used to find the best split regardless of what happened in prior or future steps?
+A: Classification
+B: Logistic regression
+C: Regularization
+D: Greedy Search
+---
+Greedy Search
+</>
+ (True/False) A model that averages the predictions of multiple models reduces the variance of a single model and has high chances to generalize well when scoring new data.
+A: True
+B: False
+---
+True
+</>
+(True/False) Bagging is a tree ensemble that combines the prediction of several trees that were trained on bootstrap samples of the data.
+A: True
+B: False
+---
+True
+</>
+(True/False) In general, a random forest can be considered a special case of bagging and it tends to have better out of sample accuracy
+A: True
+B: False
+---
+True
+</>
+Usually the first step to fit a random forest classifier model using scikit learn is to: 
+A: import classifier ensemble from the sklearn.random forest module
+e.g. from sklearn.randomforest import ClassifierEnsemble
+B: import random forest from the sklearn.classifierensemble module
+e.g. from sklearn.classifierensemble import RandomForest
+C: import classifer from the sklearn.randomforest module
+e.g. from sklearn.randomforest import Classifer
+D: import random forest classifer from the sklearn.ensemble module
+e.g. from sklearn.ensemble import RandomForestClassifer
+---
+import random forest classifer from the sklearn.ensemble module
+e.g. from sklearn.ensemble import RandomForestClassifer
+</>
+Usually the first step to fit a bagging classifier model using scikit learn is to: 
+A: import classifier ensemble from the sklearn.Gagging module
+e.g. from sklearn.bagging import ClassifierEnsemble
+B: import bagging classifier from the sklearn.ensemble module
+e.g. from sklearn.ensemble import BaggingClassifier
+C: import bagging from the sklearn.classifierensemble module
+e.g. from sklearn.classifierensemble import Bagging
+D: import classifier from the sklearn.bagging module
+e.g. from sklearn.bagging import Classifier
+---
+import bagging classifier from the sklearn.ensemble module
+e.g. from sklearn.ensemble import BaggingClassifier
+</>
+(True/False) Bagging tends to have less overfitting than decision trees.
+A: True
+B: False
+---
+True
+</>
+(True/False) Boosting tend to be well suited for data sets with outliers and rare events.
+A: True
+B: False
+---
+True
+</>
+All of these are characteristics of boosting algorithms, EXCEPT:
+A: They use the entire data set, not only bootstrapped samples
+B: They use residuals from previous models
+C: They create trees iteratively
+D: They create trees independently
+---
+They create trees independently
+</>
+Usually the first step to fit a gradient boosting classifier model using scikit learn is to: 
+A: import classifier ensemble from the sklearn.GradientBoosting module
+e.g. from sklearn.gradientboosting import ClassifierEnsemble
+B: import gradient boosting from the sklearn.classifierensemble module
+e.g. from sklearn.classifierensemble import GradientBoosting
+C: import gradient boosting classifier from the sklearn.ensemble module
+e.g. from sklearn.ensemble import GradientBoostingClassifier
+D: import classifier from the sklearn.gradientboosting module
+e.g. from sklearn.gradientboosting import Classifier
+---
+import gradient boosting classifier from the sklearn.ensemble module
+e.g. from sklearn.ensemble import GradientBoostingClassifier
+</>
+(True/False) If you were to combine several logistic regressions using a voting ensemble, you should use a Voting Regressor.
+A: True
+B: False
+---
+False
+</>
+The term Bagging stands for bootstrap aggregating.
+A: True
+B: False
+---
+True
+</>
+This is the best way to choose the number of trees to build on a Bagging ensemble.
+A: Choose a large number of trees, typically above 100
+B: Choose a number of trees past the point of diminishing returns
+C: Prioratize training error metrics over out of bag sample
+D: Tune number of trees as a hyperparameter that needs to be optimized
+---
+Tune number of trees as a hyperparameter that needs to be optimized
+</>
+Which type of Ensemble modeling approach is NOT a special case of model averaging?
+A: The Pasting method of Bootstrap aggregation
+B: The Bagging method of Bootstrap aggregation
+C: Random Forest methods
+D: Boosting methods
+---
+Boosting methods
+</>
+What is an ensemble model that needs you to look at out of bag error?
+A: Out of Bag Regression
+B: Logistic Regression.
+C: Stacking
+D: Random Forest
+---
+Random Forest
+</>
+What is the main condition to use stacking as ensemble method?
+A: Models need to be nonparametric
+B: Models need to output predicted probabilities
+C: Models need to be parametric
+D: Models need to output residual values for each class
+---
+Models need to output predicted probabilities
+</>
+This tree ensemble method only uses a subset of the features for each tree:
+A: Bagging
+B: Random Forest
+C: Adaboost
+D: Stacking
+---
+Random Forest
+</>
+Order these tree ensembles in order of most randomness to least randomness:
+A: Random Forest, Random Trees, Bagging
+B: Bagging, Random Forest, Random Trees
+C: Random Trees, Random Forest, Bagging
+D: Random Forest, Bagging, Random Trees
+---
+Random Trees, Random Forest, Bagging
+</>
+This is an ensemble model that does not use bootstrapped samples to fit the base trees, takes residuals into account, and fits the base trees iteratively:
+A: Boosting
+B: Random Trees
+C: Random Forest
+D: Bagging
+---
+Boosting
+</>
+When comparing the two ensemble methods Bagging and Boosting, what is one characteristic of Boosting?
+A: Bootstraped samples
+B: No weighting used
+C: Fits entire data set
+D: Only data points are considered
+---
+Fits entire data set
+</>
+What is the most frequently discussed loss function in boosting algorithms?
+A: Gradient Boosting Loss Function
+B: Gradient Loss Function
+C: 0-1 Loss Function
+D: AdaBoost Loss Function
+---
+0-1 Loss Function
+</>
+What type of forest is a classification algorithm that potentially contains hundreds of different decision trees?
+A: Random Forest
+B: Model Forest
+C: Global Forest
+D: The Multiple Forest
+---
+Random Forest
+</>
+When describing models what type of model will feature coefficients help to explain?
+A: SVM
+B: KNN
+C: Global Surrogate model
+D: Linear Model
+---
+Linear Model
+</>
+What type of surrogate model tries to approximate a black-box model globally on every instance in the data set?
+A: Strategic Surrogate model
+B: Global Surrogate model
+C: Complex Surrogate model
+D: Local Surrogate model
+---
+Global Surrogate model
+</>
+These are all methods of dealing with unbalanced classes EXCEPT:
+A: Downsampling.
+B: Mix of in-sample and out-of-sample.
+C: Mix of downsampling and upsampling.
+D: Upsampling.
+---
+Mix of in-sample and out-of-sample.
+</>
+(True/False) A best practice to build a model using unbalanced classes is to split the data first, then apply an upsample or undersample technique.
+A: True
+B: False
+---
+True
+</>
+Which of the following statements about Downsampling is TRUE?
+A: Downsampling is likely to decrease Recall.
+B: Downsampling results in excessive focus on the more frequently-occurring class.
+C: Downsampling preserves all the original observations.
+D: Downsampling is likely to decrease Precision.
+---
+Downsampling is likely to decrease Precision.
+</>
+Which of the following statements about Random Upsampling is TRUE?
+A: Random Upsampling results in excessive focus on the more frequently-occurring class. 
+B: Random Upsampling will generally lead to a higher F1 score.
+C: Random Upsampling generates observations that were not part of the original data.
+D: Random Upsampling preserves all original observations.
+---
+Random Upsampling preserves all original observations.
+</>
+Which of the following statements about Synthetic Upsampling is TRUE?
+A: Synthetic Upsampling generates observations that were not part of the original data.
+B: Synthetic Upsampling uses fewer hyperparameters than Random Upsampling.
+C: Synthetic Upsampling will generally lead to a higher F1 score.
+D: Synthetic Upsampling results in excessive focus on the more frequently-occurring class.
+---
+Synthetic Upsampling generates observations that were not part of the original data.
+</>
+What can help humans to interpret the behaviors and methods of Machine Learning models more easily?
+A: Model Debug
+B: Model Trust
+C: Explanation Debug
+D: Model Explanations
+---
+Model Explanations
+</>
+What type of explanation method can be used to explain different types of Machine Learning models no matter the model structures and complexity?
+A: Model-Agnostic Explanations
+B: Local Interpretable Model-Agnostic Explanations (LIME)
+C: Model Explanations
+D: Model Trust Explanations
+---
+Model-Agnostic Explanations
+</>
+What reason might a Global Surrogate model fail?
+A: Large inconsistency between surrogate models and black-box models
+B: Consistency between surrogate models and black-box models
+C: Single clusters in the data instance groups
+D: Single data instance groups
+---
+Large inconsistency between surrogate models and black-box models
+</>
+When working with unbalanced sets, what should be done to the samples so the class balance remains consistent in both the train and test set?
+A: Stratify the samples
+B: Use a combination of oversampling and undersampling
+C: Apply weighted observations
+D: Use oversampling
+---
+Stratify the samples
+</>
+What approach are you using when trying to increase the size of a minority class so that it is similar to the size of the majority class?
+A: Undersampling
+B: Oversampling
+C: Synthetic Oversampling
+D: Random Oversampling
+---
+Oversampling
+</>
+What approach are you using when you create a new sample of a minority class that does not yet exist?
+A: Synthetic Oversampling
+B: Random Oversampling
+C: Oversampling
+D: Weighting
+---
+Synthetic Oversampling
+</>
+What intuitive technique is used for unbalanced datasets that ensures a continuous downsample for each of the bootstrap samples?
+A: Upsampling
+B: Blagging
+C: Downsampling
+D: SMOTE
+---
+Blagging
+</>
+Which statement about unsupervised algorithms is TRUE? 
+A: Unsupervised algorithms are relevant when we have outcomes we are trying to predict.
+B: Unsupervised algorithms are relevant when we don’t have the outcomes we are trying to predict and when we want to break down our data set into smaller groups. 
+C: Unsupervised algorithms are typically used to forecast time related patterns like stock market trends or sales forecasts.
+D: Unsupervised algorithms are relevant in cases that require explainability, for example comparing parameters from one model to another.
+---
+Unsupervised algorithms are relevant when we don’t have the outcomes we are trying to predict and when we want to break down our data set into smaller groups. 
+</>
+What is one of the real-world solutions to fix the problems of the curse dimensionality? 
+A: Increase the size of the data set
+B: Use more computational power
+C: Reduce the dimension of the data set.
+D: Balance the classes of a data set
+---
+Reduce the dimension of the data set.
+</>
+Which statement is a common use of Dimension Reduction in the real world? 
+A: Image tracking
+B: Explaining the relation between the amount of alcohol consumption and diabetes. 
+C: Deep Learning 
+D: Predicting whether a customer will return to a store to make a major purchase. 
+---
+Image tracking
+</>
+Which of the following statements best describes the iterative part of the K-means algorithm? 
+A: The k-means algorithm assigns a number of clusters at random. 
+B: The k-means algorithm adjusts the centroids to the new mean of each cluster, and then it keeps repeating this process until no example is assigned to another cluster.
+C: The k-means algorithm iteratively deletes outliers.
+D: The k-means algorithm iteratively calculates the distance from each point to the centroid of each cluster.
+---
+The k-means algorithm adjusts the centroids to the new mean of each cluster, and then it keeps repeating this process until no example is assigned to another cluster.
+</>
+Which statement describes better “the smarter initialization of K-mean clusters? 
+A: “Draw a line between the data points to create 2 big clusters.” 
+B: “After we find our centroids, we calculate the distance between all our data points.”
+C: “Pick one random point, as initial point, and for the second point, instead of picking it randomly, we prioritize by assigning the probability of the distance.” 
+D: “We start by having two centroids as far as possible between each other.”
+---
+“Pick one random point, as initial point, and for the second point, instead of picking it randomly, we prioritize by assigning the probability of the distance.” 
+</>
+What happens with our second cluster centroid when we use the probability formula? 
+A: When we use the probability formula, we put less weight on the points that are far away. So, our second cluster centroid is likely going to be closer. 
+B: When we use the probability formula, we put more weight on the points that are far away. So, our second cluster centroid is likely going to be more distant. 
+C: When we use the probability formula, we put more weight on the lighter centroids, because it will take more computational power to draw our clusters. So, the second cluster centroid is likely going to be less distant. 
+D: When we use the probability formula, we put less weight on the points that are far away. So, our second cluster centroid is likely going to be more distant. 
+---
+When we use the probability formula, we put more weight on the points that are far away. So, our second cluster centroid is likely going to be more distant. 
+</>
+What is the implication of a small standard deviation of the clusters?
+A: A small standard deviation of the clusters defines the size of the clusters. 
+B: The standard deviation of the cluster defines how tightly around each one of the centroids are. With a small standard deviation, the points will be closer to the centroids. 
+C: The standard deviation of the cluster defines how tightly around each one of the centroids are. With a small standard deviation, we can’t find any centroids. 
+D: A small standard deviation of the clusters means that the centroids are not close enough to each other. 
+---
+The standard deviation of the cluster defines how tightly around each one of the centroids are. With a small standard deviation, the points will be closer to the centroids. 
+</>
+After we plot our elbow and we find the inflection point, what does that point indicate to us?
+A: The ideal number of clusters. 
+B: The data points we need to form a cluster 
+C: How we can reduce our number of clusters. 
+D: Whether we need to remove outliers. 
+---
+The ideal number of clusters. 
+</>
+What is one of the most suitable ways to choose K when the number of clusters is unclear? 
+A: You can start by choosing a random number of clusters. 
+B: By evaluating Clustering performance such as Inertia and Distortion.
+C: By increasing the number of clusters calculating the square root. 
+D: You can start by using a k nearest neighbor method. 
+---
+By evaluating Clustering performance such as Inertia and Distortion.
+</>
+Which statement describes correctly the use of distortion and inertia?
+A: When the sum of the points  equals a prime number, use inertia, and when the sum of the points equals a pair number, use distortion. 
+B: When  we can calculate a number of clusters higher than 10, we use distortion, when we calculate a number of clusters smaller than 10, we use inertia. 
+C: When outliers are a concern use inertia, otherwise use distortion. 
+D: When the similarity of the points in the cluster are more important, you should use distortion, and if you are more concerned that clusters have similar numbers of points, then you should use inertia. 
+---
+When the similarity of the points in the cluster are more important, you should use distortion, and if you are more concerned that clusters have similar numbers of points, then you should use inertia. 
+</>
+Which method is commonly used to select the right number of clusters? 
+A: The elbow method. 
+B: The ROC curve. 
+C: The perfect Square Method
+D: The Sum of Square Method
+---
+The elbow method. 
+</>
+What is the other name we can give to the L1 distance?
+A: Hamming Distance
+B: Euclidean Distance 
+C: Manhattan Distance
+D: Mahalanobis Distance
+---
+Manhattan Distance
+</>
+What is the key feature for the Jaccard Distance?
+A: It describes distance by squaring each term, adding and squaring them. 
+B: It is obtained by adding up the absolute value of each term. 
+C: It takes into acount the angle between 2 points.
+D: It looks at the difference and similarities for sets of values.
+---
+It looks at the difference and similarities for sets of values.
+</>
+What is an advantage of the L1 distance over L2?
+A: It can better handle high dimensional data.
+B: It's useful for coordinate based measurements.
+C: It's better for data where location of occurrence is less important.
+D: It  shows the difference between sets of values.
+---
+It can better handle high dimensional data.
+</>
+What is the other name we can give to the L2 distance?
+A: Hamming Distance
+B: Manhattan Distance
+C: Mahalanobis Distance
+D: Euclidean Distance 
+---
+Euclidean Distance 
+</>
+Which of the following statements is a business case for the use of the Manhattan distance (L1)?
+A: We use it in business cases where the dimensionality is unknown.  
+B: We use it in business cases with outliers. 
+C: We use it in business cases where there is very high dimensionality. 
+D: We use it in business cases where there is low dimensionality. 
+---
+We use it in business cases where there is very high dimensionality. 
+</>
+What is the key feature for the Cosine Distance?
+A: It is not sensitive to the size of the data set. 
+B: It is sensitive to the size of the data set. 
+C: The Cosine Distance, which takes into acount the angle between 2 points.
+D: The size of the curve. 
+---
+The Cosine Distance, which takes into acount the angle between 2 points.
+</>
+The following statement is an example of a business case where we can use the Cosine Distance?
+A: Cosine distance is less sensitive to the curse of dimensionality
+B: Cosine is useful for coordinate based measurements.
+C: Cosine is better for data such as text where location of occurrence is less important. 
+D: Cosine distance is more sensitive to the curse of dimensionality
+---
+Cosine is better for data such as text where location of occurrence is less important. 
+</>
+Which distance metric is useful when we have text documents and we want to group similar topics together?
+A: Manhattan Distance
+B: Euclidean 
+C: Jaccard 
+D: Mahalanobis Distance
+---
+Jaccard 
+</>
+Why do we need a stopping criterion when we are using the HAC?
+A: The algorithm will turn our data into small clusters.
+B: The algorithm will turn our data into just one cluster. 
+C: The algorithm will not start working if we don’t assign a number of clusters. 
+D: The stopping criterion ensures centroids are calculated correctly. 
+---
+The algorithm will turn our data into just one cluster. 
+</>
+According to the DBSCAN required inputs, which statement describes the n_clu input?
+A: It's the function to calculate distance.
+B: It's the radius of local neighborhood.
+C: It determines density threshold (for fixed Ɛ) (The minimum amount of points for a particular point to be consider a core point of a cluster).
+D: It's the maximum amount of observations for a particular point to be consider a core point of a cluster.
+---
+It determines density threshold (for fixed Ɛ) (The minimum amount of points for a particular point to be consider a core point of a cluster).
+</>
+How is a core point defined in the DBSCAN algorithm?
+A: A point that has no points in its Ɛ-neighborhood.
+B: A point that has more than n_clu neighbors in their Ɛ-neighborhood.
+C: An Ɛ-neighbor point than has fewer than n_clu neighbors itself.
+D: A point that has the same amount of n_clu neighbors within and outside the Ɛ-neighborhood.
+---
+A point that has more than n_clu neighbors in their Ɛ-neighborhood.
+</>
+Which of the following statements is a characteristic of the DBSCAN algorithm?
+A: Can handle tons of data and weird shapes.
+B: Finds uneven cluster sizes (one is big, some are tiny).
+C: It will do a great performance finding many clusters. 
+D: It will do a great performance finding few clusters. 
+---
+Can handle tons of data and weird shapes.
+</>
+Which of the following statements is a characteristic of the Hierarchical Clustering (Ward) algorithm?
+A: If we use a mini batch to find our centroids and clusters this will find our clusters fairly quickly.
+B: It offers a lot of distance metrics and linkage options.
+C: Too small epsilon (too many clusters) is not trustworthy. 
+D: Too large epsilon (too few clusters) is not trustworthy. 
+---
+It offers a lot of distance metrics and linkage options.
+</>
+Which of the following statements is a characteristic of the Mean Shift algorithm?
+A: Does not require to set the number of clusters; the number of clusters will be determined. 
+B: Bad with non-spherical cluster shapes.
+C: You need to decide the number of clusters on your own, choosing the numbers directly or the minimum distance threshold.
+D: Good with non-spherical cluster shapes.
+---
+Does not require to set the number of clusters; the number of clusters will be determined. 
+</>
+When using DBSCAN, how does the algorithm determine that a cluster is complete and is time to move to a different point of the data set and potentially start a new cluster?
+A: When the algorithm requires you to change the input. 
+B: When the algorithm forms a new cluster using the outliers. 
+C: When no point is left unvisited by the chain reaction. 
+D: When the solution converges to a single cluster. 
+---
+When no point is left unvisited by the chain reaction. 
+</>
+Which of the following statements correctly defines the strengths of the DBSCAN algorithm?
+A: No need to specify the number of clusters (cf. K-means), allows for noise, and can handle arbitrary-shaped clusters.
+B: Do well with different density, works with just one parameter, the n_clu defines itself. 
+C: The algorithm will find the outliers first, draw regular shapes, works faster than other algorithms. 
+D: The algorithm is computationally intensive, it is sensitive to outliers, and it requires few hyperparameters to be tuned. 
+---
+No need to specify the number of clusters (cf. K-means), allows for noise, and can handle arbitrary-shaped clusters.
+</>
+Which of the following statements correctly defines the weaknesses of the DBSCAN algorithm?
+A: The clusters it find might not be trustworthy, it needs noisy data to work, and it can’t handle subgroups. 
+B: It needs two parameters as input, finding appropriate values of Ɛ and n_clu can be difficult, and it does not do well with clusters of different density.
+C: The algorithm will find the outliers first, it draws regular shapes, and it works faster than other algorithms. 
+D: The algorithm is computationally intensive, it is sensitive to outliers, and it requires too many hyperparameters to be tuned. 
+---
+It needs two parameters as input, finding appropriate values of Ɛ and n_clu can be difficult, and it does not do well with clusters of different density.
+</>
+(True/false) Does complete linkage refers to the maximum pairwise distance between clusters?
+A: True
+B: False
+---
+True
+</>
+Which of the following measure methods computes the inertia and pick the pair that is going to ultimately minimize the inertia value?
+A: Single linkage
+B: Average linkage
+C: Ward linkage
+D: Complete linkage
+---
+Ward linkage
+</>
+What is the purpose of dimensionality reduction in enterprise datasets?
+A: To predict the target with the best accuracy.
+B: To improve model performance by providing a ranking of the features and maximizing the features used.
+C: To improve model performance by reducing the number of features used.
+D: To create clusters for grouping data points.
+---
+To improve model performance by reducing the number of features used.
+</>
+(True/False) Principal Component Analysis reduces dimensions by identifying features that can be excluded.
+A: True
+B: False
+---
+False
+</>
+Let's say that PCA found two principal components v1v_1v1​ and v2v_2v2​.  v1v_1v1​ accounts for 0.5 of the total amount of variance in our dataset and v2v_2v2​ accounts for 0.24. Which one is more important and why? 
+A:  v1v_1v1​ because we will be able to maintain more of the original variance in the dataset.
+B:  v1v_1v1​ because it reduces 50% of the total variance in the dataset.
+C: v2v_2v2​ because it accounts for lower variance in the dataset.
+D: v2v_2v2​ because it reduces the amount of variance in the dataset.
+---
+ v1v_1v1​ because we will be able to maintain more of the original variance in the dataset.
+</>
+Select the option that best completes the following sentence:
+For data with many features, principal components analysis
+A: identifies which features can be safely discarded
+B: reduces the number of features without losing any information.
+C: establishes a minimum number of viable features for use in the analysis.
+D: generates new features that are linear combinations of the original features.
+---
+generates new features that are linear combinations of the original features.
+</>
+Which option correctly lists the steps for implementing PCA in Python?
+1. Fit PCA to data
+2. Scale the data
+3. Determine the desired number of components based on total explained variance
+4. Define a PCA object
+A: 2, 4, 1, 3
+B: 4, 1, 3, 2
+C: 2, 1, 3, 4
+D: 4, 1, 2, 3
+---
+2, 4, 1, 3
+</>
+Given the following matrix for lengths of singular vectors, how do we rank the vectors in terms of importance?
+[11000030000200001]\begin{bmatrix}
+11 & 0 & 0 & 0\\
+0 & 3  & 0 & 0\\
+0 & 0 & 2 & 0\\
+0 & 0 & 0 &  1\\
+\end{bmatrix}
+⎣⎢⎢⎢⎡​11000​0300​0020​0001​⎦⎥⎥⎥⎤​
+v1,v2,v3,v4v_1, v_2, v_3, v_4v1​,v2​,v3​,v4​
+A: v1,v2,v3,v4v_1, v_2, v_3, v_4v1​,v2​,v3​,v4​
+B: v4,v3,v2,v1v_4, v_3, v_2, v_1v4​,v3​,v2​,v1​
+C: v1,v4,v3,v2v_1, v_4, v_3, v_2v1​,v4​,v3​,v2​
+D: v2,v3,v4,v1v_2, v_3, v_4, v_1v2​,v3​,v4​,v1​
+---
+v1,v2,v3,v4v_1, v_2, v_3, v_4v1​,v2​,v3​,v4​
+</>
+Given two principal components v1,v2v_1, v_2v1​,v2​, let's say that feature f1f_1f1​ contributed 0.15 to v1v_1 v1​and 0.25 to v2v_2v2​. Feature f2f_2f2​ contributed -0.11 to v1v_1v1​ and 0.4 to v2v_2v2​. 
+Which feature is more important according to their total contribution to the components?
+A: v2v_2v2​ because ∣−0.11∣+∣0.4∣>∣0.15∣+∣0.25∣|-0.11| + |0.4| > |0.15| + |0.25|∣−0.11∣+∣0.4∣>∣0.15∣+∣0.25∣
+B: v2v_2v2​ because −0.11+0.4<0.15+0.25-0.11+0.4 < 0.15 + 0.25−0.11+0.4<0.15+0.25
+C: v1v_1v1​ because 0.15+0.25>−0.11+0.40.15+0.25 > -0.11+0.40.15+0.25>−0.11+0.4
+D: Neither
+---
+v2v_2v2​ because ∣−0.11∣+∣0.4∣>∣0.15∣+∣0.25∣|-0.11| + |0.4| > |0.15| + |0.25|∣−0.11∣+∣0.4∣>∣0.15∣+∣0.25∣
+</>
+(True/False) In PCA,  the first principal component represents the most important feature in the dataset.
+A: False
+B: True
+---
+False
+</>
+Given the data visualized below with the classes represented by different colors, should PCA or kernel PCA be used, and why?
+A: Neither because the data cannot be projected onto a lower dimension.
+B: Either is fine because the two classes are clearly separable.
+C: PCA because the data is clearly separable when projected onto a lower dimension.
+D: Kernel PCA because the data is not linearly separable. 
+---
+Kernel PCA because the data is not linearly separable. 
+</>
+How does the goal of MDS (Multidimensional Scaling) compare to PCA?
+A: Both MDS and PCA try to to maintain geometric distances between data points.
+B: PCA tries to maintain geometric distances between data points, whereas MDS tries to preserve variance within data.
+C: Both MDS and PCA try to preserve variance within data.
+D: MDS tries to maintain geometric distances between data points, whereas PCA tries to preserve variance within data.
+---
+MDS tries to maintain geometric distances between data points, whereas PCA tries to preserve variance within data.
+</>
+(True/False) If the number of components is equal to the dimension of the original features, kernel PCA will reconstruct the data, returning the original.
+A: False
+B: True
+---
+False
+</>
+What is the main difference between kernel PCA and linear PCA?
+A: The objective of linear PCA is to decrease the dimensionality of the space whereas the objective of Kernel PCA is to increase the dimensionality of the space. 
+B: Kernel PCA tend to uncover non-linearity structure within the dataset by increasing the dimensionality of the space thanks to the kernel trick.
+C: Kernel PCA and Linear PCA are both Linear dimensionality reduction algorithm but they use a different optimization method.
+D: Kernel PCA tend to preserve the geometric distances between the points while reducing the dimensionality of the space. 
+---
+Kernel PCA tend to preserve the geometric distances between the points while reducing the dimensionality of the space. 
+</>
+ (True/False) Multi-Dimensional Scaling (MDS) focuses on maintaining the geometric distances between points.
+A: True
+B: False
+---
+False
+</>
+Which of the following data types is more suitable for Kernel PCA than PCA?
+A: Data where the classes are not linearly separable.
+B: Data with linearly separable classes.
+C: Data that do not need to be mapped to a higher dimension to distinguish categories.
+D: None; they can be used interchangeably.
+---
+Data where the classes are not linearly separable.
+</>
+By applying MDS, you are able to:
+A: Preserve variance within the original data.
+B: Maximize distance between data points in a lower dimension.
+C: Attain higher dimensions for the features.
+D: Find embeddings for points so that their distance is the most similar to the original distance.
+---
+Find embeddings for points so that their distance is the most similar to the original distance.
+</>
+Which one of the following hyperparameters is NOT considered when using GridSearchCV for Kernel PCA?
+A: n_clusters
+B: n_components
+C: gamma
+D: kernels
+---
+n_components
+</>
+What is a key difference between NMF and PCA?
+A: The input matrix for NMF consists of only positive values. 
+B: NMF decomposes the original matrix, whereas PCA does not.
+C: NMF requires orthogonal vectors created, whereas such constraint doesn't apply for PCA.
+D: PCA finds a representation of the data in a lower dimension, whereas NMF does not.
+---
+The input matrix for NMF consists of only positive values. 
+</>
+In which case would you prefer using PCA over NMF?
+A: When the original decomposition strictly contains positive values.
+B: When you want to decompose videos, music, or images.
+C: When cancelling out with negative values is not desired.
+D: When you have a linear combination of features.
+---
+When you have a linear combination of features.
+</>
+Which of the following is the most suitable for NMF?
+A: Reconstruct a text document with learned topics (features).
+B: Analyze potential movements and relationships of multiple stocks.
+C: Predict the price of a rental space based on location, facility, and average rent in the surrounding area.
+D: Learn features for a dataset in which negative values are highly insightful and valuable.
+---
+Reconstruct a text document with learned topics (features).
+</>
+(True/False) In some applications, NMF can make for more human interpretable latent features.
+A: True
+B: False
+---
+True
+</>
+Which of the following set of features is the least adapted to NMF?
+A: Word Count of the different words present in a text.
+B: Pixel color values of a an Image.
+C: Spectral decomposition of an audio file.
+D: Monthly returns of a set of stock portfolios.
+---
+Monthly returns of a set of stock portfolios.
+</>
+(True/False) The NMF can produce different outputs depending on its initialization.
+A: True
+B: False
+---
+False
+</>
+Which option is the sparse representation of the matrix below?
+[(1, 1, 2), (1, 2, 3), (3, 4, 1), (2, 4, 4), (4, 3, 1)]
+A: [[2 0 0 0],
+       [0 3 0 0],
+       [0 0 0 1], 
+       [0 4 1 0]]
+B: [[0 0 0 1],
+       [0 2 0 0],
+       [0 0 0 3], 
+       [0 4 1 0]]
+C: [[1 0 0 0],
+       [0 3 0 0],
+       [0 2 0 0], 
+       [0 0 4 2]]
+D: [[0 0 0 2],
+       [0 3 4 0],
+       [0 0 0 0], 
+       [0 0 1 0]]
+---
+[[2 0 0 0],
+       [0 3 0 0],
+       [0 0 0 1], 
+       [0 4 1 0]]
+</>
+In Practice lab: Non-Negative Matrix Factorization, why did we use "pairwise_distances" from scikit-learn?
+A: To calculate the pairwise distance between data points for eliminating outliers.
+B: To calculate the pairwise distance between points of the NMF encoded version of the original dataset.
+C: To calculate the pairwise distance between NMF encoded version of the original dataset and the encoded query dataset.
+D: To calculate the maximum pairwise distance between points in the dataset.
+---
+To calculate the pairwise distance between NMF encoded version of the original dataset and the encoded query dataset.
