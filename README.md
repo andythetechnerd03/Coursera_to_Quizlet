@@ -1,4 +1,4 @@
-# Coursera To Quizlet using Python version 1.0
+# Coursera To Quizlet using Python version 1.1
 ## Intro
 Ở đây, mình đã dùng Python và cụ thể là thư viện **Beautiful Soup** để lấy data về câu hỏi và câu trả lời từ trang quiz của Coursera và đóng gói thành bộ câu hỏi để đưa vào Quizlet dùng chức năng import. </br>
 Do mình học AI và Khóa K17 của tụi mình có một số môn mới nên mình phải làm suộc mới cho mọi người thôi.
@@ -10,7 +10,8 @@ Do mình học AI và Khóa K17 của tụi mình có một số môn mới nên
 ## Tính năng
 - Có thể trích xuất nội dung câu hỏi, các đáp án (cả câu 1 đáp án và nhiều đáp án) và đáp án đúng. (**tất nhiên là phải làm đúng mới có đáp án đúng**)
 - Trích xuất luôn cả code :))
-- Trích xuất câu trả lời tự luận. (coming soon)
+- Trích xuất câu trả lời tự luận.
+- **Coming soon:** Trích xuất câu hỏi có thời gian.
 
 ## Credits: Đinh Ngọc Ân (andy)
 Nếu có xài thì credit nha.
