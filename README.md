@@ -13,7 +13,7 @@ Do mình học AI và Khóa K17 của tụi mình có một số môn mới nên
 - Trích xuất câu trả lời tự luận.
 - **Coming soon:** Trích xuất câu hỏi có thời gian.
 
-## Cách suộc sang Quizlet
+## Cách chuyển suộc sang Quizlet
 - Trong code mình có ngăn cách câu hỏi và đáp án bằng --- , còn giữa 2 câu hỏi thì dùng  </>.
 - Khi import suộc vào Quizlet, các bạn bấm import và nhập vào giống như ảnh dưới đây.
 ![image](https://github.com/andythetechnerd03/Coursera_to_Quizlet/assets/101492362/cc70c85e-2ec2-4d12-9957-657c92e51338)
