@@ -1,0 +1,4882 @@
+Which cloud deployment model lets users use multiple cloud models working together seamlessly?
+A: Hybrid
+B: Public
+C: Private
+D: Broad Network Access
+---
+Hybrid
+</>
+What 1950s technology helped evolve to Virtual Machines (VMs)?
+A: Shared access of a mainframe
+B: Broad network access
+C: Measured service
+---
+Shared access of a mainframe
+</>
+What are some cloud computing benefits? Select two.
+A: Purchasing off-the-shelf software and upgrades 
+B: Diversity of standardization in how the constantly evolving technologies integrate and interoperate. 
+C: Competitive advantage    
+D: Flexibility and efficiency
+---
+Competitive advantage    
+Flexibility and efficiency
+</>
+Which of these vendors are known more for their SaaS offerings?
+A: Amazon Web Services 
+B: Intel 
+C: Salesforce, SAP, Oracle Cloud 
+D: Alibaba Cloud 
+---
+Salesforce, SAP, Oracle Cloud 
+</>
+According to the International Data Corporation (IDC), what is that crucial ability that will make cloud computing essential for businesses to succeed, sustain, and compete in today’s markets?
+A: Data-driven decisions
+B: Cognitively-enabled workflows
+C: Applied exponential technologies such as AI, Automation, IoT, and Blockchain
+D: Multi-cloud infrastructures
+---
+Data-driven decisions
+</>
+How did UBank leverage the cloud to remove barriers to innovation?
+A: By adopting a PaaS cloud development model to streamline development and empower product teams 
+B: By modernizing their customer-facing apps based on monolithic code into cloud-native based microservices architecture on the cloud
+C: By establishing a scalable hosting platform for low-latency delivery to enterprise customers around the world
+D: By migrating their trading systems from on-premises infrastructure to IBM Cloud for VMware solutions
+---
+By adopting a PaaS cloud development model to streamline development and empower product teams 
+</>
+How does Cloud Computing help IoT devices? Select two.
+A: Provide the resources to store and process the data produced by IoT devices and users
+B: Draw insights from data collected from the IoT devices and users
+C: Provide a fixed physical location for the data collected from IoT devices
+D: Minimize latency in reporting and responding to data collected through IoT sensors from around the world
+---
+Provide the resources to store and process the data produced by IoT devices and users
+Minimize latency in reporting and responding to data collected through IoT sensors from around the world
+</>
+Which of these statements best reflects the symbiotic relationship between AI and IoT on the Cloud?
+A: AI consumes the data produced by IoT devices and users.
+B: AI consumes data produced by IoT devices. Based on conclusions drawn by AI algorithms on patterns emerging this data, IoT devices learn to anticipate user actions based on past actions and respond to them based on their preferences.
+C: AI and IoT platforms leverage the power, scale, dynamic nature, and economics of the cloud resources.
+D: AI helps make sense of the endless streams of data from IoT devices
+---
+AI consumes data produced by IoT devices. Based on conclusions drawn by AI algorithms on patterns emerging this data, IoT devices learn to anticipate user actions based on past actions and respond to them based on their preferences.
+</>
+How does Blockchain support AI?
+A: Blockchain provides an immutable network allowing members to view only those transactions that are relevant to them.
+B: Globally distributed, scalable, and cost-efficient computing resources.
+C: Blockchain provides the trusted, decentralized source of truth lending trust and transparency to the decisions made by AI algorithms.
+D: Lends trust and transparency to AI by recording the data and variables that go into a decision made in an AI algorithm.
+---
+Blockchain provides the trusted, decentralized source of truth lending trust and transparency to the decisions made by AI algorithms.
+</>
+In the US National Institute of Standards and Technology (NIST) definition of "cloud computing", what does the statement "shared pool of configurable computing resources" include?
+A: Data security, associated with loss or unavailability of data causing business disruption
+B: Five essential characteristics, three deployment models, three service models
+C: Networks, servers, storage, applications, and services
+D: Leverage cloud services over the open internet on hardware owned by the cloud provider
+---
+Networks, servers, storage, applications, and services
+</>
+What tasks do hypervisors accomplish? Select two.
+A: Scale on demand to support fluctuating workloads.
+B: Enable multiple operating systems to run alongside each other, sharing the same physical computing resources.
+C: Separates VMs logically and assigns each a share of the underlying computing power, memory, and storage.
+D: Facilitate access to mainframes for multiple users to access the same data storage layer.
+---
+Enable multiple operating systems to run alongside each other, sharing the same physical computing resources.
+Separates VMs logically and assigns each a share of the underlying computing power, memory, and storage.
+</>
+What are some of the cloud benefits that make it lower-risk for enterprises to adopt cloud? Select two.
+A: Data security associated with loss or unavailability of data causing business disruption
+B: The speed with which applications can be up and running on the cloud versus months on traditional platforms, means enterprises can experiment, fail fast, learn, and course correct without setting them back significantly.
+C: The pay-as-you-go model allows enterprises to experiment with technologies as opposed to making long-term decisions based on little or no trial.
+D: Diversity of standardization in how the constantly evolving technologies integrate and interoperate.
+---
+The speed with which applications can be up and running on the cloud versus months on traditional platforms, means enterprises can experiment, fail fast, learn, and course correct without setting them back significantly.
+The pay-as-you-go model allows enterprises to experiment with technologies as opposed to making long-term decisions based on little or no trial.
+</>
+ Which of these are full-service cloud platforms?
+     A.     IBM Cloud
+     B.     Amazon Web Services
+     C.      Google Cloud Platform
+     D.     Microsoft Azure
+A: A and B only
+B: A, B, and C only
+C: A, B, C, and D
+D: A only
+---
+A, B, C, and D
+</>
+An IBM Institute for Business Value study says that more than three-quarters of enterprises today are using cloud computing to expand into new industries. What additional benefits do organizations find when adopting the cloud:
+A: Continue making expensive decisions because it often worked in the past 
+B: Avoid having to fail at all
+C: Lengthen product lifecycles to ensure higher quality offerings
+D: Improve customer experience and create enhanced products and services
+---
+Improve customer experience and create enhanced products and services
+</>
+What are some of the results companies like Bitly, American Airlines, UBank, and ActivTrades achieve with cloud adoption?
+     A.     Better customer service
+     B.     Remove barriers to innovation
+     C.     Demand for enterprise scale
+     D.     Accelerating growth
+A: A and B only
+B: A, B, C, and D
+C: B and D only
+D: C and D only
+---
+A, B, C, and D
+</>
+IoT, AI, Blockchain, and Analytics are emerging technologies enabled by the cloud. What are some of the attributes of cloud computing that enable these technologies? Select two.
+A: The power and scale of cloud resources
+B: Cloud resources are offered in a single-tenant model
+C: Computing resources can be accessed via internet connection
+D: Cloud offers on-demand computing
+---
+The power and scale of cloud resources
+Cloud offers on-demand computing
+</>
+What is the three-way symbiotic relationship between IoT, AI, and Cloud?
+A: AI consumes the data produced by IoT devices
+B: IoT delivers the data, AI powers the insights, and both emerging technologies leverage cloud's scalability and processing power
+C: Power, scale, dynamic nature, and economics of the cloud resources
+D: Making sense of the endless streams of data from IoT devices
+---
+IoT delivers the data, AI powers the insights, and both emerging technologies leverage cloud's scalability and processing power
+</>
+What is the three-way relationship between blockchain, AI, and the Cloud?
+A: Blockchain provides an immutable network allowing members to view only those transactions that are relevant to them.
+B: Lends trust and transparency to AI by recording the data and variables that go into a decision made in an AI algorithm.
+C: Blockchain provides the trusted, decentralized source of truth, AI powers the analytics and decisions made from the collected data, and cloud provides the globally distributed, scalable, and cost-efficient computing resources to support both technologies.
+D: Globally distributed, scalable, and cost-efficient computing resources.
+---
+Blockchain provides the trusted, decentralized source of truth, AI powers the analytics and decisions made from the collected data, and cloud provides the globally distributed, scalable, and cost-efficient computing resources to support both technologies.
+</>
+Which of these are essential characteristics of the Cloud? Select two.
+A: Fixed fee
+B: On-demand self-service
+C: Single-tenant
+D: Resource pooling
+---
+On-demand self-service
+Resource pooling
+</>
+In the car analogy used in the video to explain and differentiate between the three service models, which of the provided options is an analogy for PaaS?
+A: Renting a car
+B: Hiring a taxi
+C: Buying a car
+D: Leasing a car
+---
+Renting a car
+</>
+According to the IaaS video, which one of these is NOT a likely use case for IaaS? 
+A: Retaining in-house control over workload availability and performance 
+B: Big Data Analysis
+C: High-performance computing
+D: Business Continuity and Disaster Recovery
+---
+Retaining in-house control over workload availability and performance 
+</>
+Which of these scenarios are good use cases for PaaS. Select two.
+A: Organizations who want to maintain full control over the installation, configuration, and operation of their application infrastructure
+B: Build, test, deploy, enhance, and scale applications rapidly and cost-effectively
+C: API Development and Management
+D: Organizations who do not want to invest in ongoing upgrades and maintenance of their applications
+---
+Build, test, deploy, enhance, and scale applications rapidly and cost-effectively
+API Development and Management
+</>
+Which one of the following is a good use case for SaaS?
+A: Organizations looking to reduce on-premises IT infrastructure and capital expenditure
+B: Applications that have highly confidential and sensitive data
+C: Organizations that have a geographically spread workforce, some of them working in areas with erratic or unreliable internet connections
+D: Business-critical applications
+---
+Organizations looking to reduce on-premises IT infrastructure and capital expenditure
+</>
+Which of these scenarios are good use cases for Public Cloud? Select two.
+A: Reducing time-to-market for products and services
+B: Applications with stable capacity and resourcing needs
+C: Managing business critical platforms and applications
+D: Disaster recovery, data protection, and business continuity
+---
+Reducing time-to-market for products and services
+Disaster recovery, data protection, and business continuity
+</>
+Private cloud platforms can be implemented internally or externally. What is an external private cloud platform?
+A: Virtual Private Cloud or VPC
+B: Platform that is owned, managed, and operated by the organization
+C: Cloud platform that runs on-premises
+D: Controlled access and customized security measures.
+---
+Virtual Private Cloud or VPC
+</>
+What do we mean when we say that the Hybrid Cloud is interoperable?
+A: You are no longer locked-in with a specific vendor
+B: When there is a spike in demand, a workload running on the private cloud can leverage the additional public cloud capacity
+C: Organizations can choose to run their sensitive workloads on a private cloud
+D: The public and private cloud services can understand each other’s APIs, configuration, data formats, and forms of authentication and authorization
+---
+The public and private cloud services can understand each other’s APIs, configuration, data formats, and forms of authentication and authorization
+</>
+Which of the following does NOT represent one of the three main Cloud Service Models referred to in the course?
+A: CaaS
+B: SaaS
+C: IaaS
+D: PaaS
+---
+CaaS
+</>
+Which one of the provided options is true for Infrastructure-as-a-Service?
+A: Cloud provider manages the physical resources, operating systems, development tools, databases, and business analytics
+B: Cloud provider manages the physical resources, the platform resources, applications, and data
+C: Cloud provider owns, manages, and maintains the physical resources
+D: Cloud provider configures the infrastructure which is managed and maintained by the user/customer organization
+---
+Cloud provider owns, manages, and maintains the physical resources
+</>
+Which are some of the key components of cloud Infrastructure-as-a-Service? Select two.
+A: IaaS providers deploy the middleware and install required applications on the virtual machines
+B: IaaS providers manage the hypervisors and end-users provision the virtual instances
+C: IaaS providers manage the hypervisors and provision virtual instances
+D: IaaS providers manage large data centers that contain the physical machines required to power the various layers of abstraction on top of them
+---
+IaaS providers manage the hypervisors and end-users provision the virtual instances
+IaaS providers manage large data centers that contain the physical machines required to power the various layers of abstraction on top of them
+</>
+Which of the following are essential characteristics of Platform-as-a-Service? Select two.
+A: PaaS offerings support middleware capabilities that assists developers by reducing the amount of code that must be written to expand the application’s functional capabilities
+B: Organizations who opt for PaaS still need to configure supporting technologies such as load balancers and databases
+C: In a PaaS model, the provider also takes responsibility for the application code and its maintenance
+D: PaaS clouds provide services and APIs that help developers deliver elastically scalable and highly available cloud applications
+---
+PaaS offerings support middleware capabilities that assists developers by reducing the amount of code that must be written to expand the application’s functional capabilities
+PaaS clouds provide services and APIs that help developers deliver elastically scalable and highly available cloud applications
+</>
+Which one of the following is a key characteristic of Software-as-a-Service?
+A: Ensure every user has access to the same, centrally located, infrastructure and application code
+B: Security, compliance, and maintenance of the software are the responsibilities of the user
+C: Single tenant architecture
+D: SaaS services do not provide options for user customization
+---
+Ensure every user has access to the same, centrally located, infrastructure and application code
+</>
+Which of these statements is a characteristic of Public Clouds? 
+A: A public cloud provides a dedicated pool of resources to each of its multiple users
+B: Resources are assigned as per estimated need decided at the time of subscribing for the service
+C: The cloud provider provisions the resources and services as needed by individual users
+D: A public cloud is a virtualized multi-tenant architecture
+---
+A public cloud is a virtualized multi-tenant architecture
+</>
+Which of the following statements is NOT a correct statement about Private clouds?
+A: Private Clouds can be implemented internally or externally
+B: Private clouds can only be deployed on-premise, in an organization’s own datacenter
+C: Private Clouds are suitable for workloads that require maximum control and security
+D: VPC is an example of a type of Private Cloud
+---
+Private clouds can only be deployed on-premise, in an organization’s own datacenter
+</>
+Which of these statements are true of Virtual Private Clouds (VPCs)? Select two.
+A: VPCs are provisioned in a logically isolated part of a shared public cloud
+B: The VPC infrastructure is owned, managed, and operated by the public cloud service provider
+C: VPC allows all users of the shared public cloud to access resources in the VPC on need basis; it also allows users of the VPC to access resources of the public cloud
+D: VPCs may be provisioned over a cloud service provider’s infrastructure, but the infrastructure is owned, managed, and operated by the enterprise
+---
+VPCs are provisioned in a logically isolated part of a shared public cloud
+The VPC infrastructure is owned, managed, and operated by the public cloud service provider
+</>
+If an organization needs to run a highly sensitive and mission critical application with unpredictable performance and capacity requirements, which of the following models would best meet its requirements?
+A: Public Cloud
+B: Private Cloud
+C: On-premise Data Centers
+D: Hybrid Cloud
+---
+Hybrid Cloud
+</>
+Which of the following statements about Hybrid Cloud is NOT correct?
+A: Hybrid Clouds allow organizations to leverage the additional public cloud capacity when a workload running on the private cloud has a spike in demand
+B: Hybrid clouds can prevent lock-in to a single Cloud Provider
+C: Hybrid cloud is a computing environment that connects an organization's on-premise private cloud and third-party public cloud into a single flexible infrastructure
+D: Hybrid clouds are only suitable for workloads involving Infrastructure-as-a-Service
+---
+Hybrid clouds are only suitable for workloads involving Infrastructure-as-a-Service
+</>
+The infrastructure layer is the foundation of the cloud and consists of physical resources. Where do these physical resources reside? 
+A: Regions, Zones, and Data Centers
+B: In a warehouse that houses a centralized mainframe server
+C: Virtual Servers, Bare Metal Servers, and Serverless computing resources
+D: Compute, Storage, and Networking Resources 
+---
+Regions, Zones, and Data Centers
+</>
+Virtualization is the process of creating a software-based or virtual version of something. What is typically created with virtualization in the cloud?
+A: Servers, storage devices, networking resources, and applications 
+B: VMware ESX and ESXI, Microsoft Hyper-V, open-source KVM 
+C: Oracle VirtualBox, VMware Workstation
+D: Windows, Linux, UNIX 
+---
+Servers, storage devices, networking resources, and applications 
+</>
+Which type of Virtual Machine (VM) takes advantage of unused capacity in data centers at a much lower cost than regular VMs of similar sizes?
+A: Shared or Public Cloud VMs 
+B: Dedicated hosts 
+C: Transient or Spot VMs 
+D: Reserved virtual servers 
+---
+Transient or Spot VMs 
+</>
+Why do bare metal servers take longer to provision than virtual servers?
+A: They're multi-tenant servers, and all tenants must help configure them 
+B: They are physical servers that can be customized to specified capacity
+C: GPUs for data analytics are hard to configure and provision 
+D: Customer configures the physical servers 
+---
+They are physical servers that can be customized to specified capacity
+</>
+Which part of a logically segmented cloud network is the main area where security is implemented?
+A: Subnets 
+B: Load balancers 
+C: Networking spaces 
+D: Logical instances of networking elements
+---
+Subnets 
+</>
+What benefits do runtime engines provide to containers?
+A: Serves as an interface between the VM and underlying physical hardware    
+B: Share the operating system (OS) with other containers 
+C: Allows multiple OS and applications to run simultaneously and share resources 
+D: Uses device drivers targeting the abstract machine
+---
+Share the operating system (OS) with other containers 
+</>
+There are four main types of cloud storage available. Which storage type is sometimes called "Local Storage"?
+A: File Storage 
+B: Object Storage 
+C: Block Storage 
+D: Direct Attached 
+---
+Direct Attached 
+</>
+What is File Storage sometimes called?
+A: NFS
+B: Remote storage appliances
+C: COS 
+D: Ethernet
+---
+NFS
+</>
+Which of these statements is true of File Storage but not Object Storage? Select two.
+A: Storage is attached to compute nodes using an ethernet network 
+B: Highly resilient and available
+C: Based on the load, speed of the connecting network can be inconsistent 
+D: Include data encryption at rest and in transit    
+---
+Storage is attached to compute nodes using an ethernet network 
+Based on the load, speed of the connecting network can be inconsistent 
+</>
+Which of the following is NOT a good fit for Object Storage?
+A: Data that does not require fast read and write speeds
+B: Storage needs are finite and can be pre-defined
+C: Files or objects that are static 
+D: Operating systems or applications like databases 
+---
+Operating systems or applications like databases 
+</>
+What is a standard tier bucket in Object Storage typically used for?
+A: Supporting applications that need consistent fast access to disk, such as databases
+B: Storing objects that are only accessed once or twice a month or less 
+C: Storing objects that are frequently accessed 
+D: Storing data that is typically accessed only once or twice a year 
+---
+Storing objects that are frequently accessed 
+</>
+What is a Content Delivery Network (CDN)?
+A: A distributed server network 
+B: A network node 
+C: Network topology
+D: A network link
+---
+A distributed server network 
+</>
+Each Cloud Region can have multiple Zones (also known as Availability Zones). What are Zones?
+A: Unique physical locations with one or more data centers 
+B: Single shared point of failure 
+C: Standardized containers of computing resources
+D: Geographic area or region where cloud provider’s infrastructure is clustered
+---
+Unique physical locations with one or more data centers 
+</>
+Is it possible to run completely different operating systems on Virtual Machines (VMs) that are on a single host? If yes, what makes this possible?
+A: No, it is not possible—VMs are software-based versions of a single host. They cannot have different environments from one another. 
+B: No, it is not possible—A single host can only work as one single virtual environment, and can, therefore, have only one environment. 
+C: Yes, Containerization makes it possible—to have VMs that are unique physical entities, so you can have completely different Operating Systems on them. 
+D: Yes, Virtualization makes it possible— to have VMs, running different operating systems, on a single host. 
+---
+Yes, Virtualization makes it possible— to have VMs, running different operating systems, on a single host. 
+</>
+Which of the following are examples of single-tenant compute environments in the Cloud? Select two.
+A: Bare Metal servers
+B: Dedicated host 
+C: Reserved virtual server 
+D: Transient virtual servers 
+---
+Bare Metal servers
+Dedicated host 
+</>
+Which of these scenarios is ideal for the use of bare metal servers, as opposed to virtual servers? Select two.
+A: Workloads that require limited throughput and performance 
+B: CPU and I/O intensive workloads
+C: Huge performance and strict security and compliance requirements 
+D: Low cost to use 
+---
+CPU and I/O intensive workloads
+Huge performance and strict security and compliance requirements 
+</>
+What are some key differences between Containers and Virtual Machines? Select two.
+A: Even though each container uses the same OS as the host OS, it still needs to have its own copy of the OS, while a virtual machine leverages the resources of the host OS 
+B: Containers can use the same OS as the host, while a virtual machine needs its own copy of the OS, which can also be different from the host OS 
+C: Containers are executable units of software while each virtual machine is a distinct physical entity 
+D: Containers are more lightweight as compared to virtual machines 
+---
+Containers can use the same OS as the host, while a virtual machine needs its own copy of the OS, which can also be different from the host OS 
+Containers are more lightweight as compared to virtual machines 
+</>
+There are four types of cloud storage available. Which storage type is ephemeral or non-persistent?
+A: Block storage 
+B: Direct Attached storage
+C: Object storage 
+D: File storage 
+---
+Direct Attached storage
+</>
+What makes File storage an ideal solution for scenarios where shared storage is needed?
+A: Mounted from remote storage appliances 
+B: File Storage is mounted to compute nodes via an ethernet network
+C: File storage can be mounted on multiple compute nodes at the same time 
+D: Its consistently high speed 
+---
+File storage can be mounted on multiple compute nodes at the same time 
+</>
+Which of these scenarios are best suited for Block Storage? Select two.
+A: Applications that need consistent fast access to disk, such as databases 
+B: Low cost is a consideration
+C: Workloads that need disk sharing between compute nodes 
+D: Workloads that need low-latency storage
+---
+Applications that need consistent fast access to disk, such as databases 
+Workloads that need low-latency storage
+</>
+Which of these are features of Object Storage? Select two.
+A: You can directly use Object Storage without attaching it to a compute node
+B: Object storage is effectively infinite 
+C: Storage is attached to compute nodes using a fibre network
+D: Object Storage can be mounted on multiple compute nodes via an ethernet network 
+---
+You can directly use Object Storage without attaching it to a compute node
+Object storage is effectively infinite 
+</>
+What is the main benefit of a Content Delivery Network (CDN)?
+A: Distribute tasks, workloads, and network traffic
+B: Speed, it makes your website faster by serving files from a location closer to the user. 
+C: Enhanced control over network traffic by routing traffic to specified resources 
+D: Network topology 
+---
+Speed, it makes your website faster by serving files from a location closer to the user. 
+</>
+In the use case illustrated in the video, how does the global flower delivery company leverage the Hybrid Multicloud architecture to meet its requirement of varying capacity demands across different geographies?
+A: By using the automatic provisioning and de-provisioning of resources that cloud offers 
+B: By distributing their delivery service application across multiple cloud environments and providers, spread across multiple geographies
+C: By scaling up their on-premise architecture 
+---
+By distributing their delivery service application across multiple cloud environments and providers, spread across multiple geographies
+</>
+Which one of these is an attribute of the microservices architecture approach?
+A: When one of the microservices of an application stops to function, it disrupts the functioning of the complete application 
+B: All the microservices that need to perform a task, need to be bundled in a single container so that they can perform the assigned task 
+C: Every new functionality in a microservice needs to be developed from scratch 
+D: Microservices breakdown large applications into their core functions to create a fully functional application 
+---
+Microservices breakdown large applications into their core functions to create a fully functional application 
+</>
+Which of these scenarios is NOT a good use case for serverless architecture?
+A: Stream processing workloads
+B: Supporting microservices architecture 
+C: Microservices that can be built as functions that are stateless 
+D: Workloads characterized by long-running processes 
+---
+Workloads characterized by long-running processes 
+</>
+Cloud native applications follow a consistent set of development principles. Identify two of these development principles from the provided options.
+A: Containerize the microservices for maximum flexibility, scalability, and portability 
+B: Bring the various single-function components of an application into one huge piece of software 
+C: Break applications down to single-function microservices 
+D: Tightly couple the different functions of the application so that they can work together as a whole 
+---
+Containerize the microservices for maximum flexibility, scalability, and portability 
+Break applications down to single-function microservices 
+</>
+Which of the following statements describe the DevOps approach and process? Select two.
+A: Eliminates the need to monitor performance and availability
+B: A collaborative approach where business owners and development, operations, and quality assurance teams collaborate to continuously deliver software
+C: Eliminates the need to provision servers, build middleware, and install application code 
+D: DevOps process defines how people work together to build, deploy, and manage applications in a cloud native environment
+---
+A collaborative approach where business owners and development, operations, and quality assurance teams collaborate to continuously deliver software
+DevOps process defines how people work together to build, deploy, and manage applications in a cloud native environment
+</>
+Which of the provided options encapsulates the complete application modernization journey?
+A: The journey from waterfall and agile development methodologies to DevOps. 
+B: The journey from monolithic and service-oriented architecture to microservices architecture, from physical servers and VMs to cloud infrastructure, and from waterfall and agile methodology to DevOps. 
+C: The journey from monolithic and service-oriented architecture to microservices architecture. 
+D: The journey from physical servers and VMs to cloud infrastructure. 
+---
+The journey from monolithic and service-oriented architecture to microservices architecture, from physical servers and VMs to cloud infrastructure, and from waterfall and agile methodology to DevOps. 
+</>
+What are the key elements of a Hybrid Multicloud strategy? Select two.
+A: For seamless working, it is recommended that if you’re subscribed to the infrastructure services of a cloud provider, you should subscribe to the application services provided by the same vendor. 
+B: Embraces a mix of cloud models and services as long as they are from the same cloud service provider 
+C: Allows you to leverage the best of cloud models and services across different cloud providers so that your applications and workloads work seamlessly across multiple clouds 
+D: Connects an organization’s on-premise private cloud and third-party public cloud into a single infrastructure 
+---
+Allows you to leverage the best of cloud models and services across different cloud providers so that your applications and workloads work seamlessly across multiple clouds 
+Connects an organization’s on-premise private cloud and third-party public cloud into a single infrastructure 
+</>
+What are some of the benefits of using microservices architecture? Select two.
+A: Each line of code for a microservice needs to be written from scratch
+B: Each microservice of an application needs to use the same stack and runtime environment 
+C: Application components can be developed and updated independently of each other 
+D: Components facing varied amounts of load can be scaled independently 
+---
+Application components can be developed and updated independently of each other 
+Components facing varied amounts of load can be scaled independently 
+</>
+Serverless might not be the best fit for all applications or scenarios. Which of these attributes qualify an application for a serverless architecture?
+A: Microservices that can be built as functions that are stateless 
+B: Workloads and applications that may be spread across multiple cloud environments and cloud vendors 
+C: Workloads characterized by long-running processes 
+D: Low-latency applications 
+---
+Microservices that can be built as functions that are stateless 
+</>
+What are the characteristics of a cloud native application?
+A: Collection of microservices that are built as one huge piece of software
+B: Collection of microservices working together as a whole to comprise an application 
+C: Collection of microservices with tightly coupled UI, business logic layer, and data layer 
+D: Collection of microservices that need to be scaled and updated in relation to each other 
+---
+Collection of microservices working together as a whole to comprise an application 
+</>
+DevOps’ tools, practices, and processes are helping tackle some of the complexities and challenges posed by the cloud. Identify two ways in which DevOps is mitigating these challenges.
+A: By fully automating the infrastructure installation process in a way that is documented, repeatable, verifiable, and traceable 
+B: By creating an automated deployment pipeline
+C: DevOps best practices eliminate the need to provision servers, build middleware, and install application code 
+D: DevOps processes outline the development principles that need to be followed to modernize monolithic applications to cloud native applications 
+---
+By fully automating the infrastructure installation process in a way that is documented, repeatable, verifiable, and traceable 
+By creating an automated deployment pipeline
+</>
+Cloud adoption is an integral part of application modernization. What are the other two important components of modernization?
+A: VMs and Agile Methodology
+B: Microservices and DevOps 
+C: Service Oriented Architecture and Waterfall Methodology
+D: Monolithic Architectures and Physical Servers 
+---
+Microservices and DevOps 
+</>
+One of the key characteristics of Hybrid Multicloud is portability. What does portability mean in the context of Hybrid Cloud?
+A: Distributing a single application across multiple providers allowing you to move application components across cloud services and vendors as needed 
+B: The public and private cloud services can understand each other’s APIs, data formats, forms of authentication and authorization 
+C: A workload running on the private cloud can leverage the additional public cloud capacity when there is a spike in demand 
+D: The flexibility to move applications and data between systems and cloud service providers 
+---
+The flexibility to move applications and data between systems and cloud service providers 
+</>
+What is an attribute that distinguishes serverless computing from other compute models? 
+A: End users pay for resources as long as they are running, even if idle 
+B: In the serverless computing environment, resources cannot be scaled up or down 
+C: The serverless model requires no provisioning of servers, installation of application stacks, or operation of the infrastructure by the users/developers 
+D: Serverless computing does not require any underlying servers for executing workloads 
+---
+The serverless model requires no provisioning of servers, installation of application stacks, or operation of the infrastructure by the users/developers 
+</>
+Which one of these statements is NOT true of a microservices architecture approach?
+A: When one of the microservices of an application stops to function, it disrupts the functioning of the complete application 
+B: Developers can leverage the vast amounts of code already available as the base of an application, eliminating the need to develop code from scratch
+C: Microservices breakdown large applications into their core functions to create a fully functional application
+D: Microservices find one another using service discovery, which creates a roadmap for microservices to communicate 
+---
+When one of the microservices of an application stops to function, it disrupts the functioning of the complete application 
+</>
+Which one of the following statements does NOT describe the DevOps approach and process? 
+A: A collaborative approach where business owners and development, operations, and quality assurance teams collaborate to deliver software continuously 
+B: Defines how people work together to build, deploy, and manage applications in a cloud native environment 
+C: Eliminates the need to provision servers, build middleware, and install application code
+D: Uses automated tools to monitor the performance and availability of their applications 
+---
+Eliminates the need to provision servers, build middleware, and install application code
+</>
+What are some of the key elements of data protection discussed in the "What is Cloud Security" video?
+A.     Data at rest
+B.      Data in motion
+C.      Data in use
+D.     Dynamic and static scanning of applications
+A: A, B, C, and D 
+B: A and B only 
+C: B and C only 
+D: A, B, and C only  
+---
+A, B, and C only  
+</>
+What are some of the monitoring tools that help you to gain insights about your posture, compliance, and threats? Select two.
+A: Security events    
+B: Hypervisors   
+C: Data encryption    
+D: Flow logs from the network    
+---
+Security events    
+Flow logs from the network    
+</>
+What is the role SecDevOps plays in cloud security?
+A: Helps maintain visibility of all data exchanges between public, private, and hybrid cloud environments    
+B: Provides policies, technological procedures, services, and solutions to secure the enterprise against security threats and breaches    
+C: Identity and Access Management 
+D: Security in the DevOps process helps embed security through the life cycle of an application    
+---
+Security in the DevOps process helps embed security through the life cycle of an application    
+</>
+What are some of the benefits of using access groups? Select two.
+A: The use of access groups helps to reduce the number of policies in an account 
+B: Access groups provide a more streamlined way to assign access rights to a group of users and service IDs as compared to assigning individual access 
+C: Access groups create an additional level of authentication for application users 
+D: Access groups define the users, the resources to which access is being granted, and the permission level that each user has on these resources 
+---
+The use of access groups helps to reduce the number of policies in an account 
+Access groups provide a more streamlined way to assign access rights to a group of users and service IDs as compared to assigning individual access 
+</>
+Identify the two main parts of an encryption system from the provided options. Select two.
+A: The encryption algorithm 
+B: Server-side encryption 
+C: The decryption key
+D: Client-side encryption 
+---
+The encryption algorithm 
+The decryption key
+</>
+What are some of the benefits that cloud monitoring solutions offer? Select two.
+A: Troubleshoot applications and infrastructure 
+B: Accelerate the diagnosis and resolution of performance incidents 
+C: Prevent unauthorized users from accessing the systems 
+D: Provide proactive notifications of abnormal or unusual situations 
+---
+Accelerate the diagnosis and resolution of performance incidents 
+Provide proactive notifications of abnormal or unusual situations 
+</>
+What are some of the common outcomes’ companies like The Weather Company, American Airlines, Cementos Pacasmayo, Welch Foods, and LiquidPower achieve with cloud migration?  
+A.     Meeting the information/service needs of their customers
+B.      Resolving their scalability challenge
+C.      Cost efficiencies
+A: A and B only 
+B: A and C only 
+C: A, B, and C 
+D: B and C only 
+---
+A, B, and C 
+</>
+The Weather Company migrated its weather web property to a secure, scalable, and global architecture in the IBM Cloud. What are some of the benefits they realized as a result of this migration? Select two.
+A: Faster development and release of new apps and digital self-service tools to customers    
+B: Optimize their systems for elasticity in handling extreme spikes in demand which can mean a difference between life and death for its users    
+C: Increase asset availability and overall equipment effectiveness    
+D: Harness local data centers to minimize latency for users spread across the globe    
+---
+Optimize their systems for elasticity in handling extreme spikes in demand which can mean a difference between life and death for its users    
+Harness local data centers to minimize latency for users spread across the globe    
+</>
+What are some of the technical skills necessarily required for the role of Cloud Software Engineer? Select two.
+A: Understanding existing systems to recommend automated integration of disparate data sets
+B: Knowledge of data structures, distributed systems, operating systems, and algorithms 
+C: Perform threat simulations to detect possible risks 
+D: Proficiency in commonly used web application development languages, such as Python, JavaScript, Java, HTML, and CSS 
+---
+Knowledge of data structures, distributed systems, operating systems, and algorithms 
+Proficiency in commonly used web application development languages, such as Python, JavaScript, Java, HTML, and CSS 
+</>
+What are some best practices organizations need to follow in order to protect their cloud resources and systems? Select two.
+A: Run security monitoring tools on a periodic basis to ensure security threats and breaches are flagged 
+B: Active monitoring for security and compliance 
+C: Distribute tasks, workloads, and network traffic
+D: Adopt a shared responsibility model 
+---
+Active monitoring for security and compliance 
+Adopt a shared responsibility model 
+</>
+Which of the following are key components of Identity and Access Management (IAM)? Select two.
+A: Cloud Directory Services 
+B: Audit and Compliance 
+C: Protecting data while it is at rest, in motion, and in use 
+D: Embedding security through the life cycle of an application 
+---
+Cloud Directory Services 
+Audit and Compliance 
+</>
+Which of these statements are true of cloud encryption
+A.   Encryption ensures only authorized users have access to sensitive dat
+B.   When encrypted data is intercepted without authorization, it is unreadable and meaningles
+C.   Encryption protects data when it is at rest, in transit, and in use in memo
+D.   Encryption eliminates data security risk
+A: A, B, and C only 
+B: A, B, and D only 
+C: A and C only 
+D: A, B, C, and D
+---
+A, B, and C only 
+</>
+Identify some of the standard cloud monitoring best practices from the provided options. Select two. 
+A: Leverage end-user experience monitoring solutions to capture the performance of an application from the point of view of its end users
+B: Track usage and cost of your cloud resources and services 
+C: Encrypt data before it is sent to the cloud
+D: Authenticate users attempting to access their cloud resources    
+---
+Leverage end-user experience monitoring solutions to capture the performance of an application from the point of view of its end users
+Track usage and cost of your cloud resources and services 
+</>
+Which job role requires the following skills?
+·        Collaboration with development and operations teams 
+·        Containerization expertise
+·        Creating custom automation tools
+·        Building and maintaining configuration and deployment frameworks
+·        Monitoring security and measuring performance 
+A: Cloud Data Engineers 
+B: Cloud Solutions Architects
+C: Cloud DevOps Engineer 
+D: Cloud Integration Specialists
+---
+Cloud DevOps Engineer 
+</>
+Who is more likely to work with databases?  
+A: Back-end developer
+B: Front-end developer
+---
+Back-end developer
+</>
+Which of the following do version control systems help you to keep track of? (Select all that apply) 
+A: Who made the changes
+B: Debugging the errors in the code
+C: What changes were made to the code 
+D: When the changes were made
+---
+Who made the changes
+What changes were made to the code 
+When the changes were made
+</>
+Which of the following is not a development framework? 
+A: Angular
+B: Vue.js 
+C: Django
+D: Git 
+---
+Git 
+</>
+Which process automatically builds and tests your code?  
+A: CI (Continuous Integration) 
+B: CD (Continuous Delivery)
+---
+CI (Continuous Integration) 
+</>
+True or False: JavaScript can be used for both front-end and back-end development.  
+A: True
+B: False
+---
+True
+</>
+What is an API?
+A: Code that works with data and provides a mechanism for software to access resources from the back-end
+B: A practice for dev-ops teams enabling developers to deliver frequent changes reliably
+C: A version control system used to manage your code
+D: A framework which dictates the architecture of your program and controls the program flow
+---
+Code that works with data and provides a mechanism for software to access resources from the back-end
+</>
+When a user tries to login to a website, he/she gets an authentication failure error. Who do you think can fix this error? (Select all that apply)
+A: Back-end Developer
+B: Front-end Developer 
+C: Full-stack Developer
+---
+Back-end Developer
+Full-stack Developer
+</>
+In addition to SQL, which tool can help you access databases?
+A: pip
+B: CI/CD
+C: npm
+D: ORM
+---
+ORM
+</>
+Build automation can automate which of the following tasks?  (Select all that apply)
+A: Compiling binary code into source code
+B: Downloading dependencies
+C: Packaging binary code
+D: Running tests and deployment to production systems
+---
+Downloading dependencies
+Packaging binary code
+Running tests and deployment to production systems
+</>
+A user has complained that the website is readable on desktop but not on mobile. Who can help solve this problem?
+A: Front-end Developer
+B:  Back-end Developer
+---
+Front-end Developer
+</>
+Which of the following describe a package manager?  (Select all that apply)
+A: A way to distribute your pre-packaged application(s)
+B: Takes care of finding, installing, maintaining or uninstalling software packages
+C: Contains application files, instructions for installation, and metadata
+---
+A way to distribute your pre-packaged application(s)
+Takes care of finding, installing, maintaining or uninstalling software packages
+</>
+Which of the following adds interactivity and dynamic content to a website?
+A: HTML
+B: CSS
+C: JavaScript
+D: Git
+---
+JavaScript
+</>
+Which of these is an open-source server side platform built on the Google Chrome JavaScript engine and uses an asynchronous single threaded architecture that allows it to serve a very large number of concurrent connections?
+A: Node.js
+B: Flask
+C: React JS 
+D:  Angular
+---
+Node.js
+</>
+Which of the following frameworks and libraries are used for front-end? (Select all that apply)
+A: React.js
+B: Vue.js
+C: Angular
+D: Node.js
+E: Express
+---
+React.js
+Vue.js
+Angular
+</>
+Which of the following is NOT a required skill for a front-end developer?
+A: JavaScript
+B: CSS
+C: HTML
+D: Java
+---
+Java
+</>
+What are the building blocks of HTML called?
+A: Chunks
+B: Nodes
+C: Elements
+D: Attributes
+---
+Elements
+</>
+Which tag is used to provide keywords for search engines?
+A: <title>
+B: <header>
+C: <footer>
+D: <meta>
+---
+<meta>
+</>
+Fill in the blank: In HTML5, ______________ allow you to run processing intensive tasks without blocking the user interface.
+A: Web workers
+B: DOM accessors
+C: Structural elements
+D: Non-blocking feeds
+---
+Web workers
+</>
+How do you properly recreate the following table using HTML code?
+Date
+Language
+2014
+HTML5
+1999
+CSS3
+1995
+JavaScript
+A: <table> <tr> <td>Date</td> <td>Language</td> </tr> <tr> <th>2014</th> <th>HTML5</th> </tr> <tr> <th>1999</th> <th>CSS3</th> </tr> <tr> <th>1995</th> <th>JavaScript</th> </tr> </table> 
+B: <table> <td> <th>Date</th> <th>Language</th> </td> <td> <tr>2014</tr> <tr>HTML5</tr> </td> <td> <tr>1999</tr> <tr>CSS3</tr> </td> <td> <tr>1995</tr> <tr>JavaScript</tr> </td> </table> 
+C: <table> <tc> <th>Date</th> <th>Language</th> </tc> <tc> <td>2014</td> <td>HTML5</td> </tc> <tc> <td>1999</td> <td>CSS3</td> </tc> <tc> <td>1995</td> <td>JavaScript</td> </tc> </table> 
+D: <table> <tr> <th>Date</th> <th>Language</th> </tr> <tr> <td>2014</td> <td>HTML5</td> </tr> <tr> <td>1999</td> <td>CSS3</td> </tr> <tr> <td>1995</td> <td>JavaScript</td> </tr> </table> 
+---
+<table> <tr> <th>Date</th> <th>Language</th> </tr> <tr> <td>2014</td> <td>HTML5</td> </tr> <tr> <td>1999</td> <td>CSS3</td> </tr> <tr> <td>1995</td> <td>JavaScript</td> </tr> </table> 
+</>
+Which of the following statements about document.images is correct?
+A: document.images is a DOM property
+B: document.images returns a collection of image elements in a document
+C: document.images is part of the HTML document API
+D: All of the above 
+---
+All of the above 
+</>
+Which of the following statements embeds an image in an HTML document? 
+A: <image>link_to_image</image>
+B: <figure src="image URL">image name</figure>
+C: <img src="image URL">
+D: <img href="image URL">image name</img>
+---
+<img src="image URL">
+</>
+When defining a hyperlink (<a>), which attribute is used to specify the destination address? 
+A: src
+B: target
+C: ref
+D: href
+---
+href
+</>
+Which tag CANNOT be used as a container for text? I.e. does not use both an opening <> and closing </> tag
+A: <body>
+B: <p>
+C: <br>
+D: <h1>
+---
+<br>
+</>
+How are comments written in HTML?
+A: < !-- This is a comment -- > 
+B: /*This is a comment*/ 
+C: #This is a comment 
+D: """This is a comment"""
+---
+< !-- This is a comment -- > 
+</>
+Which tag is used to denote a cell of data within a table? 
+A: <tc>
+B: <td>
+C: <tr>
+D: <th> 
+---
+<td>
+</>
+Which of the following is NOT an HTML tag?
+A: <article>
+B: <li>
+C: <!DOCTYPE html>
+D: <p>
+---
+<!DOCTYPE html>
+</>
+What is the <br> tag used for?
+A: To change the text color to brown
+B: To change the border
+C: To make text bold
+D: To add a line break
+---
+To add a line break
+</>
+Which of the following denotes the least important heading?
+A: <h1>
+B: <h5>
+C: <h6>
+D: <h10>
+---
+<h6>
+</>
+Which tag is used to create an ordered list? 
+A: <ul>
+B: <li>
+C: <ol>
+D: <orderedlist>
+---
+<ol>
+</>
+Which of the following conditions must be met for scripting to be enabled in browsers? Select one or more options.
+A: The browser supports scripting
+B: The user has not disabled scripting for the current browser context
+C: An embedded object is used without the sandbox attribute
+D: The browser context has the sandboxed browsing context flag set
+---
+The browser supports scripting
+The user has not disabled scripting for the current browser context
+</>
+What makes a Style Sheet "Cascading"? 
+A: Elements inherit styles that are defined before them in a CSS document
+B: Each element has a unique style, unrelated to its’ parent 
+C: Parent elements inherit styles that are defined for child elements
+D: Child elements inherit styles that are defined for parent elements
+---
+Child elements inherit styles that are defined for parent elements
+</>
+Which of the following describes a Utility-first Framework? Select all that apply.
+A: Provides complete freedom when styling elements
+B: References CSS properties via Utility Classes
+C: Makes HTML markup more verbose by mixing styles with content
+D: Provides pre-styled components and templates
+---
+References CSS properties via Utility Classes
+Makes HTML markup more verbose by mixing styles with content
+</>
+Which of the following tags is used to separate areas in a document? 
+A: <div>
+B: <nav>
+C: <body>
+D: <input>
+---
+<div>
+</>
+What type of element is <article>? 
+A: A semantic element
+B: A multimedia element
+C: An input element
+D: A graphic element 
+---
+A semantic element
+</>
+Which tag is used to specify self-contained content like an image, illustration, or diagram? 
+A: <figure>
+B: <img>
+C: <figcaption>
+D: <image>
+---
+<figure>
+</>
+Which of the following ways of applying CSS has the highest priority, and will override the other ways? 
+A: An external CSS file
+B: Inline CSS, placed directly in each HTML element
+C: Whichever way is specified in the HTML markup
+D: Internal CSS, applied within the "<style>" attribute in HTML markup
+---
+Inline CSS, placed directly in each HTML element
+</>
+Select all of the following which are true in describing a fluid and/or fixed layout.
+A: Elements in a fluidlayout have flexible widths and heights
+B: Fluid layouts should always be used when designing a website
+C: Fixed layouts are independent of screen sizes, and their values do not change
+D: A fixed layoutspecifies element sizes using percentages
+---
+Elements in a fluidlayout have flexible widths and heights
+Fixed layouts are independent of screen sizes, and their values do not change
+</>
+Which of the following tags define a caption for a < fieldset > element? 
+A: <legend>
+B: <title>
+C: <caption>
+D: <label>
+---
+<legend>
+</>
+What is a modifier?
+A: A type of button which allows you to modify content in a form
+B: A method used to modify CSS styling applied to an HTML element
+C: A special class modifies the appearance of elements by applying a CSS attribute based on the condition described
+D: The term used to refer to a JavaScript class which updates content on a webpage
+---
+A special class modifies the appearance of elements by applying a CSS attribute based on the condition described
+</>
+Which semantic tag is used to display any content which is indirectlyrelated to the main content of the document?
+A: <article>
+B: <section>
+C: <aside>
+D: <details>
+---
+<aside>
+</>
+Which type of input control would be most apt for selecting heightin a form?
+A: number
+B: tel
+C: range
+D: list
+---
+number
+</>
+Which of the following is a disadvantage of a Component Framework?
+A: Components are limited only to what the framework provides
+B: Download size of HTML markup is increased
+C: It is more difficult to maintain a uniform style throughout the website
+D: HTML markup is more verbose since styles are mixed with content
+---
+Components are limited only to what the framework provides
+</>
+Which tag is used to represent an independent item of content in a document, which can be meaningful on its own? 
+A: <section>
+B: <details>
+C: <div>
+D: <article>
+---
+<article>
+</>
+Which element defines a caption for the <figure> element? 
+A: <label> 
+B: <figcaption> 
+C: <legend> 
+D: <title> 
+---
+<figcaption> 
+</>
+Which type of input control can be used to accept only numbers in a form? 
+A: number
+B: digit
+C: tel
+D: integer
+---
+number
+</>
+True or False: 10car is a valid variable name in JavaScript. 
+A: True
+B: False
+---
+False
+</>
+Which of the following statement is the correct way to define a function with no parameters in JavaScript? 
+A: function myFunction() { } 
+B: function myFunction { } 
+C: function = myFunction() { } 
+D: function = new function(myfunction) 
+---
+function myFunction() { } 
+</>
+Which of the following statements is the correct way to include a script in an HTML? 
+A: src = "/source/script.js"
+B: script = "/source/script.js"
+C: ref= "/source/script.js"
+D: name = "/source/script.js"
+---
+src = "/source/script.js"
+</>
+How would you display a confirmation dialog box in a window?
+A: window.prompt("message")
+B: window.confirm("message") 
+C: window.alert("message") 
+D: window.alert(confirmation, "message") 
+---
+window.confirm("message") 
+</>
+Select all the following statements about errors which are true.
+A: Error instance objects contain one property which contains information about the error
+B: JavaScript has 6 core types of errors
+C: To create a new custom "InputError", the correct code would be: throw new Error("InputError", "The input provided is invalid")
+D: RangeError is created when a numeric value or parameter is outside a valid range
+---
+JavaScript has 6 core types of errors
+RangeError is created when a numeric value or parameter is outside a valid range
+</>
+In the following declaration, what is the type of the variable ‘pi’?
+var pi = "3.14"; 
+A: string 
+B: number 
+C: char 
+D: float 
+---
+string 
+</>
+How do you define an array called array1 in JavaScript? 
+A: var array1 = [1,2,3] 
+B: var array1 = (1,2,3) 
+C: var array1 = new Array[1,2,3] 
+D: var array1 = new Array((1,2,3)) 
+---
+var array1 = [1,2,3] 
+</>
+What does the following statement do?
+var ndate = new Date() ; 
+A: Assigns the current Greenwich Mean Time to ndate 
+B: Assigns the current local time to ndate 
+C: Returns an error 
+D: Assigns an empty string with the properties of dates to ndate
+---
+Assigns the current local time to ndate 
+</>
+Which DOM function returns a node object matching a div with an id value "example_id"? 
+A: document.getElementById(div, "example_id") 
+B: document.getElementById("example_id") 
+C: div.getValueOf("example_id") 
+D: element.getNodeById("example_id") 
+---
+document.getElementById("example_id") 
+</>
+How are numbers converted to strings? 
+A: string(123) 
+B: (123).toString() 
+C: (123).string 
+D: toString(123) 
+---
+(123).toString() 
+</>
+What is the value of ‘total’ after the following statement is executed?
+var total = 10 + 1 +"3";
+A: "1013"
+B: This results in an error
+C: "113"
+D: 14
+---
+"113"
+</>
+What would the alert be, when the following code is executed?
+var a = new String("Hello");
+var b = "Hello";
+if (a ===b){
+alert("Same");
+}else{
+alert("Different");
+}
+A: Same
+B: Different
+C: It would not give any alert as it is an error
+D: None of the above
+---
+Different
+</>
+Which of the following is the proper way to create a `for` loop?
+A: for (i < maxVal) { … }
+B: for (var i = minVal; i < maxVal; i++) { … }
+C: for (var i = minVal; i++; i < maxVal) { … }
+D: loop (for i = minVal; i < maxVal; i++) { … }
+---
+for (var i = minVal; i < maxVal; i++) { … }
+</>
+Select all of the following which are properways to add a `color` property to a custom `Car` object. 
+A: Car.prototype(Color, "Red")
+B: Car.color = "Red"
+C: Car.prototype.color = "Red"
+D: Modify the code of the Car object directly to add a `color` parameter in the constructor
+---
+Car.prototype.color = "Red"
+Modify the code of the Car object directly to add a `color` parameter in the constructor
+</>
+Which of the following is not an event binder in JavaScript?
+A: onmouseover
+B: onload
+C: onclick
+D: onhover
+---
+onhover
+</>
+Which of the following do you use to request that someone reviews and approves your changes to a project before they become final?
+A: Pull request
+B: Repository
+C: Fork
+D: Commit changes
+---
+Pull request
+</>
+Which git command allows you to see the state of your working directory and the staged snapshot of your changes?
+A: git-checkout
+B: git-log
+C: git-reset
+D: git-status
+---
+git-status
+</>
+Which of the following is a feature of the Git Repository model?
+A: It corrects bad code in a project
+B: It is a distributed version control system
+C: It is based on a binary tree
+D: It sorts code into folders and sub-folders
+---
+It is a distributed version control system
+</>
+In GitHub, what is an organization?
+A: A path to the code files in a project
+B: A name you must specify for your repository
+C: A collection of user accounts that owns repositories
+D: The top level of a repository tree
+---
+A collection of user accounts that owns repositories
+</>
+Under which tab on GitHub will you find all the source files for a repository?
+A: Projects
+B: <> Code
+C: Settings
+D: Pull Requests
+---
+<> Code
+</>
+How is GitHub related to Git?
+A: GitHub is an online hosting service for Git repositories.
+B: GitHub is an open source tool used to create Git.
+C: GitHub is a main section in the Git project workflow.
+D: GitHub is a program required for version control on Git.
+---
+GitHub is an online hosting service for Git repositories.
+</>
+What type of version control system is Git?
+A: Centralized
+B: Distributed
+C: Local
+D: Remote
+---
+Distributed
+</>
+What is a repository?
+A: A collection of user accounts that are connected to a pull request
+B: A plain-text file that explains the purpose of a project
+C: A basic unit of storage in Git that cannot be changed
+D: A data structure that stores documents and source code
+---
+A data structure that stores documents and source code
+</>
+What is the purpose of a license file?
+A: Record all changes made to a repository.
+B: Establish secure remote login between computers.
+C: Express how people can use your code.
+D: Describe the purpose of the project.
+---
+Express how people can use your code.
+</>
+On GitHub, what are commits?
+A: Saved changes
+B: Pull requests
+C: Merges
+D: Tags
+---
+Saved changes
+</>
+What is stored on the master or main branch?
+A: The original, unchanged version of the code
+B: All the project files, including files from forks
+C: Files which contain documentation only
+D: The deployable version of the project code
+---
+The deployable version of the project code
+</>
+Which Git command transfers changes from your local repository to the remote repository?
+A: git-pull
+B: git-push
+C: git-remote
+D: git-fetch
+---
+git-push
+</>
+When would you fork a project?
+A: To give a new user permissions to the project
+B: To create a backup of the master branch of the project
+C: To use an existing repository as the base for a new project
+D: To add a branch to an existing tree in the project
+---
+To use an existing repository as the base for a new project
+</>
+Which GitHub developer command prepares an email submission in a form appropriate for a Linux kernel-style public workflow?
+A: git-send-email
+B: git-format-patch
+C: git-request-email
+D: git-request-pull
+---
+git-format-patch
+</>
+Which Git command can a repository administrator use to allow anonymous downloads from the repository?
+A: git-remote
+B: git-daemon
+C: git-shell
+D: git-am
+---
+git-daemon
+</>
+What happens if you make a change on a repository branch that you don't own?
+A: GitHub makes a pull request.
+B: GitHub issues a push request for the owner.
+C: GitHub generates an error message.
+D: GitHub undoes the changes.
+---
+GitHub makes a pull request.
+</>
+You need to run three commands to push local changes to the GitHub repository. What is the third command?
+A: git-commit -m
+B: git-add
+C: git-push
+D: git-remove -v
+---
+git-push
+</>
+What are three commonly used commands for working with remote repositories?
+A: create, delete, copy
+B: open, edit, push
+C: push, pull, fetch
+D: open, close, send
+---
+push, pull, fetch
+</>
+When managing forks, which command can you use to fetch and merge the remote branch in a single step?
+A: git-pull downstream
+B: git-pull upstream
+C: git-merge upstream/master
+D: git-fetch upstream
+---
+git-pull upstream
+</>
+Which command can a repository administrator use to allow anonymous downloads from repositories?
+A: git-shell
+B: git-rerere
+C: git-daemon
+D: git-am
+---
+git-daemon
+</>
+Which new ES6 feature doesn't allow you to reassign a variable in the same code block? 
+A: const
+B: Arrow functions
+C: Promise
+D: let
+---
+const
+</>
+Which new ES6 feature adds object-oriented programming capability to JavaScript? 
+A: const
+B: Class
+C: Promise
+D: Arrow functions
+---
+Class
+</>
+What is one of the things that React provides when building UIs?
+A: Clarifies user feedback in applications 
+B: Synchronizes UI elements with user interaction 
+C: Eliminates a need to synchronize UI elements with the application state 
+D: Extends markdown syntax 
+---
+Eliminates a need to synchronize UI elements with the application state 
+</>
+What is the first step to create a class component?
+A: Change the index.js file
+B: Inherit the class component from the React module
+C: Pass props to a constructor 
+D: Override the render method
+---
+Inherit the class component from the React module
+</>
+Why do we use JSX?
+A: To convert JavaScript into XML code
+B: To use JavaScript variable
+C: To produce XML elements
+D: To create user interface components in React
+---
+To create user interface components in React
+</>
+Which component type can be used to replace a stateless functional component?
+A: High-order
+B: Pure
+C: Cannot be replaced
+D: Class
+---
+Pure
+</>
+What is EcmaScript or ES?
+A: A regulated name for JSON
+B: A programming organization
+C: A standardized name for JavaScript
+D: A communication standard
+---
+A standardized name for JavaScript
+</>
+Which feature in E6 limits the scope of variables? 
+A: promise
+B: Arrow functions
+C: let
+D: const
+---
+let
+</>
+What is the state of a promise object when the operation executes successfully?
+A: Constant 
+B: End
+C: Fulfilled
+D: Pending
+---
+Fulfilled
+</>
+React is an open-source library created and maintained by Facebook and community developers. What is it mainly used to build?
+A: AI questions
+B: Accessibility messages
+C: Error messages
+D: Complex UIs
+---
+Complex UIs
+</>
+Facebook provides the Create React App to simplify creating React apps. What must be installed in order to run npx create-react-app with the name of the app you want to create?
+A: Node.js
+B: Facebook
+C: JavaScript
+D: The XML editor
+---
+Node.js
+</>
+Functional components are most useful when the component has properties, but what is the restriction?
+A: Properties can't be passed as parameters to the function. 
+B: Properties can't be user defined.
+C: Properties can't have uppercase characters.
+D: The component lifecycle does not require management. 
+---
+The component lifecycle does not require management. 
+</>
+What makes class components more preferable than functional components?
+A: Simplicity 
+B: Rigidity 
+C: Versatility
+D: Definition 
+---
+Versatility
+</>
+In the Working with React Components video, what does the incrementCounter method do in the React app?
+A: Passes a value to the GUI
+B: Updates a state so a component is rendered again 
+C: Routes a command through a component 
+D: Stops the application
+---
+Updates a state so a component is rendered again 
+</>
+What is the benefit of using the JSX transformation step in HTML?
+A: Can be parsed by a JavaScript engine 
+B: Browser understands JSX
+C: Helpful as a visual aid 
+D:  Converts HTML tags into React elements
+---
+ Converts HTML tags into React elements
+</>
+Which of the following features can be implemented using React Hook in functional components?
+A: Event 
+B: Lifecycle methods 
+C: Logic
+D: Props
+---
+Lifecycle methods 
+</>
+Which of the following is an example of a shared state?
+A: An application with a button and counter
+B: Tags for ID, name, and age
+C: List of all orders in an order application
+D: Hiding and showing information
+---
+List of all orders in an order application
+</>
+What are the phases of a React component’s lifecycle?
+A: Mounting and unmounting
+B: Mounting, updating, and unmounting
+C: Rendering, data send, and callback
+D: Invoke and render
+---
+Mounting, updating, and unmounting
+</>
+What happens in the mounting phase?
+A: The component is removed from the DOM
+B: User events cause the component’s states and props to change
+C: The component is re-rendered
+D: The component is added to the DOM
+---
+The component is added to the DOM
+</>
+What is used to make the call to a server asynchronous?
+A: GET
+B: POST
+C: UPDATE
+D: Promise
+---
+Promise
+</>
+What is testing?
+A: A line-by-line review of how your code will execute
+B: Rejection of continuous integration
+C: Manual verification that code is bug free
+D: A modular construction of a complex application
+---
+A line-by-line review of how your code will execute
+</>
+What is a State?
+A: A component’s render function that returns data about an attribute 
+B: A piece of software that passes data between React components 
+C: A parent component function that takes a string argument 
+D: An object that contains information about the component
+---
+An object that contains information about the component
+</>
+What is used to pass data between React components?
+A: HTML attribute 
+B: Shared state 
+C: Prop
+D: Local state 
+---
+Prop
+</>
+What do you use to pass data from child components to parent components?
+A: Render 
+B: Callback
+C: State 
+D: Method 
+---
+Callback
+</>
+When does a component lifecycle start?
+A: When a user clicks the mouse or presses the keyboard 
+B: When the component is removed from the DOM 
+C: When components are created or mounted on the DOM 
+D: When the state of the component first changes 
+---
+When components are created or mounted on the DOM 
+</>
+What do you use to pass data from parent components to child components?
+A: Callback
+B: State 
+C: Prop
+D: Method 
+---
+Prop
+</>
+Which function is invoked right after the component is mounted on the DOM?
+A: componentWillMount 
+B: componentDidMount 
+C: Render
+D: componentWillUnmount 
+---
+componentDidMount 
+</>
+What do you use to make a call to an external server asynchronous?
+A: Props
+B: Method
+C: Promises
+D: State 
+---
+Promises
+</>
+What does the postDataToServer method do?
+A: Creates a JSON object and pushes it into the usercollection array 
+B: Sends the data to the server and updates the response from the server to the component’s state completionStatus 
+C: Sets a component with a user state to "None Logged In" 
+D: Requests all objects in the usercollection destination 
+---
+Sends the data to the server and updates the response from the server to the component’s state completionStatus 
+</>
+What are the phases of a component test?
+A: Begin, Revise, Complete 
+B: Arrange, Act, and Assert
+C: Chai, Sinon, and Mocha 
+D: Query, Run, Resolve 
+---
+Arrange, Act, and Assert
+</>
+What are the two testing approaches?
+A: Component and end-to-end 
+B: Simulated and authenticated 
+C: Regression and event 
+D: Mocha and Chai 
+---
+Component and end-to-end 
+</>
+How are Hooks called in a React application?
+A: Inside a React function component
+B: Inside regular JavaScript functions
+C: Inside nested functions
+D: Inside a class component
+---
+Inside a React function component
+</>
+Which function holds the information that updates the state of a variable on the form?
+A: onSubmit()
+B: onChange()
+C: input
+D: setState()
+---
+onChange()
+</>
+What is Redux?
+A: A function 
+B: A state management system
+C: A properties store
+D: A complex code management system
+---
+A state management system
+</>
+Which Redux element is the singular location and authoritative source of the app state?
+A: Action
+B: Result
+C: Reducer
+D: Store
+---
+Store
+</>
+How does a synchronous code execute?
+A: An operation can occur while another one is still being processed
+B: All operations execute at one time
+C: Each operation waits for the previous operation to complete
+D: Only one operation is executed
+---
+Each operation waits for the previous operation to complete
+</>
+Which are the elements of a conventional React-Redux application?
+A: Store and a global variable
+B: Multiple stores
+C: Multiple Reducers
+D: Single store and single root Reducer
+---
+Single store and single root Reducer
+</>
+Which is an advantage of using Hooks in a React application?
+A: Hooks can only be called inside React function components 
+B: You can handle events and logics in functional components without using classes
+C: Code used to write Hooks is complicated
+D: Hooks enable you to write a functional component without state 
+---
+You can handle events and logics in functional components without using classes
+</>
+Which standard Hook is used to manage Redux state changes?
+A: useReducer
+B: useState
+C: useContext
+D: useEffect
+---
+useReducer
+</>
+What is a characteristic of an uncontrolled input?
+A: Allows the browser to handle most of the form elements 
+B: A parent component controls the changes
+C: Props take current value and notify changes 
+D: Functions govern passing of data 
+---
+Allows the browser to handle most of the form elements 
+</>
+What helps developers in developing a React application using Redux?
+A: Redux reloads the whole page when state changes  
+B: Redux helps in creating user interface elements
+C: Redux enhances the state prediction factor 
+D: In Redux, individual components handle their own state 
+---
+Redux enhances the state prediction factor 
+</>
+In which application scenarios is Redux used?
+A: In applications with single state mapping to a single container component
+B: In an application where all props associated to a component are utilized
+C: Only in local applications to manage state of components
+D: Big application where state needs to be managed
+---
+Big application where state needs to be managed
+</>
+What are Actions?
+A: An object that updates the store 
+B: An object that performs changes to the application state
+C: An object that stores information about the user event
+D: An object that contains the current Redux application state 
+---
+An object that stores information about the user event
+</>
+What is the function of the store?
+A: A store can perform any changes to the application state 
+B: A Store can dispatch and receive actions 
+C: A store describes what happened 
+D: A store contains a type field
+---
+A Store can dispatch and receive actions 
+</>
+Why is middleware required in Redux React applications?
+A: To restore the synchronous data flow 
+B: To compute the new state
+C: To use asynchronous operations
+D: To make actions faster
+---
+To use asynchronous operations
+</>
+Which middleware uses ES6 Generators to enable async operations?
+A: Async/Await
+B: Promise-based
+C: Saga
+D: Thunk
+---
+Saga
+</>
+Which element in the Redux data flow generates the modified state based on the dispatched action?
+A: Store
+B: UI
+C: Action creator
+D: Reducer 
+---
+Reducer 
+</>
+What technology do web servers use to respond to client requests?
+A: HTML
+B: CSS
+C: HTTP
+D: Node.js
+---
+HTTP
+</>
+What is a popular format for sending data to REST services over HTTP?
+A: JSON
+B: Node.js
+C: HTML/CSS
+D: Express.js
+---
+JSON
+</>
+Which of the following is true regarding the import() function but NOT the require() function?
+A: It can be used within conditional statements and functions
+B: It is bound dynamically
+C: Binding errors are identified at run-time
+D: It must be called at the beginning of the file.
+---
+It must be called at the beginning of the file.
+</>
+How can you handle incoming request messages and return response messages with a web server?
+A: Import a Node.js module
+B: Group Node.js modules into a package
+C: Set the web server to listen to a port
+D: Develop a callback function
+---
+Develop a callback function
+</>
+How do you make a function or a value available to Node.js applications that import your module?
+A: Edit the module manifest
+B: Add a property to exports
+C: Use the http.createServer function 
+D: Create an instance of a web server application
+---
+Add a property to exports
+</>
+If you find a module written by someone else on the internet with a copyleft license, what type of node module is this considered?
+A: Local
+B: Core
+C: Third-party
+D: Library
+---
+Third-party
+</>
+What is the function of a package manager?
+A: It is a run-time environment for the Chrome V8 engine
+B: It translates code into a machine-readable language
+C: It is the protocol used by servers to communicate with each other
+D: Automates dependency package configuration
+---
+Automates dependency package configuration
+</>
+What would you use let today = require('./today’);  for?
+A: To retrieve the date from a weather service
+B: To create an instance of a web server application 
+C: To import a Node.js module 
+D: To download an npm package from the Internet on the terminal
+---
+To import a Node.js module 
+</>
+Which of the following is a back-end technology?
+A: HTML
+B: CSS
+C: Web API
+D: Browser
+---
+Web API
+</>
+What quality makes it possible for you to run JavaScript applications without compiling?
+A: All modern browsers support JavaScript.
+B: The language syntax resembles Java.
+C: JavaScript is an interpreted language.
+D: You can use a text editor to develop JavaScript applications.
+---
+JavaScript is an interpreted language.
+</>
+Which of the following applications intercepts the call when JavaScript sends a web service request to the Node.js server?
+A: REST Web Service
+B: JSON
+C: Enterprise Java
+D: CSS
+---
+REST Web Service
+</>
+Which of the following is a difference between ES and CommonJS modules?
+A: CommonJS is a JavaScript language whereas ES is a module specification
+B:  ES modules use the import() statement whereas CommonJS modules use require().  
+C: CommonJS modules are written in JavaScript whereas ES modules are not
+D: CommonJS module files use a .mjs extension whereas ES modules use .js
+---
+ ES modules use the import() statement whereas CommonJS modules use require().  
+</>
+How do you handle operation results with Node.js?
+A: Specify a relative path to the Node.js script from the module directory
+B: Use blocking on asynchronous I/O operations
+C: Write callback functions to handle results when the operations complete
+D: Create an instance of a web server application
+---
+Write callback functions to handle results when the operations complete
+</>
+What do you use the http.createServer function for?
+A: To create an instance of a web server
+B: To import a Node.js module
+C: To develop an anonymous function to handle requests and responses
+D: To specify a main script for your module
+---
+To create an instance of a web server
+</>
+Which core Node.js module can be used for input and output (I/O)?
+A: http
+B: util
+C: fs
+D: URL
+---
+fs
+</>
+Which is an aspect of Node Package Manager (NPM)?
+A: It functions as a command line interface for installing packages
+B: It manages the versioning of source code
+C: It writes metadata to a package.json file
+D: It creates a package.json file in the project’s root directory
+---
+It functions as a command line interface for installing packages
+</>
+What do you use the require function for?
+A: To specify a main script for your module
+B: To import a Node.js module
+C: To create an instance of a web server
+D: To develop an anonymous function to handle requests and responses
+---
+To import a Node.js module
+</>
+What happens when a module does not have a package.json file?
+A: Node.js assumes that the main class is named index.js.
+B: The require statement assumes that scripts have a file extension of js.
+C: There is no module manifest.
+D: The relative path to the Node.js script changes to an absolute path from the module directory.
+---
+Node.js assumes that the main class is named index.js.
+</>
+In what manner do network operations run?
+A: Single-threaded
+B: Asynchronous
+C: Distributed
+D: Synchronized
+---
+Asynchronous
+</>
+You write a callback function to run for which of the following events?
+A: The Node.js framework receives a response message from the remote server
+B: The network operation completes.
+C: The network operation commences.
+D: The application makes a call to http.request.
+---
+The network operation completes.
+</>
+Where in the callback function does a Node.js generally pass an error object?
+A: The http.request( ) call
+B: The HTTP response message
+C: The first parameter
+D: The second parameter
+---
+The first parameter
+</>
+What do you use response.end for? 
+A: To define the error message from a callback function
+B: To print the result from the function call
+C: To end the request and send a response to the client
+D: To log the error from a callback function
+---
+To end the request and send a response to the client
+</>
+Which of the following can be helpful to mitigate the issue of needing nested callbacks in order to make something happen sequentially?
+A: HTTP method calls
+B: Use the setTimeout() method
+C: Inversion of control
+D: async/await 
+---
+async/await 
+</>
+What do you use to convert a JavaScript object to a string?
+A: Method JSON.convert()
+B: Method JSON.parsestring()
+C: Method JSON.stringify()
+D: Method JSON.parse() 
+---
+Method JSON.stringify()
+</>
+A promise is defined as an object returned by an asynchronous method that has three states. Which of the following is one of the states?
+A: Closed
+B: Acknowledged
+C: Resolved 
+D: Waiting
+---
+Resolved 
+</>
+What best describes the network operations that Node.js makes?
+A: Non-blocked operations return in a synchronized manner with added processing time on the server
+B: Applications block every network operation to complete at the same time on the server
+C: Non-blocked operations return immediately without added processing time on the server
+D: Blocked operations return immediately without added processing time on the server
+---
+Non-blocked operations return immediately without added processing time on the server
+</>
+Before the Node.js framework receives the HTTP response message from the remote web server, it immediately returns a result for the http.request function call. What does this result state?
+A: A request is in progress.
+B: The callback function was called successfully.
+C: The return message will be sent successfully.
+D: The response message will be sent successfully.
+---
+A request is in progress.
+</>
+What parameter is optional in an HTTP request?
+A: Resource variable parameter
+B: Callback function parameter
+C: Location function parameter
+D: Event variable parameter
+---
+Callback function parameter
+</>
+What object do Node.js modules in the SDK pass as the first parameter in a callback function?
+A: Destination
+B: Error
+C: Identity
+D: Location
+---
+Error
+</>
+What do you pass back in the callback handler to indicate a successful return?
+A: Null object
+B: Empty string
+C: 404 status code
+D: Error
+---
+Null object
+</>
+Which function calls the resultCallback callback function to return results to the main application?
+A: http.request()
+B: aggregate_context()
+C: result()
+D: step()
+---
+http.request()
+</>
+Why can inversion of control be an issue when using callbacks?
+A: Inversion of control is used when something needs to be done sequentially which makes code readability difficult
+B: Inversion of control creates the need for nested callbacks
+C: Inversion of control uses promises which are difficult to implement
+D: Callbacks sometimes hand over control to third-party code which can make errors hard to identify
+---
+Callbacks sometimes hand over control to third-party code which can make errors hard to identify
+</>
+JSON is the standard format for API data exchange. What relationship does JSON have with Node.js?
+A: Metadata file
+B: JSON_SET
+C: Common data model folder
+D: Standard representation of native JavaScript objects
+---
+Standard representation of native JavaScript objects
+</>
+When an error occurs, which state is the promise at?
+A: Pending
+B: Aborted
+C: Resolved
+D: Rejected
+---
+Rejected
+</>
+The axios package handles HTTP requests in Node.js and returns a promise object. The promise object has a method that is called after the promise completes. What method does the promise object use?
+A: then
+B: or
+C: if
+D: else
+---
+then
+</>
+How can you obtain public data and information from an external web server?
+A: Send an XML request
+B: Manually get data from a website
+C: Send an HTML request
+D: Send an HTTP request
+---
+Send an HTTP request
+</>
+When Node.js receives the final part of the HTTP response message, what event handler does it call?
+A: response.on(‘start’)
+B: response.on(‘end’)
+C: buffer.match 
+D: http.request()
+---
+response.on(‘end’)
+</>
+What can you use to manage Node.js packages in your Node.js framework?
+A: npm application
+B: JavaScript
+C: HTML
+D: XML
+---
+npm application
+</>
+What are two different types of patterns that web frameworks employ?
+A: Model-View-Controller (MVC) and Representational State Transfer APIs (REST API)
+B: Express and Koa
+C: JSON and HTML
+D: Ruby on Rails and Django
+---
+Model-View-Controller (MVC) and Representational State Transfer APIs (REST API)
+</>
+Which of the following is one of the five steps needed to work with Express?
+A: Install a terminal
+B: Create a new route handler
+C: Run Node.js command to create a port
+D: Export uniform resource locater
+---
+Create a new route handler
+</>
+You can use the app.get() method to handle requests in Express. What does the app.get() method call look like?
+A: app.get(port, path, error)
+B: app.get(error, callback, path)
+C: app.get(callback, path)
+D: app.get(path, callback)
+---
+app.get(path, callback)
+</>
+Which statement is true regarding passwordless authorization?
+A: They gain access to the system by demonstrating they possess a factor that proves their identity such as biometrics or a "magic link".
+B: It uses a token that gets passed back and forth between user and client.
+C: It is the oldest form of authentication technology.
+D: They enter their credentials and are then asked a series of security questions that they only know the answers to.
+---
+They gain access to the system by demonstrating they possess a factor that proves their identity such as biometrics or a "magic link".
+</>
+Which npm package is used to generate a JSON web token?
+A: express
+B: key
+C: jsonwebtoken
+D: tokens
+---
+jsonwebtoken
+</>
+Which of the following npm commands is a best practice to use when installing dependencies?
+A: npm install -save
+B: npm require -save
+C: npm init -save
+D: npm commit -save
+---
+npm install -save
+</>
+The Node.js framework doesn't provide many features for building web apps. What do developers rely on to extend Node.js features?
+A: Timely updates
+B: JSON
+C: JavaScript
+D: External libraries and packages
+---
+External libraries and packages
+</>
+One disadvantage of manual parsing is that string matching ignores the XML data structure. However, depending on XML data complexity, string matching might be more efficient than what?
+A: An XML root element
+B: An XML tree of the data
+C: An XML attribute structure
+D: No alternative: string matching is never more efficient.
+---
+An XML tree of the data
+</>
+Which Node.js package can parse a string of XML elements into a JavaScript object?
+A: XML-JS
+B: Async.js
+C: Express.js
+D: xml2js
+---
+xml2js
+</>
+Which web application framework is based on the Node.js runtime environment?
+A: XML-JS
+B: Express
+C: JSON
+D: Async.js
+---
+Express
+</>
+The Node.js framework treats HTTP requests at a lower network level. In contrast, Express implements an app class for what purpose?
+A: Lookup web services
+B: Access a URL
+C: Map to a web resource path
+D: Parse through a network path
+---
+Map to a web resource path
+</>
+What do you call to create a web server object to listen for incoming requests on a port?
+A: app.request
+B: http.name
+C: app.listen
+D: http.view
+---
+app.listen
+</>
+Which of the following kind of task is middleware most useful for?
+A: Routing
+B: Performing large calculations
+C: Parsing strings
+D: Error handling
+---
+Error handling
+</>
+Which type of authentication is widely used for password recovery by providing a magic link to the user?
+A: Single Sign On
+B: Session-based
+C: Token-based
+D: Passwordless
+---
+Passwordless
+</>
+Which statement regarding the jsonwebtoken.verify() method is true?
+A: It is used to return a response
+B: It is used to return an HTTP status code
+C: It is used to generate a JSON web token
+D: It is used to verify a JSON web token
+---
+It is used to verify a JSON web token
+</>
+Which library and module are suited for black-box testing REST APIs?
+A: Postman/TestAPI
+B: Mocha/SuperTest
+C: Express/TestAPI
+D: Koa/SuperTest
+---
+Mocha/SuperTest
+</>
+What is the type of the following: 0
+A: Int
+B: float
+---
+Int
+</>
+What is the type of the following number: 3.12323
+A: Float
+B: Int
+---
+Float
+</>
+What is the result of the following: int(3.99)
+A: 3
+B: 3.99
+---
+3
+</>
+What is the result of the following operation:  11//2
+A: 5
+B: 5.5
+---
+5
+</>
+What is the value of x after the following is run:
+x=4
+x=x/2 
+A: 2.0
+B: 4.0
+---
+2.0
+</>
+What is the result of the following: Name[0]
+A: "M"
+B: "n"
+C: "i"
+---
+"M"
+</>
+What is the result of the following: Name[-1]
+A: "n"
+B: "o"
+C: "M"
+---
+"n"
+</>
+What is the output of the following: print("AB\nC\nDE")
+A: ABC
+DE
+B: AB
+CD
+E
+C: AB
+C
+DE
+---
+AB
+C
+DE
+</>
+What is the result of following? 
+"hello Mike".find("Mike") 
+If you are unsure, copy and paste the code into Jupyter Notebook and check.
+A: 5
+B: 6
+C: 6,7,8
+---
+6
+</>
+What is the value of x after the following lines of code?
+x=1
+x=x+1
+A: 1
+B: 2
+C: 4
+---
+2
+</>
+What is the result of the following operation 1+3*2 ?
+A: 7
+B: 12
+C: 8
+---
+7
+</>
+What is the result of the following code segment: type(int(12.3))
+A: int
+B: float 
+C: str
+---
+int
+</>
+What is the result of the following code segment: int(True)
+A: 1
+B: 0
+C: error
+---
+1
+</>
+In Python, what is the result of the following operation: '1'+'2' ?
+A: 3
+B: '3'
+C: '12'
+---
+'12'
+</>
+What is the result of the following: 'hello'.upper() ?
+A: 'HELLO' 
+B:  'Hello'
+C: 'hello'
+---
+'HELLO' 
+</>
+What is the result of the following : str(1+1) ?
+A: '2'
+B: '11'
+---
+'2'
+</>
+What is the result of the following: "123".replace("12", "ab") ?
+A: 'ab3'
+B: '123ab'
+---
+'ab3'
+</>
+In Python 3, what is the type of the variable x after the following: x=2/2 ?
+A: float
+B: int
+---
+float
+</>
+Consider the following tuple:
+say_what=('say',' what', 'you', 'will') 
+
+what is the result of the following say_what[-1]
+A: 'will'
+B: 'you'
+C: ' what'
+D: 'say'
+---
+'will'
+</>
+Consider the following tuple A=(1,2,3,4,5). What is the result of the following: A[1:4]:
+A: (3, 4,5)
+B: (2, 3, 4,5)
+C: (2, 3, 4)
+---
+(2, 3, 4)
+</>
+Consider the following tuple A=(1,2,3,4,5), what is the result of the following: len(A)
+A: 5
+B: 6
+C: 4
+---
+5
+</>
+Consider the following list B=[1,2,[3,'a'],[4,'b']], what is the result of the following:B[3][1]
+A: [4,"b"]
+B: "c"
+C: "b"
+---
+"b"
+</>
+What is the result of the following operation?
+[1,2,3]+[1,1,1]
+A: [2,3,4]
+B: [1, 2, 3, 1, 1, 1]
+C: TypeError     
+---
+[1, 2, 3, 1, 1, 1]
+</>
+What is the length of the list A = [1] after the following operation: A.append([2,3,4,5])
+A: 6
+B: 2
+C: 5 
+---
+2
+</>
+What is the result of the following: "Hello
+Mike".split()
+A: ["Hello","Mike"]
+B: ["H"]
+C: ["HelloMike"]
+---
+["Hello","Mike"]
+</>
+What are the keys of the following dictionary: {"a":1,"b":2}
+A: "a","b"
+B: 1,2
+---
+"a","b"
+</>
+Consider the following Python Dictionary:
+Dict={"A":1,"B":"2","C":[3,3,3],"D":(4,4,4),'E':5,'F':6}
+What is the result of the following operation: Dict["D"]
+A: (4, 4, 4)
+B: 1
+C: [3,3,3]
+---
+(4, 4, 4)
+</>
+Consider the following set: {"A","A"}, what will the result be when the set is created? 
+A:  {"A"} 
+B:  {"A","A"}
+---
+ {"A"} 
+</>
+What is the result of the following: type(set([1,2,3]))
+A: set
+B: ---
+set
+</>
+What method do you use to add an element to a set?
+A: append
+B: extend
+C: add
+---
+add
+</>
+What is the result of the following operation : {'a','b'} &{'a'}
+A: {'a'}
+B: {'a','b'}
+---
+{'a'}
+</>
+Consider the tuple A=((1),[2,3],[4]), that contains a tuple and list. What is the result of the following operation A[2] ?
+A: [4]
+B: [2,3]
+C: 1
+---
+[4]
+</>
+Consider the tuple A=((11,12),[21,22]), that contains a tuple and list. What is the result of the following operation A[0][1]?
+A: 21
+B: 11
+C: 12
+---
+12
+</>
+The method append does the following:
+A: adds one element to a list
+B: merges two lists or insert multiple elements to a list 
+---
+adds one element to a list
+</>
+Consider the following list : A=["hard rock",10,1.2]
+What will list A contain affter the following command is run: del(A[1]) ?
+A: [10,1.2]
+B: ["hard rock",1.2]
+C: ["hard rock",10]
+---
+["hard rock",1.2]
+</>
+What is the syntax to clone the list A and assign the result to list B ?
+A: B=A
+B: B=A[:]
+---
+B=A[:]
+</>
+What is the result of the following: len(("disco",10)) ?
+A: 2
+B: 6
+C: 5
+---
+2
+</>
+Consider the following dictionary:
+{ "The Bodyguard":"1992", "Saturday Night Fever":"1977"}
+select  the values
+A: "1977"
+B: "1992"
+C: "The Bodyguard"
+D:  "Saturday Night Fever"
+---
+"1977"
+"1992"
+</>
+The variable  release_year_dict is a Python Dictionary, what is the result of applying the following method: release_year_dict.values() ?
+A: retrieve the keys of the dictionary
+B: retrieves, the values of the dictionary
+---
+retrieves, the values of the dictionary
+</>
+Consider the Set: V={'1','2'}, what is the result of V.add('3')?
+A: {1,2,3}
+B: {'1','2','3'}
+C: {'1','2'}
+---
+{'1','2','3'}
+</>
+What is the result of the following: '1' in {'1','2'} ?
+A: False
+B: True
+---
+True
+</>
+what is the result of the following: 1=2
+A: False 
+B: True
+C: SyntaxError:can't assign to literal
+---
+SyntaxError:can't assign to literal
+</>
+What is the output of the following code segment:
+i=6
+i<5
+
+
+A: True
+B: False
+C: SyntaxError: can't assign to literal
+---
+False
+</>
+What is the result of the following: 5!=5
+A: False
+B: True
+---
+False
+</>
+What is the output of the following code segment: 'a'=='A'
+A: False
+B: True
+---
+False
+</>
+in the video, if age=18 what would be the result 
+A: move on
+B: you can enter 
+---
+move on
+</>
+in the video what would be the result if we set the variable age as follows: age= -10
+A: go see Meat Loaf
+move on
+B: you can enter
+move on
+---
+go see Meat Loaf
+move on
+</>
+what is the result of the following:   True  or False 
+A: True, an or statement is only False if all the Boolean values are False
+B: False
+---
+True, an or statement is only False if all the Boolean values are False
+</>
+what will be the output of the following:
+for x in range(0,3):     
+print(x)
+
+
+A: 0
+1
+2
+B: 0
+1
+2
+3
+---
+0
+1
+2
+</>
+what is the output of the following:
+for x in ['A','B','C']:
+  print(x+'A')
+
+
+A: AA
+BA
+CA
+B: A
+B
+C
+---
+AA
+BA
+CA
+</>
+what is the output of the following:
+for i,x in enumerate(['A','B','C']):    
+print(i,x)
+
+
+A: 0 A
+1 B
+2 C
+B: AA
+BB
+CC
+---
+0 A
+1 B
+2 C
+</>
+What does the following function return: len(['A','B',1]) ?
+A: 3
+B: 2
+C: 4
+---
+3
+</>
+What does the following function return: len([sum([0,0,1])]) ?
+A: 1
+B: 0
+C: 3
+---
+1
+</>
+What is the value of list L after the following code segment is run  :
+L=[1,3,2]
+sorted(L)
+
+
+A: L:[1,3,2]
+B: L:[1,2,3]
+C: L:[0,0,0]
+---
+L:[1,3,2]
+</>
+From the video what is the value of c after the following:
+c=add1(2)
+c=add1(10)
+
+
+A: 3
+B: 11
+C: 14
+---
+11
+</>
+what is the output of the following lines of code:
+def Print(A):   
+ for a in A: 
+    print(a+'1')
+Print(['a','b','c'])
+
+
+A: a
+b
+c
+B: a1
+b1
+c1
+C: a1
+---
+a1
+b1
+c1
+</>
+Why do we use exception handlers?
+A: Terminate a program
+B: Read a file
+C: Write a file
+D: Catch errors within a program
+---
+Catch errors within a program
+</>
+What is the purpose of a try…except statement?
+A: Executes the code block only if a certain condition exists
+B: Catch and handle exceptions when an error occurs
+C: Crash a program when errors occur
+D: Only executes if one condition is true
+---
+Catch and handle exceptions when an error occurs
+</>
+What is the type of the following?
+["a"]
+
+
+A: str
+B: list
+---
+list
+</>
+What does a method do to an object? 
+A: Changes or interacts with the object
+B: Returns a new values 
+---
+Changes or interacts with the object
+</>
+We create the object:
+Circle(3,'blue')
+
+What is the color attribute set to?
+A: 2
+B: 'blue'
+---
+'blue'
+</>
+What is the radius attribute after the following code block is run?
+RedCircle=Circle(10,'red')
+RedCircle.radius=1
+
+
+A: 10
+B: 1
+C: 'red'
+---
+1
+</>
+What is the radius attribute
+after the following code block is run?
+BlueCircle=Circle(10,'blue')
+BlueCircle.add_radius(20)
+
+
+A: 10
+B: 20
+C: 30
+---
+30
+</>
+What is the output of the following code?
+x="Go"
+if(x=="Go"):
+  print('Go ')
+else:
+  print('Stop')
+print('Mike')
+A: Go Mike
+B: Mike
+C: Stop Mike
+---
+Go Mike
+</>
+What is the result of the following lines of code?
+x=1
+x>-5
+A: True
+B: False
+---
+True
+</>
+What is the output of the following few lines of code?
+x=0
+while(x<2):
+    print(x)
+    x=x+1   
+A: 0
+1
+B: 0
+1
+2
+C: 0
+1
+3
+4
+---
+0
+1
+</>
+What is the result of running the following lines of code ?
+class Points(object):
+  def __init__(self,x,y):
+    self.x=x
+    self.y=y
+  def print_point(self):
+    print('x=',self.x,' y=',self.y)
+p1=Points("A","B")
+p1.print_point()
+A: x= A
+B: y= B
+C: x= A   y= B
+---
+x= A   y= B
+</>
+What is the output of the following few lines of code?
+for i,x in enumerate(['A','B','C']):
+    print(i+1,x)
+A: 1 A
+2 B
+3 C
+B: 0 A
+1 B
+2 C
+C: 0 AA
+1 BB
+2 CC
+---
+1 A
+2 B
+3 C
+</>
+What is the result of running the following lines of code ?
+class Points(object):
+  def __init__(self,x,y):
+    self.x=x
+    self.y=y
+  def print_point(self):
+    print('x=',self.x,' y=',self.y)
+p2=Points(1,2)
+p2.x='A'
+p2.print_point()
+A: x= 1 y=2
+B: x= A  y=2
+C: x=A, y=B
+---
+x= A  y=2
+</>
+Consider the function step, when will the function return a value of 1?
+def step(x):
+    if x>0:
+        y=1
+    else:
+        y=0
+    return y
+A: if x is larger than 0
+B: if x is equal to or less then zero 
+C: if x is less than zero 
+---
+if x is larger than 0
+</>
+What is the output of the following lines of code?
+a=1
+def do(x):
+    return(x+a)
+print(do(1))
+A: 2
+B: 1
+C: NameError: name 'a' is not defined
+---
+2
+</>
+Write a function name add that takes two parameter a and b, then return the output of  a + b (Do not use any other variable! You do not need to run it. Only write the code about how you define it.)
+---
+</>
+Why is it best practice to have multiple except statements with each type of error labeled correctly?
+A: Ensure the error is caught so the program will terminate
+B: In order to know what type of error was thrown and the
+location within the program
+C: To skip over certain blocks of code during execution
+D: It is not necessary to label errors
+---
+In order to know what type of error was thrown and the
+location within the program
+</>
+What are the most common modes used when opening a file?
+A: (a)ppend, (c)lose, (w)rite
+B: (a)ppend, (r)ead, (w)rite
+C: (a)ppend, (r)edline, (w)rite
+D: (s)ave, (r)ead, (w)rite
+---
+(a)ppend, (r)ead, (w)rite
+</>
+What is the data attribute that will return the title of the file?
+A: File1.mode
+B: File1.name
+C: File1.open()
+D: File1.close()
+---
+File1.name
+</>
+What is the command that tells Python to begin a new line?
+A: \n
+B: \e
+C: \q
+D: \b
+---
+\n
+</>
+What attribute is used to input data into a file?
+A: File1.read()
+B: File1.open()
+C: File1.close()
+D: File1.write()
+---
+File1.write()
+</>
+What python object do you cast to a dataframe?
+A: set
+B: tuple 
+C: dictionary
+---
+dictionary
+</>
+How would you access the first-row and first column in the dataframe df?
+A: df.ix[0,0]
+
+
+B: df.ix[0,1]
+C: df.ix[1,0]
+
+---
+df.ix[0,0]
+
+
+</>
+What is the proper way to load a CSV file using pandas?
+A: pandas.from_csv(‘data.csv’)
+B: pandas.load_csv(‘data.csv’)
+C: pandas.read_csv(‘data.csv’)
+D: pandas.import_csv(‘data.csv’)
+---
+pandas.read_csv(‘data.csv’)
+</>
+Use this dataframe to answer the question.
+How would you select the Genre disco? Select all that apply.
+A: df.iloc[6, ‘genre’]
+B: df.loc[6, 5]
+C: df.iloc[6, 4]
+D: df.loc[‘Bee Gees’, ‘Genre’]
+---
+df.iloc[6, 4]
+</>
+Use this dataframe to answer the question.
+Which will NOT evaluate to 20.6? Select all that apply.
+A: df.iloc[4,5]
+B: df.iloc[6,5]
+C: df.loc[4,’Music Recording Sales’]
+D: df.iloc[6, ‘Music Recording Sales (millions)’]
+---
+df.loc[4,’Music Recording Sales’]
+df.iloc[6, ‘Music Recording Sales (millions)’]
+</>
+Use this dataframe to answer the question.
+How do we select Albums The Dark Side of the Moon to Their Greatest Hits
+(1971-1975)? Select all that apply.
+A: df.iloc[2:5, ‘Album’]
+B: df.loc[2:5, ‘Album’]
+C: df.iloc[2:6, 1]
+D: df.loc[2:5, 1]
+---
+df.loc[2:5, ‘Album’]
+df.iloc[2:6, 1]
+</>
+What is the result of the following lines of code?
+a=np.array([-1,1])
+b=np.array([1,1])
+np.dot(a,b) 
+A: array([0,2])
+B: 1
+C: 0
+---
+0
+</>
+How do you perform matrix multiplication on the numpy arrays  A and  B ?
+A: A+B
+B: np.dot(A,B)
+C: A*B
+---
+np.dot(A,B)
+</>
+What values does the variable  out take if the following lines of code are run?
+X=np.array([[1,0,1],[2,2,2]]) 
+out=X[0,1:3]
+out
+A: array([1,0,1])
+B: array([2,2])
+C: array([0,1])
+---
+array([0,1])
+</>
+What is the value of  Z after the following code is run?
+X=np.array([[1,0],[0,1]])
+Y=np.array([[2,1],[1,2]]) 
+Z=np.dot(X,Y)
+A: array([[2,1],[1,2] ])
+B: array([[2,0],[1,0]])
+C: array([[3,1],[1,3] ])
+---
+array([[2,1],[1,2] ])
+</>
+Consider the following text file:  Example1.txt:
+This is line 1
+This is line 2
+This is line 3
+What is the output of the following lines of code?
+with open("Exampl1.txt","r") as File1:
+    file_stuff=File1.readline ()
+    print(file_stuff)
+A: This is line 1
+B: This is line 1
+This is line 2
+This is line 3
+C: This is line 1
+This is line 2
+---
+This is line 1
+</>
+What do the following lines of code do?
+with open("Example1.txt","r") as file1:
+  
+  FileContent=file1.readlines()
+  print(FileContent)
+A: Read the file "Example1.txt"
+B: Write to the file "Example1.txt"
+C: Append the file "Example1.txt"
+---
+Read the file "Example1.txt"
+</>
+What do the following lines of code do?
+with open("Example.txt","a") as writefile:
+  
+  writefile.write("This is line A\n")
+  writefile.write("This is line B\n")
+A: Append the file "Example.txt"
+B: Read the file "Example.txt"
+C: Write to the file "Example.txt"
+---
+Append the file "Example.txt"
+</>
+What task do the following lines of code perform?
+with open('Example2.txt','r') as readfile:
+    with open('Example3.txt','w') as writefile:
+          for line in readfile:
+                writefile.write(line)
+A: Copy the text from Example2.txt to Example3.txt.
+B: Check the mode of the open function for each file object.
+C: Print out the content of Example2.txt.
+---
+Copy the text from Example2.txt to Example3.txt.
+</>
+Consider the dataframe df. How would you access the element in the 2nd row and 1st column?
+A: df.iloc[1,0]
+B: df.iloc[2,1]
+C: df.iloc[0,1]
+---
+df.iloc[1,0]
+</>
+In the lab, you learned you can also obtain a series from a dataframe df, select the correct way to assign the column with the header Length to a pandas series to the variable x.
+A: x=df['Length']
+B: x=df[['Length']]
+C: x=df.[['Length']]
+---
+x=df[['Length']]
+</>
+What does API stand for?
+A: Application Programming Interaction
+B: Automatic Program Interaction
+C: Application Process Interface
+D: Application Programming Interface
+---
+Application Programming Interface
+</>
+The chart used to plot the cryptocurrency data in the lab is a
+A: Line Chart
+B: Pole Chart
+C: Point and Figure Chart
+D: Candlestick Chart
+---
+Candlestick Chart
+</>
+What information are we trying to find for each day in the lab for the chart?
+A: Open (First), High (Max), Low (Min), Close (Last)
+B: Open (Min), High (First), Low (Max), Close (Last)
+C: Open (Max), High (First), Low (Last), Close (Min)
+D: Open (Last), High (Max), Low (Min), Close (First)
+---
+Open (First), High (Max), Low (Min), Close (Last)
+</>
+What is the function of "GET" in HTTP requests?
+A: Carries the request to the client from the requestor
+B: Deletes a specific resource
+C: Returns the response from the client to the requestor
+D: Sends data to create or update a resource 
+---
+Carries the request to the client from the requestor
+</>
+What does URL stand for?
+A: Uniform Request Location
+B: Uniform Resource Locator
+C: Unilateral Resistance Locator
+D: Uniform Resource Learning
+---
+Uniform Resource Locator
+</>
+What does the file extension "csv" stand for?
+A: Comma Separated Values
+B: Comma Separation Valuations 
+C: Common Separated Variables
+D: Comma Serrated Values 
+---
+Comma Separated Values
+</>
+What is webscraping?
+A: The process to extract data from a particular website
+B: The process to describe communication options
+C: The process to display all data within a URL
+D: The process to request and retrieve information from a client
+---
+The process to extract data from a particular website
+</>
+What are the 3 parts to a response message?
+A: Bookmarks, history, and security
+B: HTTP headers, blank line, and body
+C: Start or status line, header, and body
+D: Encoding, body, and cache
+---
+Start or status line, header, and body
+</>
+What is the purpose of this line of code "table_row=table.find_all(name=’tr’)" used in webscraping?
+A: It will find all of the data within the table marked with a tag "h1"
+B: It will find all of the data within the table marked with a tag "p"
+C: It will find all of the data within the table marked with a tag "tr"
+D: It will find all of the data within the table marked with a tag "a"
+---
+It will find all of the data within the table marked with a tag "tr"
+</>
+In what data structure do HTTP responses generally return?
+A: Nested Lists
+B: JSON
+C: Tuples
+D: Lists
+---
+JSON
+</>
+The Python library we used to plot the chart in the lab is
+A: PyCoinGecko
+B: Pandas
+C: MatPlotLib
+D: Plotly
+---
+MatPlotLib
+</>
+In Python what statement would print out the first two elements "Li" of "Lizz"?
+A: print(name[0:2])
+B: print(name[1:2])
+C: print(name[2:0])
+---
+print(name[0:2])
+</>
+If var = "01234567" what Python statement would print out only the odd elements?
+A: print(var[2::2]) 
+B: print(var[3::1])
+C: print(var[1::2])
+---
+print(var[1::2])
+</>
+What is the Python find() method used for?
+A: The method finds the starting index of a substring
+B: The method finds every second index of a substring
+C: The method finds the ending index of a substring
+---
+The method finds the starting index of a substring
+</>
+In Python what can be either a positive or negative number but does not contain a decimal point?
+A: float
+B: str
+C: int
+---
+int
+</>
+What following code segment would return a 3?
+A: float(3.99)
+B: str(3.99)
+C: int(3.99)
+---
+int(3.99)
+</>
+When using the double slash "//" for integer division the result will be?
+A: Rounded
+B: Not rounded
+---
+Rounded
+</>
+In Python 3 what following code segment will produce an int?
+A: 1/2
+B: 2//3
+---
+2//3
+</>
+How many identical keys can a dictionary have ?
+A: 100000000
+B: 3
+C: 0
+---
+0
+</>
+What is the syntax to obtain the first element of the tuple?
+A=('a','b','c')
+A: A[:]
+B: A[0]
+C: A[1]
+---
+A[0]
+</>
+What is the result of the following operation: '1:2,3:4'.split(':')?
+A: ['1,2', '3,4']
+B: ['1', '2', '3', '4']
+C: ['1,2,3,4']
+D: ['1', '2,3', '4']
+---
+['1', '2,3', '4']
+</>
+What is an important difference between lists and tuples?
+A: Lists and tuples are the same
+B: Lists are mutable tuples are not 
+C: Tuples can only have integers 
+D: Lists can't contain a string 
+---
+Lists are mutable tuples are not 
+</>
+What code segment is used to cast list "B" to the set "b"?
+A: b.set()
+B: b=B.dict()
+C: b=set(B)
+---
+b=set(B)
+</>
+What value of x will produce the output?
+ x= 
+if(x!=1): 
+     print('Hello') 
+else: 
+     print('Hi') 
+print('Mike') 
+A: x="7"
+B: x=6
+C: x=1
+---
+x=6
+</>
+What is the process of forcing your program to output an error message when it encounters an issue?
+A: Force Out
+B: Output errors
+C: Error messages
+D: Exception handling
+---
+Output errors
+</>
+What add function would return ‘2’ ?
+A: def add(x): return(x+x) add(1) 
+B: def add(x): return(x+x+x) add('1') 
+C: def add(x): return(x+x) add('1') 
+---
+def add(x): return(x+x) add(1) 
+</>
+ A list cannot be sorted if it contains:
+A: only strings
+B: concatenated strings
+C: only numeric values
+D: strings and numeric values
+---
+strings and numeric values
+</>
+What segment of code would output the following?
+11
+22
+33
+A: A=['1','2','3'] for a in A: print(3*a) 
+B: A=[1,2,3] for a in A: print(2*a) 
+C: A=['1','2','3'] for a in A: print(2*a) 
+---
+A=['1','2','3'] for a in A: print(2*a) 
+</>
+What code segment would output the following?
+2
+A: for i in range(1,5): if (i!=1): print(i)
+B: for i in range(1,5): if (i!=2): print(i)
+C: for i in range(1,5): if (i==2): print(i)
+---
+for i in range(1,5): if (i==2): print(i)
+</>
+What is the width of the rectangle in the class Rectangle?
+class Rectangle(object): def __init__(self,width=2,height =3,color='r'): self.height=height self.width=width self.color=color def drawRectangle(self): import matplotlib.pyplot as plt plt.gca().add_patch(plt.Rectangle((0, 0),self.width, self.height ,fc=self.color)) plt.axis('scaled') plt.show() 
+A: 2
+B: 0
+C: 3
+---
+2
+</>
+What is the result of the following lines of code?
+ a=np.array([0,1,0,1,0]) b=np.array([1,0,1,0,1]) a/b 
+A: array([0.1, 1.0, 0.1, 1.0, 0.1])
+B: array([1, 1, 1, 1, 1])
+C: Division by zero error
+---
+Division by zero error
+</>
+What is the result of the following lines of code?
+ a=np.array([1,1,1,1,1]) a+10
+A: array([11, 11, 11, 11, 11])
+B: array([1,1,1,1,1])
+C: array([10,10,10,10,10])
+---
+array([11, 11, 11, 11, 11])
+</>
+What is a two-dimensional data structure?
+A: Pandas Series
+B: Pandas Dataframe
+C: Numpy
+---
+Pandas Dataframe
+</>
+Consider the file object: File1.What would the following line of code output?
+for n in range(0,2): print(file1.readline()) 
+A: It would output 2 characters from the text file
+B: It would output the entire text file
+C: It would output the first 2 lines from the text file
+---
+It would output the first 2 lines from the text file
+</>
+Consider the following line of code:
+ with open("Example.txt","a") as file1:
+What mode is the file object in?
+A: read
+B: append
+C: write
+---
+append
+</>
+What is scheme, internet address and route a part of?
+A: Error message
+B: Text file
+C: URL
+---
+URL
+</>
+What are the five basic SQL commands?
+A: CREATE, SELECT, INSERT, UPDATE, DELETE
+B: SELECT, COPY, PASTE, INSERT, ALTER 
+C: CREATE, INSERT, RETRIEVE, MODIFY, DELETE
+D: None of the above
+---
+CREATE, SELECT, INSERT, UPDATE, DELETE
+</>
+In use cases for RDBMS, what is one of the reasons that relational databases are so well suited for Online Transaction Processing (OLTP) applications?
+A: It’s easy to migrate data between two RDBMSs
+B: They support unlimited length of data fields. 
+C: They support the ability to insert, update, or delete small amounts of data
+D: All of the above.
+---
+They support the ability to insert, update, or delete small amounts of data
+</>
+The Relational Model stores data in tables, which allows for data independence. What type of data independence does it provide?
+A: Logical data independence
+B: Physical data independence
+C: Physical storage independence
+D: All of the above
+---
+All of the above
+</>
+In a relational data model, a primary key uniquely identifies each row in a table. What is the function of a foreign key? 
+A: A foreign key allows tables to be joined based on a relationship between certain columns in the tables.
+B: A foreign key is a set of columns referring to a primary key of another entity.
+C: A foreign key allows you to use certain attributes as a link between tables. 
+D: All of the above. 
+---
+All of the above. 
+</>
+Which of the following statements are correct about databases?
+A: A database is a repository of data
+B: There are different types of databases - Relational, Hierarchical, NoSQL, etc.
+C: A database can be populated with data and be queried 
+D: All of the above
+---
+All of the above
+</>
+A database stores data in tabular form only. True or False?
+A: True
+B: False
+---
+False
+</>
+In a library entity-relationship data model, a book is an example of _____ and the book’s title, edition, and publication date are examples of _______.
+A: an entity, attributes
+B: an entity, properties 
+C: an attribute, entities
+D: a row, columns
+---
+an entity, attributes
+</>
+Which of the following statements about a database is/are correct?
+A: A database is a logically coherent collection of data with some inherent meaning
+B: Data can only be added and queried from a database but not modified
+C: Only SQL can be used to query data in a database
+D: All of the above
+---
+A database is a logically coherent collection of data with some inherent meaning
+</>
+The primary key of a relational table uniquely identifies each row in a table. True or False?
+A: True
+B: False
+---
+True
+</>
+What is the function of a predicate when reading and modifying data?
+A: It is a condition that evaluates to true, false, or unknown.
+B: It is always required when using the Where clause.
+C: It allows us to restrict the result set using the Where clause
+D: All of the above 
+---
+All of the above 
+</>
+Which of the following INSERT statements will add one row containing a student’s identification number, first name, and last name?
+A: INSERT INTO STUDENT 
+             (STUDENT_ID, LASTNAME, FIRSTNAME) 
+     STUDENT_ID (‘345DT2000’), LASTNAME (‘Morales’), FIRSTNAME (‘Raul’) 
+B: INSERT INTO STUDENT
+                 (STUDENT_ID, LASTNAME, FIRSTNAME)
+        VALUES (STUDENT ID = ‘345DT2000’, LASTNAME = ‘Morales’, FIRSTNAME = ‘Raul’)
+C: INSERT INTO STUDENT 
+             (STUDENT_ID, LASTNAME, FIRSTNAME, DOB) 
+     VALUES (‘345DT2000’, ‘Morales’, ‘Raul’) 
+D: INSERT INTO STUDENT 
+             (STUDENT_ID, LASTNAME, FIRSTNAME) 
+     VALUES (‘345DT2000’, ‘Morales’, ‘Raul’) 
+---
+INSERT INTO STUDENT 
+             (STUDENT_ID, LASTNAME, FIRSTNAME) 
+     VALUES (‘345DT2000’, ‘Morales’, ‘Raul’) 
+</>
+You want to update a row in the Student table to change a student’s first name from "Kristen" to "Christine." What will happen if you leave out the Where clause in the UPDATE statement?
+A: Nothing. The UPDATE clause won’t work without the WHERE clause.
+B: Student(s) with the first name of "Kristen" would be deleted from the database.
+C: The update would take longer because SQL would need to search through the whole database for a student with a first name of "Kristen."
+D: Every student’s first name would change to "Christine" in the table.  
+---
+Every student’s first name would change to "Christine" in the table.  
+</>
+Which expression below is used with a SELECT statement to retrieve the number of rows that match the query criteria?
+A: LIMIT
+B: COUNT
+C: DISTINCT
+D: All of the above
+---
+COUNT
+</>
+What is the correct syntax for inserting data into a table named Members?
+A:  INSERT MEMBERS 
+           (MEMBER_ID, LASTNAME, FIRSTNAME) 
+     VALUES (‘1432’, ‘Smith’, ‘Charles’)
+B: INSERT INTO MEMBERS
+           (MEMBER_ID, LASTNAME, FIRSTNAME)
+      VALUES (MEMBER_ID is 345DT2000, LASTNAME is Smith, FIRSTNAME is Charles)
+C: INSERT INTO MEMBERS 
+           (MEMBER_ID, LASTNAME, FIRSTNAME, OCCUPATION) 
+     VALUES (‘1432’, ‘Smith’, ‘Charles’) 
+D: INSERT INTO MEMBERS 
+           (MEMBER_ID, LASTNAME, FIRSTNAME) 
+     VALUES (‘1432’, ‘Smith’, ‘Charles’) 
+---
+INSERT INTO MEMBERS 
+           (MEMBER_ID, LASTNAME, FIRSTNAME) 
+     VALUES (‘1432’, ‘Smith’, ‘Charles’) 
+</>
+When using the DELETE statement to remove data from a database, what does the WHERE clause do?
+A: It indicates the condition under which the data should be deleted; for example, which rows should have their contents deleted. 
+B: It limits the amount of data that is deleted to a certain number of characters.
+C: It specifies the server where the database is located. 
+D: It specifies where to find the data to delete, by column number and row number.
+---
+It indicates the condition under which the data should be deleted; for example, which rows should have their contents deleted. 
+</>
+A single INSERT statement can be used to insert multiple rows in a table. True or False?
+A: True
+B: False
+---
+True
+</>
+Which SELECT statement eliminates duplicates in the result set?
+A: SELECT country FROM author ORDER BY 1
+B: SELECT DISTINCT(country) FROM author
+C: SELECT country FROM author LIMIT DUPLICATES
+D: None of the above  
+---
+SELECT DISTINCT(country) FROM author
+</>
+The SELECT statement is called a query, and the output we get from executing the query is called a result set. True or False?
+A: True
+B: False
+---
+True
+</>
+Which attributes of columns in a table must always be defined in a CREATE TABLE statement?
+A: Datatype and Primary Key constraint 
+B: Datatype and number of columns 
+C: Name and Primary Key constraint
+D: Name and datatype
+---
+Name and datatype
+</>
+What would you add to this SELECT statement to sort the result set alphabetically by author’s last name? 
+SELECT title, lastname from Author
+A: SORT BY lastname
+B: ORDER BY lastname
+C: ORDER BY column 1 
+D: DESC lastname
+---
+ORDER BY lastname
+</>
+What is the best definition of a JOIN operator?
+A: It retrieves data from one or more columns of a single table.
+B: It combines the rows from two or more tables that are related by a common row.
+C: It combines the rows from two or more tables that are related by a common column.
+D: It combines all the data in two or more tables and replaces the tables with a new table.
+---
+It combines the rows from two or more tables that are related by a common column.
+</>
+What does Django map each field to in a database table?
+A: Parameter
+B: Field class
+C: Schema
+D: Column 
+---
+Column 
+</>
+Which of the following relationships between entities does Django ORM support?
+A: One-to-One 
+B: Many-to-One
+C: Many-to-Many
+D: All of the above
+---
+All of the above
+</>
+How does OOP model entities?
+A: Using tables, rows, and columns 
+B: Using methods, strings, and variables 
+C: Using cells, sparklines, and filters
+D: Using classes and objects
+---
+Using classes and objects
+</>
+What can you use to perform actions on data in databases without writing SQL queries?
+A: Python object model
+B: SQL queries 
+C: SQL object model 
+D: Django Models APIs 
+---
+Django Models APIs 
+</>
+Django only requires relationships be defined on one side, what is this called?
+A: Related object
+B:  Child object
+C: Forward access
+D: Singular access
+---
+Forward access
+</>
+Which of the following is a benefit of using ORM?
+A: Easier to debug 
+B: Increases performance
+C: Removes data access complexity from application code
+D: Speeds up application development 
+---
+Speeds up application development 
+</>
+When you create an object (an instance of a class) in Django, what does it represent?
+A: Table cell
+B: Table column
+C: Table row
+D: Database table
+---
+Table row
+</>
+What does Django create when you create a forward relationship?
+A: Comparative clause
+B: Django doesn't automatically create anything
+C: Backward access
+D: Explicit reference
+---
+Backward access
+</>
+To delete() records in a database, you call the Delete method on which objects?
+A: Model object or QuerySet
+B: Foreign Key field or Many-to-many field
+C: Child object or lookup parameter
+D: Filter chain or primitive field
+---
+Model object or QuerySet
+</>
+What is the main reason ORM was invented?
+A: Promote SQL
+B: Bridge the gap between OOP and SQL
+C: Use a different set of APIs for each database 
+D: Utilize methods 
+---
+Bridge the gap between OOP and SQL
+</>
+Multi-table inheritance is like which relationship?
+A: Many-to-many 
+B: Many-to-one
+C: One-to-one
+D:  One-to-many
+---
+One-to-one
+</>
+What method would you use to create a subset of database records?
+A: Save
+B: Add
+C: Filter
+D: Get
+---
+Filter
+</>
+How do you specify what happens to related objects when an object is deleted?
+A: Protect
+B: on_delete 
+C: delete_related
+D: Delete foreign key
+---
+on_delete 
+</>
+Django only requires that model relationships be defined on one side. What is this called?
+A:  Related object
+B: Singular access
+C: Forward access
+D: Child object
+---
+Forward access
+</>
+MVC design pattern includes three components. Which component routes requests?
+A: Access 
+B: Controller 
+C: Model 
+D: View 
+---
+Controller 
+</>
+What do templates do in Django?
+A: List tasks
+B: Arrange Django project structure
+C: Specify how data is presented
+D: Determine which data should be presented
+---
+Specify how data is presented
+</>
+After the core development work is done in Django apps, what is one thing that could be done to facilitate app content management?
+A: Add another server
+B: Add a client site
+C: Use a 3rd-party backend library
+D: Add an admin site
+---
+Add an admin site
+</>
+One of the first steps when building a Django admin site is to create an admin user. What command is used to do this in the Django Admin video?
+A: python manage.py adduser 
+B: python manage.py addusername 
+C: python manage.py createsuperuser
+D: python config.py createadmin
+---
+python manage.py createsuperuser
+</>
+A view takes an HTTP request and returns an HTTP response. The HTTP response can be a string, a JSON/XML file, or an HTML page with what response status?
+A: Success status
+B:  Error status
+C: Informational status 
+D: All of the above
+---
+All of the above
+</>
+What else does the Django template contain besides Python code?
+A: Static HTML elements
+B: Dynamic HTML elements
+C: Markdown elements
+D: XML elements
+---
+Static HTML elements
+</>
+Three files are created by Django after you've created a project. Which of these files is a command-line interface used to interact with the Django project?
+A: urls.py 
+B: manage.py
+C: settings.py
+D: access.py
+---
+manage.py
+</>
+For the onlinecourse example, when registering the course and instructor models in the Django admin site, you would write and run "admin.site.register(Course)" and what other code statements?
+A: admin.site.register(Superuser)
+B: admin.site.register(Instructor)
+C: admin.site.register(App) 
+D: admin.site.register(Admin)
+---
+admin.site.register(Instructor)
+</>
+When you map a URL to the course view, what file do you add path objects to?
+A: manage.py
+B: config.py
+C: settings.py 
+D: urls.py
+---
+urls.py
+</>
+Django template files display content, such as course names and descriptions. How is the content displayed?
+A: Plain text
+B: XML
+C: HTML
+D: Markdown
+---
+HTML
+</>
+Which is one of the differences between the Django MVT and the MVC design pattern?
+A: MVC has a Model
+B: The Django framework or Django server itself acts as controller
+C: There is no difference
+D: MVT has a View
+---
+The Django framework or Django server itself acts as controller
+</>
+What two development tasks need to be performed to manage and determine which data will be presented to the UI?
+A: Control the project
+B: Access data and build tables
+C: Sort data and sort views
+D: Model data and create views
+---
+Model data and create views
+</>
+Which command is used in the Django Admin video to start the server?
+A: python manage.py startDjango
+B: python manage.py startserver
+C:  python manage.py run
+D: python manage.py runserver
+---
+python manage.py runserver
+</>
+Django functions, like View, accept arguments as input and return something. Typically, View needs an HTTP request object as the first argument. What does this request object contain?
+A: Python scripts
+B: Python commands
+C: Read-only HTTP metadata
+D: Django static files
+---
+Read-only HTTP metadata
+</>
+Django template file structure sometimes has two files created with the same name. How do you ensure Django points to the correct file?
+A:  Add an identifier
+B: Note the differences
+C: Name spacing
+D: Add metadata
+---
+Name spacing
+</>
+Which view was the original implemented view in Django?
+A: Class-based view
+B: Function-based view
+C: Feature-based view
+D: Expression-based view
+---
+Function-based view
+</>
+Authentication is a process that does what?
+A: Validates user identity
+B: Checks users’ access permissions 
+C: Groups users based on permissions
+D: Creates user credentials
+---
+Validates user identity
+</>
+Bootstrap is a free web front-end framework that helps develop web apps. What does it provide Django?
+A: Server interfaces 
+B: Code examples
+C: Databases 
+D: HTML and CSS templates
+---
+HTML and CSS templates
+</>
+What does Django use name spacing for when you add static files to an app?
+A: Uniquely refers to static files that use the same name, across multiple apps
+B: Tracks static files in each app
+C: Sorts static files
+D: Limits the number of static files in an app
+---
+Uniquely refers to static files that use the same name, across multiple apps
+</>
+When Django developers run a runserver command line, what does it start?
+A: File server
+B: Minimal development web server 
+C: Storage server
+D: Barebones backend server 
+---
+Minimal development web server 
+</>
+Django class-based view needs to be mapped with a URL pattern, almost like configuring the URL for the function-based view. The only difference is you need to specify:
+A: The view_base method
+B: The as_view function
+C: The as_config function
+D: The as_class method
+---
+The as_view function
+</>
+Username and password can be received from a user via a login HTML template. Which HTTP method is used to sent username/password to the onlinecourse login view, in order to authenticate the user?
+A: GET request
+B: DELETE request 
+C: POST request 
+D:  None of the above
+---
+POST request 
+</>
+In the Django Bootstrap video, a course index page is designed that contains courses represented as cards. The multiple course cards are then added to a container. How are the multiple course cards managed?
+A: Added to a table
+B: Wrapped in a card deck
+C: Shuffled 
+D: Placed in a list
+---
+Wrapped in a card deck
+</>
+Django provides a default staticfiles app that collects all static files in a single directory. You can move all static files to this directory when you deploy your app to a production web server. There are several steps to do this. What call do you make in the last step?
+A: Run ‘collectstatic’ command line
+B: STATIC_URL
+C: STATIC_ROOT
+D: Run "importstatic" command line
+---
+Run ‘collectstatic’ command line
+</>
+ASGI is another web server interface that Django apps support. What is the main difference between WSGI and ASGI?
+A: WSGI supports Python
+B: ASGI supports Python
+C:  ASGI supports asynchronous code
+D: There is no difference
+---
+ ASGI supports asynchronous code
+</>
+Which type of view was created to address view extensibility and reusability?
+A: Class-based view
+B: Method-based view
+C: HTTP-based view
+D: Function-based view
+---
+Class-based view
+</>
+Does authorization occur before, after, or during the authentication process?
+A: After authentication
+B: Before authentication
+C: Authentication doesn't affect authorization
+D: During authentication
+---
+After authentication
+</>
+How can you use Bootstrap CSS style classes without manually downloading and importing it?
+A: You must download Bootstrap
+B: Link to the Bootstrap web page before you develop your webpage
+C: Copy & paste the CSS style classes
+D: Add a link to the latest Bootstrap version into the head element of your HTML template 
+---
+Add a link to the latest Bootstrap version into the head element of your HTML template 
+</>
+Django apps can have app-specific static files but can also have external static files. Where do you define the directories for external static files, so you can find them?
+A: In the PROPERTIES list in manage.py
+B: In STATIC list in manage.py file
+C: In EX_DIRS list in settings.py file
+D: In the STATICFILES_DIRS list in settings.py file
+---
+In the STATICFILES_DIRS list in settings.py file
+</>
+WSGI is the main Python standard for communicating between web servers and applications. To make Django apps work with WSGI the startproject command line creates a file that declares an application callable by default. What is this file named?
+A: sgi.py
+B: giws.py
+C: django.py
+D: wsgi.py
+---
+wsgi.py
+</>
+What is a container?
+A: A data center server that stores cloud files
+B: A standard unit of software that packages code and all its dependencies
+C: A special method of designing more efficient code
+D: A digital platform designed to store files developed in different operating systems
+---
+A standard unit of software that packages code and all its dependencies
+</>
+What are some of the traits of containers?
+A: Containers save both time and money and improve utilization.
+B: Containers save both time and money at the expense of utilization and automation. 
+C: Containers are more expensive but save time during deployment. 
+D: Containers lower costs, but add time.
+---
+Containers save both time and money and improve utilization.
+</>
+What is Docker?
+A: A network connector that allows containers to travel from one platform to another
+B: An open platform used for developing, shipping, and running applications in containers 
+C: Deep storage for digital containers
+D: An enterprise security tool that prevents malware from accessing containers
+---
+An open platform used for developing, shipping, and running applications in containers 
+</>
+What does an image name consist of?
+A: The network, the repository, and the template
+B: The Dockerfile, the running container, and the storage plugin
+C: The hostname, the repository, and the tag
+D: Only tags
+---
+The hostname, the repository, and the tag
+</>
+What are the three parts of the Docker architecture? 
+A: Registry
+B: Client
+C: Host
+D: Virtual machines
+---
+Registry
+Client
+Host
+</>
+Do containers have to be on a specific operating system or platform?
+A: Yes, containers only work on Windows-based operating systems and platforms.
+B: No, containers don’t run on operating systems or platforms.
+C: No, containers work on many types of operating systems and platforms.
+D: Yes, containers only work on Linux-based operating systems and platforms.
+---
+No, containers work on many types of operating systems and platforms.
+</>
+How are digital containers like shipping containers?
+A: Digital containers must be welded to computer motherboards, just like shipping containers must be welded.
+B: Both digital and shipping containers have to travel internationally.
+C: Container size and specs are standardized, which makes them easier to move around.
+D: Digital containers are not like shipping containers.
+---
+Container size and specs are standardized, which makes them easier to move around.
+</>
+What applications are a good fit for Docker?
+A: Applications that need a lot of security
+B: Applications with rich GUI features
+C: Applications that require flexible scaling and portability 
+D: Applications with high performance requirements
+---
+Applications that require flexible scaling and portability 
+</>
+What are three parts of Docker’s underlying technology? 
+A: The Go programming language
+B: Namespaces
+C: GitHub
+D: Linux kernel features
+---
+The Go programming language
+Namespaces
+Linux kernel features
+</>
+What Docker features create a container image?
+A: The build command and a Dockerfile
+B: The image command and a Dockerfile
+C: The run command and a Dockerfile
+D: The copy command and an existing image
+---
+The build command and a Dockerfile
+</>
+What are the steps used to create and run containers?
+A: Create a container image, use it to create a Dockerfile, and then use the Dockerfile to create a running container.
+B: Input the container image name and tag.
+C: Create a Dockerfile, use it to create a container image, and then use the container image to create a running container.
+D: Create a Dockerfile and use it with the pull command to create a running container.
+---
+Create a Dockerfile, use it to create a container image, and then use the container image to create a running container.
+</>
+What is the function of the Docker ‘run’ command?
+A: Lists all images, repositories, tags, and sizes
+B: Creates a container from an image
+C: Stores images in a configured registry
+D: Retrieves images from a configured registry
+---
+Creates a container from an image
+</>
+What is a Docker container?
+A: A method of isolating communication
+B: A persistent set of data that can be transferred
+C: A read-only template
+D: A runnable instance of an image
+---
+A runnable instance of an image
+</>
+What are volumes and bind mounts used for in Docker?
+A: Persisting data
+B: Erasing data
+C: Isolating communication
+D: Connecting to external storage platforms
+---
+Persisting data
+</>
+What does the Docker client-server architecture provide?
+A: A communication channel
+B: Code checking
+C: An application environment
+D: Cloud storage
+---
+An application environment
+</>
+What languages are used to create the container orchestration configuration file?
+A: Python or Node.js
+B: JSON only
+C: YAML only
+D: YAML or JSON
+---
+YAML or JSON
+</>
+What is a Kubernetes Cluster?
+A: A cluster of nodes that run containerized applications
+B: A controller manager
+C: A distributed key value store
+D: An image downloader
+---
+A cluster of nodes that run containerized applications
+</>
+What is Kubernetes?
+A: An open source containerization orchestration platform
+B: A continuous integration and delivery pipeline for applications
+C: An all-inclusive platform as a service
+D: A built-in middleware and database provider
+---
+An open source containerization orchestration platform
+</>
+What are three examples of Kubernetes objects?
+A: ReplicaSets
+B: Namespaces
+C: Pods
+D: Containers
+---
+ReplicaSets
+Namespaces
+Pods
+</>
+What is the function of a ClusterIP Service?
+A: Directs traffic to the NodePort Service
+B: Maps to a DNS name
+C: Provides inter-service communication within the Cluster
+D: Automatically creates and routes incoming requests to the ClusterIP Service 
+---
+Provides inter-service communication within the Cluster
+</>
+In what three environments can container orchestration be implemented?
+A: Private cloud environments
+B: On-premises environments
+C:  A single device 
+D: Public cloud environments
+---
+Private cloud environments
+On-premises environments
+Public cloud environments
+</>
+What is the most popular container orchestration tool used as of 2022?
+A: Marathon
+B: Nomad
+C: Kubernetes 
+D: Docker Swarm
+---
+Kubernetes 
+</>
+What does a control plane do?
+A: Assigns newly created Pods to nodes
+B: Shares all the resources of a node
+C: Contains Pods
+D: Maintains the intended Cluster state by making decisions about the Cluster and detecting and responding to events in the Cluster   
+---
+Maintains the intended Cluster state by making decisions about the Cluster and detecting and responding to events in the Cluster   
+</>
+What component of a worker node ensures containers are running as desired?
+A: Etcd
+B: The kubelet
+C: Container runtime
+D: The Kubernetes proxy
+---
+The kubelet
+</>
+What are three Kubernetes capabilities?
+A: CI/CD pipelines
+B: Secret and configuration management
+C: Storage orchestration
+D: Automated rollouts
+---
+Secret and configuration management
+Storage orchestration
+Automated rollouts
+</>
+What is automated bin packing?
+A: A Kubernetes capability that scales workloads based on metrics or commands
+B: A Kubernetes capability that mounts a chosen storage system
+C: A Kubernetes capability that applies automatic changes
+D: A Kubernetes capability that performs container auto-placement based on resource requirements and conditions without sacrificing high availability 
+---
+A Kubernetes capability that performs container auto-placement based on resource requirements and conditions without sacrificing high availability 
+</>
+What is a label?
+A: A mechanism for isolating groups of resources within a single Cluster
+B: A key-value pair attached to an object
+C: The simplest unit in Kubernetes
+D: A set of identical running Pod replicas that are horizontally scaled
+---
+A key-value pair attached to an object
+</>
+What Kubernetes object should be used for stateless applications?
+A: Deployment
+B: DaemonSet
+C: ReplicaSet
+D: StatefulSet
+---
+Deployment
+</>
+What is Kubectl?
+A: Kubernetes command line interface (CLI) 
+B: Cloud command line interface 
+C: Docker command line interface 
+D: OpenShift command line interface (oc) 
+---
+Kubernetes command line interface (CLI) 
+</>
+What is the function of an External Name Service?
+A: Creates and routes the incoming requests automatically to the ClusterIP Service
+B: Directs traffic to the NodePort Service
+C: Maps to a DNS name
+D: Provides inter-service communication within the Cluster
+---
+Maps to a DNS name
+</>
+What Kubernetes object adds or deletes pods for scaling and redundancy?   
+A: A ReplicaSet
+B: A DaemonSet
+C: A ConfigMap
+D: A Secret
+---
+A ReplicaSet
+</>
+What are the autoscaling types in Kubernetes?
+A: Horizontal and Vertical
+B: Deployment, Node, and Pod
+C: Horizontal, Vertical, Node
+D: Horizontal, Vertical, and Cluster
+---
+Horizontal, Vertical, and Cluster
+</>
+Which three statements about ConfigMaps are correct?
+A: Data stored in a ConfigMap must not exceed one megabyte.
+B: A ConfigMap is meant for sensitive information (encrypted).
+C: A ConfigMap provides configuration data to pods and deployments.
+D: A ConfigMap object stores non-confidential data in key-value pairs.
+---
+Data stored in a ConfigMap must not exceed one megabyte.
+A ConfigMap provides configuration data to pods and deployments.
+A ConfigMap object stores non-confidential data in key-value pairs.
+</>
+What is Service binding? 
+A: The process needed to consume external Service or backing Services, including REST APIs, databases, and event buses in your applications
+B: A Kubernetes capability that performs container auto-placement based on resource requirements and conditions without sacrificing high availability 
+C: The process of attaching key-value pairs to objects
+D: The process of storing non-confidential data
+---
+The process needed to consume external Service or backing Services, including REST APIs, databases, and event buses in your applications
+</>
+What rollout command do you use to implement a rollback to a previous version in Kubernetes?
+A: A ‘delete’ command
+B: A ‘status’ command
+C: An ‘undo’ command
+D: A ‘history’ command
+---
+An ‘undo’ command
+</>
+How do you create a ReplicaSet from scratch?
+A: Use the ‘scale’ command to scale the deployment.
+B: Apply a JSON file that includes the number of desired replicas.
+C: Apply a YAML file with the ‘kind’ attribute set to ‘ReplicaSet’.
+D: Use the ‘get pods’ command.
+---
+Apply a YAML file with the ‘kind’ attribute set to ‘ReplicaSet’.
+</>
+What Kubernetes object adds or deletes pods for scaling and redundancy?
+A: A DaemonSet
+B: A Secret
+C: A ReplicaSet
+D: A Config Map
+---
+A ReplicaSet
+</>
+Which Kubernetes autoscaler type scales the Cluster?
+A: You cannot autoscale a Kubernetes Cluster.
+B: Horizontal Pod Autoscaler (HPA)
+C: Cluster Autoscaler (CA)
+D: Vertical Pod Autoscaler (VPA)
+---
+Cluster Autoscaler (CA)
+</>
+How do you prepare your application to enable rolling updates?
+A: Use autoscaling.
+B: Set the maxSurge to 100%.
+C: Set the maxSurge to 50%.
+D: Add liveness and readiness probes to deployments.
+---
+Add liveness and readiness probes to deployments.
+</>
+Which rolling update types ensure 100% app availability?
+A: All-at-once updates and rollbacks ensure 100% app availability.
+B: One-at-a-time updates and rollbacks ensure 100% app availability.
+C: No rolling update types can ensure 100% app availability.
+D: Both all-at-once and one-at-a-time updates and rollbacks ensure 100% app availability.
+---
+One-at-a-time updates and rollbacks ensure 100% app availability.
+</>
+What does a ConfigMap do?
+A: Mounts a file using the volumes plugin 
+B: Provides variables for your application
+C: Verifies that a Secret was created
+D: Provides sensitive information to your application
+---
+Provides variables for your application
+</>
+What are three ways to create a ConfigMap? 
+A: By using an existing property or ‘key’ = ‘value’ file
+B: By using string literals
+C: By adding another environment to the deployment descriptor
+D: By providing a ConfigMap YAML descriptor file
+---
+By using an existing property or ‘key’ = ‘value’ file
+By using string literals
+By providing a ConfigMap YAML descriptor file
+</>
+What are three ways to create a Secret?
+A: By using volume mounts
+B: By providing a ConfigMap YAML descriptor file
+C: By using environment variables 
+D: By using a string literal 
+---
+By using volume mounts
+By using environment variables 
+By using a string literal 
+</>
+What does Service binding do? 
+A: Makes Service credentials available to you automatically as a Secret
+B: Manages configuration and credentials for back-end Services while protecting sensitive data
+C: Consumes the external Service by binding the application to a deployment
+D: Provides variables for your application
+---
+Manages configuration and credentials for back-end Services while protecting sensitive data
+</>
+What are the three required steps to bind the IBM Cloud Service to your Cluster? 
+A: Erase the credential configuration file after credential setup.
+B: Provision an instance of the Service.
+C: Configure your app to access the credentials.
+D: Bind the Service to your Cluster to create credentials.
+---
+Provision an instance of the Service.
+Configure your app to access the credentials.
+Bind the Service to your Cluster to create credentials.
+</>
+What are three true statements about Red Hat OpenShift?
+A: Red Hat OpenShift uses kubectl CLI, the most commonly used CLI tool to perform end-to-end operations.
+B: Red Hat OpenShift provides additional tooling around the complete lifecycle of applications, from Build to CI/CD, to monitoring and logs. 
+C: Red Hat OpenShift provides full-stack automated operations and self-service provisioning for developers to efficiently move ideas from development to production.
+D: Red Hat OpenShift is a consistent application platform used to manage hybrid, multi-cloud, and edge deployments. 
+---
+Red Hat OpenShift provides additional tooling around the complete lifecycle of applications, from Build to CI/CD, to monitoring and logs. 
+Red Hat OpenShift provides full-stack automated operations and self-service provisioning for developers to efficiently move ideas from development to production.
+Red Hat OpenShift is a consistent application platform used to manage hybrid, multi-cloud, and edge deployments. 
+</>
+What are three examples of Build input sources?
+A: Pods
+B: Inline Dockerfile definitions
+C: External artifacts
+D: Input Secrets
+---
+Inline Dockerfile definitions
+External artifacts
+Input Secrets
+</>
+What do Operators provide?
+A: Service communication metrics for basic Service monitoring needs: latency, traffic, errors, and saturation.
+B: Integration with APIs and CLI tools
+C: Customizations and parameterization, but only at the time of installations
+D: Support for connection, security, enforcement, and observability.
+---
+Integration with APIs and CLI tools
+</>
+What is a valid Istio feature?
+A: Regular full-system health checks
+B: Istio provides Service communication metrics for basic Service monitoring needs: latency, traffic, errors, and saturation.
+C: Integration with APIs and CLI tools
+D: Ease of repeatable installation and upgrade processes 
+---
+Istio provides Service communication metrics for basic Service monitoring needs: latency, traffic, errors, and saturation.
+</>
+What are three functions of a service mesh?
+A: Provides Service behavior metrics for optimization
+B: Encrypts traffic between Services
+C: Manages traffic between Services
+D: Reduces container size for faster Services
+---
+Provides Service behavior metrics for optimization
+Encrypts traffic between Services
+Manages traffic between Services
+</>
+What strategy was Red Hat OpenShift designed for?
+A: A public cloud strategy 
+B: A hybrid-cloud strategy.
+C: A private cloud strategy. 
+D: An on-premises strategy.
+---
+A hybrid-cloud strategy.
+</>
+Which three statements are true?
+A: The oc lets you manage projects during restricted bandwidth or availability of the web console. 
+B: The oc lets you script OpenShift operations. 
+C: The oc and kubectl binary offer different capabilities. 
+D: The oc lets you work directly with project source code using command script. 
+---
+The oc lets you manage projects during restricted bandwidth or availability of the web console. 
+The oc lets you script OpenShift operations. 
+The oc lets you work directly with project source code using command script. 
+</>
+What are three added features that OpenShift provides?
+A: More flexible
+B: Better user experience 
+C: Good networking solutions out of the box
+D: Better management through image streams 
+---
+Better user experience 
+Good networking solutions out of the box
+Better management through image streams 
+</>
+What are the three Build triggers used in OpenShift?
+A: Configuration change
+B: Webhook
+C: ImageStream
+D: Image change
+---
+Configuration change
+Webhook
+Image change
+</>
+What are the two features of an ImageStream?
+A: Stores images
+B: Creates and updates container images
+C: Provides a trigger capability when a new version of an image is available
+D: Provides content for Builds
+---
+Creates and updates container images
+Provides a trigger capability when a new version of an image is available
+</>
+What three processes are performed by the Operator Framework tool set?
+A: Testing
+B: Coding 
+C: Building
+D: Package
+---
+Testing
+Coding 
+Package
+</>
+What are the three features of Custom Resource Definitions (CRDs)?
+A: Extend Kubernetes functionality
+B: Make Kubernetes API more modular
+C: Can be engaged with kubectl
+D: Control the install, upgrade, and role-based access control (RBAC) of Operators in a cluster
+---
+Extend Kubernetes functionality
+Make Kubernetes API more modular
+Can be engaged with kubectl
+</>
+What packages, deploys, and manages native apps in Kubernetes?
+A: A ReplicaSet
+B: An Operator 
+C: A Deployment
+D:  A Container
+---
+An Operator 
+</>
+In Istio, what handles communication between services?
+A: The data plane
+B: The control plane
+C: The proxy server
+D: Environmental changes 
+---
+The data plane
+</>
+What provides traffic management to control the flow of traffic between Services?
+A: An autoscaler
+B: Kubectl
+C: A container
+D: A service mesh
+---
+A service mesh
+</>
+Twelve factor methodology expects the processes to be: Select two answers.
+A: Generating and maintaining logging mechanism
+B: Embedding config details
+C: Centrally store the data
+D: Stateless and share nothing
+---
+Centrally store the data
+Stateless and share nothing
+</>
+In a microservices architecture you should segregate services based on ______ 
+A: Dependencies
+B: Release cycles
+C: Functional requirements
+D: Different configuration
+---
+Functional requirements
+</>
+SOA components are:
+A: Tightly coupled
+B: Agile
+C: Simple
+D: Reusable
+---
+Reusable
+</>
+Single page application (SPA): Select two answers:
+A: Updates dynamically using calls to backing REST-based services
+B: Is built using HTML, CSS and JavaScript
+C: Supports side-by-side implementation
+D: Inserts a layer between user experience and the resource that calls it
+---
+Updates dynamically using calls to backing REST-based services
+Is built using HTML, CSS and JavaScript
+</>
+Microservices should have:
+A: Automation for deployment and monitoring
+B: Dependencies on other services
+C: Shared storage
+D: Custom logging functionality
+---
+Automation for deployment and monitoring
+</>
+Which phase of the Twelve-Factor Methodology contains Port binding?
+A: Configure
+B: Operate
+C: Code
+D: Deploy
+---
+Deploy
+</>
+What makes an application concurrent?
+A: It should be stateless
+B: It should have a minimal process start time
+C: It should store config in environment variables
+D: It should contain the same backend services across environments
+---
+It should be stateless
+</>
+In a microservice architecture, you should
+A: Create interdependency among services
+B: Deploy all services together
+C: Use a different technology stack for each service
+D: Scale all services together
+---
+Use a different technology stack for each service
+</>
+Select the correct answer that completes this sentence: 
+Monolith application has __________ components. 
+A: Interconnected
+B: Independent
+C: Scalable
+D: Reusable
+---
+Interconnected
+</>
+Which component of services design in an SOA architecture defines how the service provider and service consumer should interact?
+A:  Interface
+B: Implementation
+C: Contract
+D: Own storage
+---
+Contract
+</>
+What is the purpose of Backend For Frontend?
+A: Customized user experiences
+B: Service discovery
+C: Refactoring in stages
+D: Loading one interface that never reloads
+---
+Customized user experiences
+</>
+What is the purpose of the Strangler pattern?
+A: Combine functional domains
+B: Supports refactoring in stages
+C: Simplifies the front-end experience
+D: Helps with third-party API integrations
+---
+Supports refactoring in stages
+</>
+Larger services should be broken into smaller services when:
+A: Functional reusability is required
+B: Automation is required
+C: Refactoring is required
+D: Common data model becomes overly complex
+---
+Common data model becomes overly complex
+</>
+What is the requirement of Microservices?
+A: Its own implementation of auxiliary services like loggings, security, throttling, and so on
+B: Manual deployment process
+C: Coarse-grained functionality
+D: Independent storage
+---
+Independent storage
+</>
+What is the requirement of a development and production environment?
+A: Different dependencies
+B: Embedded access details in code
+C: Similar backing services across the environments.
+D: Different source control
+---
+Similar backing services across the environments.
+</>
+Which HTTP method and endpoint should be used to get a resource from a REST endpoint?
+A: GET /products?productId=145
+B: GET /products/productId/145
+C: GET /products/145/a4-notebook
+D: GET /products/145
+---
+GET /products/145
+</>
+Which microservice identifies the users on the platform?
+A: Order service
+B: Inventory service
+C: Product information
+D: Authentication service
+---
+Authentication service
+</>
+What does an OpenAPI specification define? 
+A: Supported operations by your API
+B: Documentation standard 
+C: Anonymous access for all operations 
+D: Only input parameters of your API
+---
+Supported operations by your API
+</>
+What is a key feature of Postman?
+A: It only shows output in JSON
+B: It only supports the GET request 
+C: It is an online-only tool
+D: It is a tool to test APIs 
+---
+It is a tool to test APIs 
+</>
+What is the SciPy library in Python used for? 
+A: Machine learning
+B: Web development
+C: Artificial intelligence
+D: Scientific and numeric computing 
+---
+Scientific and numeric computing 
+</>
+What are the key characteristics of a RESTful API? Select two answers.
+A: It works on HTTP
+B: Unique interface for each component
+C: Stateless communication between client and server
+D: One API to access all resources
+---
+It works on HTTP
+Stateless communication between client and server
+</>
+What does an API Gateway act as?
+A: A load balancer for your hosted services
+B: A firewall to protect your microservices
+C: A streaming service
+D: An API management tool
+---
+An API management tool
+</>
+Which syntax is used to make an update request to a product REST API?
+A: PUT /products/114 (product data in the body)
+B: PUT /products/114/name/Calendar2023
+C: POST /products (product data in the body)
+D: GET /products/114?updatedName=Calendar2023
+---
+PUT /products/114 (product data in the body)
+</>
+Which type of framework is Flask?
+A: Micro web
+B: Frontend
+C: Database
+D: REST API
+---
+Micro web
+</>
+Which one of the following statements is true about communication in a RESTful API?
+A: Session state is kept entirely on the REST API.
+B: A request can take advantage of any stored context on the server.
+C: Each request does not contain all information. 
+D: Resources are uniquely identified at individual endpoints. 
+---
+Resources are uniquely identified at individual endpoints. 
+</>
+What are the potential drawbacks of an API Gateway? Select two answers.
+A: Increases requests to the backend 
+B: Single point of failure
+C: Bottleneck in scalability
+D: Exposes the implementation details
+---
+Single point of failure
+Bottleneck in scalability
+</>
+Which specification is followed by Swagger?
+A: SOA
+B: WebAPI
+C: OpenAPI
+D: GraphQL
+---
+OpenAPI
+</>
+Which cURL command should be used to query a list of products?
+A: curl -X 'PUT' \
+ 'http://127.0.0.1:5000/products' \
+ -H 'accept: application/json'
+B: curl -X 'PATCH' \
+ 'http://127.0.0.1:5000/products' \
+ -H 'accept: application/json'
+C: curl -X 'GET' \
+ 'http://127.0.0.1:5000/products' \
+ -H 'accept: application/json'
+D: curl -X 'POST' \
+ 'http://127.0.0.1:5000/products' \
+ -H 'accept: application/json'
+---
+curl -X 'GET' \
+ 'http://127.0.0.1:5000/products' \
+ -H 'accept: application/json'
+</>
+Which HTTP method is used to create new data in a REST API?
+A: POST
+B: UPDATE
+C: PATCH
+D: PUT
+---
+POST
+</>
+What is the purpose of Postman?
+A: Transfers applications 
+B: Uniform interface for different components
+C: Command line tool to get data
+D: Tests APIs
+---
+Tests APIs
+</>
+A Serverless computer is a combination of which of the following services? Select two answers.
+A: Platform as a Service
+B: Function as a Service
+C: Backend as a Service
+D: Infrastructure as a Service
+---
+Function as a Service
+Backend as a Service
+</>
+Which of the following is a benefit of a Serverless computing model?
+A: Only paying for use
+B: Fine grain hardware control
+C: Persistent state
+D: Low latency
+---
+Only paying for use
+</>
+Which service is provided by Function-as-a-Service or FaaS, a Cloud Computing service?
+A: Stores data in file storage
+B: Provides notifications
+C: Identifies and forwards requests
+D: Executes code in response to events
+---
+Executes code in response to events
+</>
+Which language writes Serverless Framework?
+A: Java
+B: Python
+C: C#
+D: Node.js
+---
+Node.js
+</>
+How can you utilize Serverless Reference Architecture for an Event streaming use case? Select two answers.
+A: Create dependencies on other resources
+B: You can trigger your application using publisher-subscriber topics
+C: You can trigger your application using HTTP events
+D: You can update secondary data stores and caches
+---
+You can trigger your application using publisher-subscriber topics
+You can update secondary data stores and caches
+</>
+Cloud Native Computing Foundation (CNCF) defines ‘serverless’ as the concept of building and running applications that do not require _______ management.
+A: database
+B: backend
+C: server
+D: network
+---
+server
+</>
+Cloud provider is responsible for which of the following components in the Serverless model? Select three answers.
+A: Storage
+B: Application
+C: Network
+D: OS
+---
+Storage
+Network
+OS
+</>
+___________ is a Serverless computing constraint.
+A: Scalability
+B: Idle time
+C: Vendor lock-in
+D: Language independence
+---
+Vendor lock-in
+</>
+Managing which one of the following is your responsibility in a Serverless computing model?
+A: Hardware
+B: Code
+C: Operating System
+D: Deployment
+---
+Code
+</>
+Which one is the key characteristic of a function in FaaS model?
+A: Scale automatically and independently as required
+B: Be stateful
+C: Keep running even when there are no requests
+D: Let you define your infrastructure
+---
+Scale automatically and independently as required
+</>
+A _________ is an independent unit of execution and deployment in the Serverless Framework.
+A: Resource
+B: Service
+C: Function
+D: Event
+---
+Function
+</>
+What is the responsibility of the Front End in a Serverless Architecture?
+A: Provide scaling
+B: Store data
+C: Host static content and scripts
+D: Host business logic
+---
+Host static content and scripts
+</>
+Which is an example of post-processing in the Serverless Reference Architecture?
+A: You could apply artificial intelligence or image recognition to upload images
+B: You could provide user registration and authentication
+C: You enable access to backend
+D: You could use messaging to notify multiple subscribers
+---
+You could apply artificial intelligence or image recognition to upload images
+</>
+Which is the key characteristic of IBM Cloud Functions?
+A: No disaster recovery
+B: Limited integration options
+C: No debugging capabilities
+D: Cost-Effective and Highly Available
+---
+Cost-Effective and Highly Available
+</>
+The Knative platform is offered by which service provider?
+A: Open-source option for Serverless
+B: Offered by Amazon AWS
+C: Offered by Microsoft Azure
+D: Offered by Google
+---
+Open-source option for Serverless
+</>
+Which of the following is a challenge of deploying microservices?
+A: Need to create publicly accessible entry points/URLs for your microservices
+B: Require dynamic scaling of your microservice instances
+C: Require building and testing of your microservices
+D: Require you to connect two microservices via REST APIs
+---
+Require dynamic scaling of your microservice instances
+</>
+Which of the following statements about IBM Cloud Code Engine project and application is correct?
+A: You can have two applications with the same name in two different projects.
+B: You are allowed to create only one application for each project.
+C: You can have two applications with the same name in one project.
+D: You are allowed to create only one project under your IBM Cloud account.
+---
+You can have two applications with the same name in two different projects.
+</>
+Which of the following is a feature of containers?
+A: It is not portable
+B: It is suitable for microservice architecture
+C: It runs on specific devices
+D: It is dependent on other software for execution
+---
+It is suitable for microservice architecture
+</>
+Which are the two main interfaces to deploy applications on IBM Cloud Code Engine?
+A: IBM Cloud Console and IBM Cloud CLI
+B: REST APIs and IBM Cloud Console
+C: Secure Copy Protocol (SCP) and REST API
+D: IBM Cloud CLI and REST APIs
+---
+IBM Cloud Console and IBM Cloud CLI
+</>
+Which is a feature of Code Engine Jobs?
+A: Designed for one-time execution of your code
+B: Once deployed, Job provides publicly accessible web end points
+C: Data processing tasks cannot be deployed as Jobs.
+D: Only one job instance can be deployed.
+---
+Designed for one-time execution of your code
+</>
+What is the main benefit of using PaaS, such as IBM Cloud Code Engine, to deploy your microservices?
+A: Provides a design to run a single type of workload
+B: Scales your microservices manually based on predefined rules and configurations
+C: Provides fully managed deployment services to help your deployment process with minimal efforts
+D: Enables handling of the full deployment process by a single user
+---
+Provides fully managed deployment services to help your deployment process with minimal efforts
+</>
+What are the three deployment modes of IBM Cloud Code Engine?
+A: (1) Build and deploy applications from source code. (2) Deploy container image-based applications, and (3) Run Jobs
+B: (1) Run REST APIs, (2) Build and Run Source Code, and (3) Run Jobs
+C: (1) Build and deploy applications from source code. (2) Deploy container image-based applications and (3) REST APIs
+D: (1) SCP. (2) TCP, and (3) HTTP
+---
+(1) Build and deploy applications from source code. (2) Deploy container image-based applications, and (3) Run Jobs
+</>
+Which of the following statement is correct about Code Engine project and application?
+A: A project in IBM Cloud Code Engine acts like a namespace so that you can create and deploy multiple applications even with the same name across projects.
+B: A project can only contain one application.
+C: You can have two applications sharing the same name in the same project.
+D: A project in IBM Cloud Code Engine acts like a namespace so that you can only create one project under your account.
+---
+A project in IBM Cloud Code Engine acts like a namespace so that you can create and deploy multiple applications even with the same name across projects.
+</>
+What are the two main application-building methods supported in IBM Cloud Code Engine?
+A: Building container image with DockerHub and Buildpack.
+B: Building container image with Github Action and DockerHuB:
+C: Building container image with Dockerpack and Buildpack.
+D: Building container image with Dockerfile and Buildpack.
+---
+Building container image with Dockerfile and Buildpack.
+</>
+What is the role of docker in container technology?
+A: An application development and testing IDE
+B: A cloud tool to scan your container images for security vulnerabilities
+C: A container orchestration platform
+D: A software platform for building and running applications as containers
+---
+A software platform for building and running applications as containers
+</>
+What is normally the first command of a Dockerfile?
+A: FROM
+B: EXPOSE
+C: COPY
+D: CMD
+---
+FROM
+</>
+What is a container registry?
+A: A software platform to build a container image
+B: A cloud IDE to develop container
+C: A cloud platform to deploy container images.
+D: A container repository where your pushed container images are curated
+---
+A container repository where your pushed container images are curated
+</>
+Once your microservice or web application is deployed, how can you test it?
+A: IBM Cloud Code Engine will provide a URL for you to run or test your service or application.
+B: You can only verify your application’s running status via log files.
+C: IBM Cloud Code Engine will provide a container image reference for you to test your application.
+D: IBM Cloud Code Engine will provide a URL to download your microservice, and then you can unzip and run it.
+---
+IBM Cloud Code Engine will provide a URL for you to run or test your service or application.
+</>
+What is the correct IBM Cloud CLI command to create and deploy an application?
+A: "app create --name helloworldapp --image us.icr.io/mynamespace/hello_repo --registry-secret myregistry"
+B: "ibmcloud ce app create --name helloworldapp --image us.icr.io/mynamespace/hello_repo --registry-secret myregistry"
+C: "ibmcloud ce app create –image us.icr.io/mynamespace/hello_repo --registry-secret myregistry."
+D: " ibmcloud ce createapp --n helloworldapp --i us.icr.io/mynamespace/hello_repo"
+---
+"ibmcloud ce app create --name helloworldapp --image us.icr.io/mynamespace/hello_repo --registry-secret myregistry"
+</>
+Which method is used by the IBM Cloud Code Engine to access your container image?
+A: From the Private container registry only
+B: From both public and private container registry
+C: From the public container registry only
+D: From the source code
+---
+From both public and private container registry
+</>
