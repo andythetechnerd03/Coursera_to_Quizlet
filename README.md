@@ -17,6 +17,7 @@ Do mình học AI và Khóa K17 của tụi mình có một số môn mới nên
 - Trong code mình có ngăn cách câu hỏi và đáp án bằng --- , còn giữa 2 câu hỏi thì dùng  </>.
 - Khi import suộc vào Quizlet, các bạn bấm import và nhập vào giống như ảnh dưới đây.
 ![image](https://github.com/andythetechnerd03/Coursera_to_Quizlet/assets/101492362/cc70c85e-2ec2-4d12-9957-657c92e51338)
+- **Lưu ý**: một vài câu có thể do định dạng hay cái gì đó nên sẽ bị lỗi khi lưu suộc vào Quizlet, nên các bạn nhớ làm file nào import từng file vào, tránh import hết.
 
 
 ## Credits: Đinh Ngọc Ân (andy)
